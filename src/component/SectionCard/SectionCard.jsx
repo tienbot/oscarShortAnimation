@@ -2,12 +2,16 @@ import s from './SectionCard.module.css'
 import { Container } from '../../layout/Container/Container'
 import { data } from '../../data'
 import { Card } from '../Card/Card'
+import { useNavigate } from 'react-router-dom'
 
 export const SectionCard = () => {
+    const navigate = useNavigate()
+
     return <section className={s.sectionCard}>
         <Container>
             <div className={s.sectionCard__content}>
-                {data.map((el)=><Card
+                {data.map((el, index)=><Card
+                    index = {index}
                     name = {el.name}
                     originalName = {el.originalName}
                     nominatedYear = {el.nominatedYear}
@@ -30,6 +34,7 @@ export const SectionCard = () => {
                     description= {el.description}
                     poster= {`${import.meta.env.BASE_URL}${el.poster}`}
                     video= {el.video}
+                    onClick = {() => navigate('/FilmPage')}
                 />)}
             </div>
         </Container>

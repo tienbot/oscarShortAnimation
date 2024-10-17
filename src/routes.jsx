@@ -1,21 +1,20 @@
 import { createBrowserRouter } from "react-router-dom";
-import App from './App'
-import App2 from './App2'
-
+import { Main } from "./pages/Main/Main";
+import { FilmPage } from "./pages/FilmPage/FilmPage";
 
 const router = createBrowserRouter([
     {
-        path: '/',
-        element : <App/>
+        path: '/oscarShortAnimation',
+        element: <Main />
     },
     {
-        path: '/App2',
-        element : <App2/>
+        path: '/oscarShortAnimation/film/:id',
+        element: <FilmPage />
     },
     {
         path: '*',
-        element : <div>Error: Page is not found</div>
+        element: <div>Error: Page is not found</div>
     },
-])
+]);
 
 export default router;

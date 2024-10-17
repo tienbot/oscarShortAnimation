@@ -1,9 +1,11 @@
+import { Link } from "react-router-dom";
 import s from './Card.module.css'
 // import img from '../../assets/posters/2022/1.webp'
 
-export const Card = ({name, originalName, nominatedYear, isWin, yearProduction, platform, country, genre, slogan, director, scenario, producer, operator, composer, artist, installation, worldPremiere, age, time, description, poster, video}) => {
+export const Card = ({index, name, originalName, nominatedYear, isWin, yearProduction, platform, country, genre, slogan, director, scenario, producer, operator, composer, artist, installation, worldPremiere, age, time, description, poster, video, onClick}) => {
+    
     return <>
-         <article className={s.card}>
+         <article key={index} className={s.card}>
             {/* <img className={s.card__img} src={poster} alt={originalName} /> */}
             <img className={s.card__img} src={poster} alt={originalName} />
             {/* <p className={s.card__name}>{name}</p> */}
@@ -27,12 +29,13 @@ export const Card = ({name, originalName, nominatedYear, isWin, yearProduction, 
             <p>{time}</p>
             <p>{description}</p>
             <p>{video}</p> */}
-            <div className={s.card__info}>
-                 <p className={s.card__name}>{name} ({yearProduction})</p>
-                 <p>{description}</p>
-                 <p>Длительность - {time}</p>
-            </div>
+            <Link to={`/oscarShortAnimation/film/${index}`}>
+                <div className={s.card__info} onClick={onClick}>
+                    <p className={s.card__name}>{name} ({yearProduction})</p>
+                    <p>{description}</p>
+                    <p>Длительность - {time}</p>
+                </div>
+            </Link>
         </article>
-
     </>
 }
