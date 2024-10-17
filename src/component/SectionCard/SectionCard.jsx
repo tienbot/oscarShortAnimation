@@ -11,6 +11,7 @@ export const SectionCard = () => {
         <Container>
             <div className={s.sectionCard__content}>
                 {data.map((el, index)=><Card
+                    key = {index}
                     index = {index}
                     name = {el.name}
                     originalName = {el.originalName}
@@ -34,7 +35,6 @@ export const SectionCard = () => {
                     description= {el.description}
                     poster= {`${import.meta.env.BASE_URL}${el.poster}`}
                     video= {el.video}
-                    onClick = {() => navigate('/FilmPage')}
                 />)}
             </div>
         </Container>

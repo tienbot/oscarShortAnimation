@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import s from './Card.module.css'
 // import img from '../../assets/posters/2022/1.webp'
 
-export const Card = ({index, name, originalName, nominatedYear, isWin, yearProduction, platform, country, genre, slogan, director, scenario, producer, operator, composer, artist, installation, worldPremiere, age, time, description, poster, video, onClick}) => {
+export const Card = ({index, name, originalName, nominatedYear, isWin, yearProduction, platform, country, genre, slogan, director, scenario, producer, operator, composer, artist, installation, worldPremiere, age, time, description, poster, video}) => {
     
     return <>
          <article key={index} className={s.card}>
@@ -30,7 +30,7 @@ export const Card = ({index, name, originalName, nominatedYear, isWin, yearProdu
             <p>{description}</p>
             <p>{video}</p> */}
             <Link to={`/oscarShortAnimation/film/${index}`}>
-                <div className={s.card__info} onClick={onClick}>
+                <div className={s.card__info}>
                     <p className={s.card__name}>{name} ({yearProduction})</p>
                     <p>{description}</p>
                     <p>Длительность - {time}</p>
