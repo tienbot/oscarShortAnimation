@@ -28,7 +28,7 @@ export const SectionCard = () => {
                     age= {el.age}
                     time= {el.time}
                     description= {el.description}
-                    poster= {el.poster}
+                    poster= {`${import.meta.env.BASE_URL}${el.poster}`}
                     video= {el.video}
                 />)}
             </div>

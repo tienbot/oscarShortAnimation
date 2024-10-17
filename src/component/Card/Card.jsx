@@ -1,9 +1,10 @@
 import s from './Card.module.css'
-import img from '../../assets/posters/2022/1.webp'
+// import img from '../../assets/posters/2022/1.webp'
 
 export const Card = ({name, originalName, nominatedYear, isWin, yearProduction, platform, country, genre, slogan, director, scenario, producer, operator, composer, artist, installation, worldPremiere, age, time, description, poster, video}) => {
     return <>
          <article className={s.card}>
+            {/* <img className={s.card__img} src={poster} alt={originalName} /> */}
             <img className={s.card__img} src={poster} alt={originalName} />
             {/* <p className={s.card__name}>{name}</p> */}
             {/* <p>{originalName}</p>
