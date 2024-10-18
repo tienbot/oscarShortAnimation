@@ -69,7 +69,8 @@ export const data = [
         time: '15 мин', 
         description: 'Сидя в кафе и непрерывно куря, мужчина задается вопросом, что такое любовь.',
         poster: '/posters/2022/1.webp',
-        video: 'https://tapeop.dev/?movie=1346747012'
+        video: 'https://tapeop.dev/?movie=1346747012',
+        kinopoisk: 'https://www.kinopoisk.ru/film/4470495/'
     },
     {
         name: 'Дела искусства',
@@ -93,7 +94,8 @@ export const data = [
         time: '16 мин', 
         description: 'О том, сколько навязчивых идей может поразить одну семью.',
         poster: '/posters/2022/2.webp',
-        video: 'https://mega.nz/embed/AxBUFQRA#ON93lgwXpkcPYwjDSa0-MbZYfuLUYaRzdI4bzES9t4Q'
+        video: 'https://mega.nz/embed/AxBUFQRA#ON93lgwXpkcPYwjDSa0-MbZYfuLUYaRzdI4bzES9t4Q',
+        kinopoisk: 'https://www.kinopoisk.ru/film/4853661/'
     },
     {
         name: 'БоксБалет',
@@ -117,7 +119,8 @@ export const data = [
         time: '15 мин', 
         description: 'Контраст между грубым внешним и неочевидным чувственным внутренним, противопоставление формы содержанию, сила воздействия одного на другое и вообще возможность такового влияния: все эти вопросы, безусловно отсылающие нас к одной из важнейших философских проблем - «быть и казаться», являются ключевыми в понимании этой истории.',
         poster: '/posters/2022/3.webp',
-        video: 'https://vk.com/video-31920686_456240506'
+        video: 'https://vk.com/video-31920686_456240506',
+        kinopoisk: 'https://www.kinopoisk.ru/film/1378921/'
     },
     {
         name: 'Робин',
@@ -141,7 +144,8 @@ export const data = [
         time: '32 мин', 
         description: 'Яйцо, из которого появилась Робин, случайно попало на свалку — так она оказалась в любящей семье мышей. Со временем их различия становятся всё более очевидны. Решив доказать родным, что из неё выйдет отличная мышь, Робин решается на ограбление века.',
         poster: '/posters/2022/4.webp',
-        video: 'https://tapeop.dev/?movie=1640236055'
+        video: 'https://tapeop.dev/?movie=1640236055',
+        kinopoisk: 'https://www.kinopoisk.ru/film/1345142/'
     },
     {
         name: 'Зверь',
@@ -165,7 +169,8 @@ export const data = [
         time: '16 мин', 
         description: 'Чили, 1975 год. Ингрид работает в Управление национальной разведки. Ее отношения с собакой, своим телом, страхами и разочарованиями становятся переломными для ее сознания.',
         poster: '/posters/2022/5.webp',
-        video: 'https://youtu.be/1qmI0o9BsZo?si=q0gGEVPMrSrKRv_p'
+        video: 'https://youtu.be/1qmI0o9BsZo?si=q0gGEVPMrSrKRv_p',
+        kinopoisk: 'https://www.kinopoisk.ru/film/4640766/'
     },
     {
         name: 'Мальчик, Крот, Лис и Конь',
@@ -189,7 +194,8 @@ export const data = [
         time: '32 мин', 
         description: 'Гуляя в зимнем лесу, мальчик встречает крота, лиса и коня, с которыми ведёт разговоры о доброте, пирогах, любви к себе и доме. Несмотря на многочисленные различия, компании удаётся найти общий язык и хорошо провести время.',
         poster: '/posters/2023/1.webp',
-        video: 'https://tapeop.dev/?movie=1109537782'
+        video: 'https://tapeop.dev/?movie=1109537782',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5138530/'
     },
     {
         name: 'Страус сказал мне, что мир фальшив, и я думаю, что верю в это',
@@ -213,7 +219,8 @@ export const data = [
         time: '11 мин', 
         description: 'История офисного сотрудника, которому говорящий страус помогает выявить недостатки в его личной вселенной.',
         poster: '/posters/2023/2.webp',
-        video: 'https://mega.nz/embed/Vl4S2apB#Xz5a1JODS5biuwVWbQJ9dHh-5JeBNgURRJu3h0hSv7s'
+        video: 'https://mega.nz/embed/Vl4S2apB#Xz5a1JODS5biuwVWbQJ9dHh-5JeBNgURRJu3h0hSv7s',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5248891/'
     },
     {
         name: 'Мой год членов',
@@ -237,7 +244,8 @@ export const data = [
         time: '24 мин', 
         description: 'Техас, 1991 год. 15-летняя Пэм настойчиво пытается лишиться девственности, но её фантазии о первом опыте сексуального контакта не соответствуют суровой реальности. С этого момента Пэм начинает путешествие, посвящённое самопознанию и сексуальному пробуждению, попутно взрослея, набираясь опыта и совершая серию ошибок.',
         poster: '/posters/2023/3.webp',
-        video: 'https://dl1.vibio.tv/4d9452b347c4e4a1a3898671a1aead3d/2953/2953788/output.lq.mp4'
+        video: 'https://dl1.vibio.tv/4d9452b347c4e4a1a3898671a1aead3d/2953/2953788/output.lq.mp4',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5165441/'
     },
     {
         name: 'Летающий моряк',
@@ -261,7 +269,8 @@ export const data = [
         time: '8 мин', 
         description: 'Два корабля сталкиваются в гавани, отправляя проходящего мимо моряка ввысь, и он созерцает чудо и хрупкость существования.',
         poster: '/posters/2023/4.webp',
-        video: 'https://tapeop.dev/?movie=523564456'
+        video: 'https://tapeop.dev/?movie=523564456',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5136457/'
     },
     {
         name: 'Продавцы льда',
@@ -285,7 +294,8 @@ export const data = [
         time: '14 мин', 
         description: 'Отец и сын живут на вершине скалы. Каждый день они спускаются вниз на парашютах, чтобы продавать лёд в деревушке, расположенной под их скалой.',
         poster: '/posters/2023/5.webp',
-        video: 'https://tapeop.dev/?movie=699455597'
+        video: 'https://tapeop.dev/?movie=699455597',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5234141/'
     },
     {
         name: 'Война окончена! Вдохновлено музыкой Джона и Йоко',
@@ -309,7 +319,8 @@ export const data = [
         time: '11 мин', 
         description: '',
         poster: '/posters/2024/1.webp',
-        video: 'https://tapeop.dev/?movie=1538888812'
+        video: 'https://tapeop.dev/?movie=1538888812',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5445934/'
     },
     {
         name: 'Письмо свинье',
@@ -333,7 +344,8 @@ export const data = [
         time: '17 мин', 
         description: 'В День памяти переживший Холокост старик перед классом школьников зачитывает письмо, которое он написал свинье, спасшей ему жизнь. После этого одной ученице видится трагическая версия его истории.',
         poster: '/posters/2024/2.webp',
-        video: 'https://mega.nz/embed/J9hgGAib#kWhfuq8JhWyhKCM4uUBkYtBFA4edQI-jOIx6co3DMDs'
+        video: 'https://mega.nz/embed/J9hgGAib#kWhfuq8JhWyhKCM4uUBkYtBFA4edQI-jOIx6co3DMDs',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5355992/'
     },
     {
         name: 'Наша униформа',
@@ -357,7 +369,8 @@ export const data = [
         time: '7 мин', 
         description: '',
         poster: '/posters/2024/3.webp',
-        video: ''
+        video: '',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5445935/'
     },
     {
         name: 'Девяносто пять чувств',
@@ -381,7 +394,8 @@ export const data = [
         time: '14 мин', 
         description: 'Рассказ о пяти органах чувств человека, у которого осталось не так много времени насладиться ими.',
         poster: '/posters/2024/4.webp',
-        video: 'https://mega.nz/embed/Aw52TI5b#htamumazk4n_1mFZu6LIYVS1bWDUbUvkC3z1HCaH-Wo'
+        video: 'https://mega.nz/embed/Aw52TI5b#htamumazk4n_1mFZu6LIYVS1bWDUbUvkC3z1HCaH-Wo',
+        kinopoisk: 'https://www.kinopoisk.ru/film/1312813/'
     },
     {
         name: 'Толстокожий',
@@ -405,6 +419,7 @@ export const data = [
         time: '11 мин', 
         description: 'Как и каждое лето, Луиза остается на несколько дней в деревне у бабушки и дедушки. В разгар этого лета пойдет снег, и толстокожий монстр умрет.',
         poster: '/posters/2024/5.webp',
-        video: 'https://mega.nz/embed/AwAj2DhZ#kwrWDN5jPHx7LccNQfZSwY1bfkdFYHPWixwgVyV6kv8'
+        video: 'https://mega.nz/embed/AwAj2DhZ#kwrWDN5jPHx7LccNQfZSwY1bfkdFYHPWixwgVyV6kv8',
+        kinopoisk: 'https://www.kinopoisk.ru/film/5139401/'
     },
 ];

@@ -34,7 +34,8 @@ export const FilmPage = () => {
         time,
         description,
         poster,
-        video
+        video,
+        kinopoisk
     } = film;
 
     return (
@@ -64,6 +65,7 @@ export const FilmPage = () => {
                 <p>{time}</p>
                 <p>{description}</p>
                 <p>{video}</p>
+                <a target='_blank' href={kinopoisk}>Страница Кинопоиска</a>
             </Container>
         </main>
     );
