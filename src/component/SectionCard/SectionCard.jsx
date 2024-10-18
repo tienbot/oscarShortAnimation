@@ -11,10 +11,10 @@ export const SectionCard = () => {
         <section className={s.sectionCard}>
             <Container>
                 <div className={s.sectionCard__content}>
-                    {reversedData.map((el, index) => (
+                    {reversedData.map((el) => (
                         <Card
-                            key={index}
-                            index={index}
+                            key={el.id}
+                            id={el.id}
                             name={el.name}
                             originalName={el.originalName}
                             nominatedYear={el.nominatedYear}

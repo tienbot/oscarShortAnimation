@@ -48,6 +48,7 @@ export const data = [
     //     video: ''
     // },
     {
+        id: '2022-01',
         name: 'Стеклоочиститель',
         originalName: 'The Windshield Wiper',
         nominatedYear: 2022,
@@ -73,6 +74,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/4470495/'
     },
     {
+        id: '2022-02',
         name: 'Дела искусства',
         originalName: 'Affairs of the Art',
         nominatedYear: 2022,
@@ -98,6 +100,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/4853661/'
     },
     {
+        id: '2022-03',
         name: 'БоксБалет',
         originalName: 'БоксБалет',
         nominatedYear: 2022,
@@ -123,6 +126,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/1378921/'
     },
     {
+        id: '2022-04',
         name: 'Робин',
         originalName: 'Robin Robin',
         nominatedYear: 2022,
@@ -148,6 +152,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/1345142/'
     },
     {
+        id: '2022-05',
         name: 'Зверь',
         originalName: 'Bestia',
         nominatedYear: 2022,
@@ -173,6 +178,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/4640766/'
     },
     {
+        id: '2023-01',
         name: 'Мальчик, Крот, Лис и Конь',
         originalName: 'The Boy, the Mole, the Fox and the Horse',
         nominatedYear: 2023,
@@ -198,6 +204,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/5138530/'
     },
     {
+        id: '2023-02',
         name: 'Страус сказал мне, что мир фальшив, и я думаю, что верю в это',
         originalName: 'An Ostrich Told Me the World Is Fake and I Think I Believe It',
         nominatedYear: 2023,
@@ -223,6 +230,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/5248891/'
     },
     {
+        id: '2023-03',
         name: 'Мой год членов',
         originalName: 'My Year of Dicks',
         nominatedYear: 2023,
@@ -248,6 +256,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/5165441/'
     },
     {
+        id: '2023-04',
         name: 'Летающий моряк',
         originalName: 'The Flying Sailor',
         nominatedYear: 2023,
@@ -273,6 +282,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/5136457/'
     },
     {
+        id: '2023-05',
         name: 'Продавцы льда',
         originalName: 'Ice Merchants',
         nominatedYear: 2023,
@@ -298,6 +308,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/5234141/'
     },
     {
+        id: '2024-01',
         name: 'Война окончена! Вдохновлено музыкой Джона и Йоко',
         originalName: 'War Is Over!',
         nominatedYear: 2024,
@@ -323,6 +334,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/5445934/'
     },
     {
+        id: '2024-02',
         name: 'Письмо свинье',
         originalName: 'Letter to a Pig',
         nominatedYear: 2024,
@@ -348,6 +360,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/5355992/'
     },
     {
+        id: '2024-03',
         name: 'Наша униформа',
         originalName: 'Our Uniform',
         nominatedYear: 2024,
@@ -373,6 +386,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/5445935/'
     },
     {
+        id: '2024-04',
         name: 'Девяносто пять чувств',
         originalName: 'Ninety-Five Senses',
         nominatedYear: 2024,
@@ -398,6 +412,7 @@ export const data = [
         kinopoisk: 'https://www.kinopoisk.ru/film/1312813/'
     },
     {
+        id: '2024-05',
         name: 'Толстокожий',
         originalName: 'Pachyderme',
         nominatedYear: 2024,
