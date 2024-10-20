@@ -1,1 +1,62 @@
 .FilmPage {}
+
+.filmPage__content{
+    display: grid;
+    /* flex-wrap: wrap; */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.filmPage__img{
+    width: 100%;
+    max-width: 500px;
+}
+.filmPage__img img{
+    display: block;
+    width: 100%;
+}
+
+.filmPage__info{
+    width: 100%;
+    text-align: left;
+}
+
+.filmPage__content{
+    display: flex;
+    gap: 30px;
+}
+
+.filmPage__content_left{
+    max-width: 150px;
+    width: 100%;
+}
+
+.filmPage__kinopoisk{
+    display: block;
+    margin-bottom: 48px;
+}
+
+.filmPage__descr{
+    margin-bottom: 30px;
+}
+
+.backLink{
+    display: block;
+    margin-bottom: 30px;
+    outline: 1px white solid;
+    padding: 10px;
+    border-radius: 25px;
+    width: max-content;
+}
+
+
+.backLink:hover{
+    background-color: #000000eb;
+}
+
+@media screen and (max-width: 768px) {
+    .filmPage__content{
+        flex-wrap: wrap;
+    }
+}

@@ -2,6 +2,7 @@ import { useParams, Link } from "react-router-dom";
 import { Container } from '../../layout/Container/Container';
 import s from './FilmPage.module.css';
 import { data } from "../../data";
+import VkVideo from '../../component/VkVideo/VkVideo'
 
 export const FilmPage = () => {
     const { id } = useParams();
@@ -41,33 +42,82 @@ export const FilmPage = () => {
     return (
         <main>
             <Container>
-                <Link to="/oscarShortAnimation" className={s.backLink}>Back to Home</Link>
-                <h1>{name}</h1>
-                <p>{originalName}</p>
-                <img className={s.card__img} src={`${import.meta.env.BASE_URL}${poster}`} alt={originalName} />
-                <p>Год номинации  {nominatedYear}</p>
-                {/* <p>{isWin}</p> */}а÷
-                <p>Год производства  {yearProduction}</p>
-                {platform && <p>Платформа {platform}</p>}
-                <p>Страна  {country}</p>
-                {genre && <p>Жанр  {genre}</p>}
-                {slogan && <p>Слоган {slogan}</p>}
-                <p>Режиссер {director}</p>
-                <p>Сценарий {scenario}</p>
-                <p>Продюссер {producer}</p>
-                {operator && <p>Оператор {operator}</p>}
-                {composer && <p>Композитор {composer}</p>}
-                {artist && <p>Художник {artist}</p>}
-                {installation && <p>Монтажер {installation}</p>}
-                <p>Премьера в мире {worldPremiere}</p>
-                {age && <p>Возрастное ограничение {age}</p>}
-                <p>Время {time}</p>
-                <p>{description}</p>
-                {/* <p>{video}</p> */}
-                <div>
-                    <iframe src={video} width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+                <Link to="/oscarShortAnimation" className={s.backLink}>← На главную</Link>
+                <div className={s.filmPage__content}>
+                    <div className={s.filmPage__img}>
+                        <img className={s.card__img} src={`${import.meta.env.BASE_URL}${poster}`} alt={originalName} />
+                    </div>
+                    <div className={s.filmPage__info}>
+                        <h1>{name}</h1>
+                        <p>{originalName}</p>
+                        <a className={s.filmPage__kinopoisk} target='_blank' href={kinopoisk} rel="noopener noreferrer">Страница Кинопоиска</a>
+                        <h2>О фильме</h2>
+                        {/* <p>Год номинации: {nominatedYear}</p>
+                        <p>Год производства: {yearProduction}</p>
+                        {platform && <p>Платформа: {platform}</p>}
+                        <p>Страна: {country}</p>
+                        {genre && <p>Жанр: {genre}</p>}
+                        {slogan && <p>Слоган: {slogan}</p>}
+                        <p>Режиссер: {director}</p>
+                        <p>Сценарий: {scenario}</p>
+                        <p>Продюсер: {producer}</p>
+                        {operator && <p>Оператор: {operator}</p>}
+                        {composer && <p>Композитор: {composer}</p>}
+                        {artist && <p>Художник: {artist}</p>}
+                        {installation && <p>Монтажер: {installation}</p>}
+                        <p>Премьера в мире: {worldPremiere}</p>
+                        {age && <p>Возрастное ограничение: {age}</p>}
+                        <p>Время: {time}</p> */}
+                        <div className={s.filmPage__content}>
+                            <div className={s.filmPage__content_left}>
+                                <p>Год номинации:</p>
+                                <p>Год производства:</p>
+                                {platform && <p>Платформа:</p>}
+                                <p>Страна:</p>
+                                {genre && <p>Жанр:</p>}
+                                {slogan && <p>Слоган:</p>}
+                                <p>Режиссер:</p>
+                                <p>Сценарий:</p>
+                                <p>Продюсер:</p>
+                                {operator && <p>Оператор:</p>}
+                                {composer && <p>Композитор:</p>}
+                                {artist && <p>Художник:</p>}
+                                {installation && <p>Монтажер:</p>}
+                                <p>Премьера в мире:</p>
+                                {age && <p>Возрастное ограничение:</p>}
+                                <p>Время:</p>
+                            </div>
+                            <div className="">
+                                <p>{nominatedYear}</p>
+                                <p>{yearProduction}</p>
+                                {platform && <p>{platform}</p>}
+                                <p>{country}</p>
+                                {genre && <p>{genre}</p>}
+                                {slogan && <p>{slogan}</p>}
+                                <p>{director}</p>
+                                <p>{scenario}</p>
+                                <p>{producer}</p>
+                                {operator && <p>{operator}</p>}
+                                {composer && <p>{composer}</p>}
+                                {artist && <p>{artist}</p>}
+                                {installation && <p>{installation}</p>}
+                                <p>{worldPremiere}</p>
+                                {age && <p>{age}</p>}
+                                <p>{time}</p>
+                            </div>
+                        </div>
+                        
+                    </div>
+
                 </div>
-                <a target='_blank' href={kinopoisk}>Страница Кинопоиска</a>
+                
+               
+                <p className={s.filmPage__descr}>{description}</p>
+                {video && (
+                    <div>
+                        <VkVideo video={video} />
+                    </div>
+                )}
             </Container>
         </main>
     );

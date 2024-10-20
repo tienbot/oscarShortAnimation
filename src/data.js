@@ -70,7 +70,8 @@ export const data = [
         time: '15 мин', 
         description: 'Сидя в кафе и непрерывно куря, мужчина задается вопросом, что такое любовь.',
         poster: '/posters/2022/1.webp',
-        video: 'https://tapeop.dev/?movie=1346747012',
+        // video: 'https://tapeop.dev/?movie=1346747012',
+        video: 'https://vk.com/video140140535_456239551',
         kinopoisk: 'https://www.kinopoisk.ru/film/4470495/'
     },
     {
@@ -96,7 +97,8 @@ export const data = [
         time: '16 мин', 
         description: 'О том, сколько навязчивых идей может поразить одну семью.',
         poster: '/posters/2022/2.webp',
-        video: 'https://mega.nz/embed/AxBUFQRA#ON93lgwXpkcPYwjDSa0-MbZYfuLUYaRzdI4bzES9t4Q',
+        video: 'https://vk.com/video-20905395_456240344',
+        // video: 'https://mega.nz/embed/AxBUFQRA#ON93lgwXpkcPYwjDSa0-MbZYfuLUYaRzdI4bzES9t4Q',
         kinopoisk: 'https://www.kinopoisk.ru/film/4853661/'
     },
     {
@@ -148,7 +150,8 @@ export const data = [
         time: '32 мин', 
         description: 'Яйцо, из которого появилась Робин, случайно попало на свалку — так она оказалась в любящей семье мышей. Со временем их различия становятся всё более очевидны. Решив доказать родным, что из неё выйдет отличная мышь, Робин решается на ограбление века.',
         poster: '/posters/2022/4.webp',
-        video: 'https://tapeop.dev/?movie=1640236055',
+        // video: 'https://tapeop.dev/?movie=1640236055',
+        video: 'https://vk.com/video140140535_456239556',
         kinopoisk: 'https://www.kinopoisk.ru/film/1345142/'
     },
     {
@@ -174,7 +177,8 @@ export const data = [
         time: '16 мин', 
         description: 'Чили, 1975 год. Ингрид работает в Управление национальной разведки. Ее отношения с собакой, своим телом, страхами и разочарованиями становятся переломными для ее сознания.',
         poster: '/posters/2022/5.webp',
-        video: 'https://youtu.be/1qmI0o9BsZo?si=q0gGEVPMrSrKRv_p',
+        // video: 'https://youtu.be/1qmI0o9BsZo?si=q0gGEVPMrSrKRv_p',
+        video: 'https://vk.com/video140140535_456239552',
         kinopoisk: 'https://www.kinopoisk.ru/film/4640766/'
     },
     {
@@ -200,7 +204,9 @@ export const data = [
         time: '32 мин', 
         description: 'Гуляя в зимнем лесу, мальчик встречает крота, лиса и коня, с которыми ведёт разговоры о доброте, пирогах, любви к себе и доме. Несмотря на многочисленные различия, компании удаётся найти общий язык и хорошо провести время.',
         poster: '/posters/2023/1.webp',
-        video: 'https://tapeop.dev/?movie=1109537782',
+        // video: 'https://tapeop.dev/?movie=1109537782',
+        // video: 'https://vk.com/video130919424_456244545',
+        video: 'https://vk.com/video-154816652_456241405',
         kinopoisk: 'https://www.kinopoisk.ru/film/5138530/'
     },
     {
@@ -226,7 +232,8 @@ export const data = [
         time: '11 мин', 
         description: 'История офисного сотрудника, которому говорящий страус помогает выявить недостатки в его личной вселенной.',
         poster: '/posters/2023/2.webp',
-        video: 'https://mega.nz/embed/Vl4S2apB#Xz5a1JODS5biuwVWbQJ9dHh-5JeBNgURRJu3h0hSv7s',
+        // video: 'https://mega.nz/embed/Vl4S2apB#Xz5a1JODS5biuwVWbQJ9dHh-5JeBNgURRJu3h0hSv7s',
+        video: 'https://vk.com/video-55244031_456241121',
         kinopoisk: 'https://www.kinopoisk.ru/film/5248891/'
     },
     {
@@ -252,7 +259,8 @@ export const data = [
         time: '24 мин', 
         description: 'Техас, 1991 год. 15-летняя Пэм настойчиво пытается лишиться девственности, но её фантазии о первом опыте сексуального контакта не соответствуют суровой реальности. С этого момента Пэм начинает путешествие, посвящённое самопознанию и сексуальному пробуждению, попутно взрослея, набираясь опыта и совершая серию ошибок.',
         poster: '/posters/2023/3.webp',
-        video: 'https://dl1.vibio.tv/4d9452b347c4e4a1a3898671a1aead3d/2953/2953788/output.lq.mp4',
+        // video: 'https://dl1.vibio.tv/4d9452b347c4e4a1a3898671a1aead3d/2953/2953788/output.lq.mp4',
+        video: 'https://vk.com/video-55244031_456240903',
         kinopoisk: 'https://www.kinopoisk.ru/film/5165441/'
     },
     {
@@ -278,7 +286,8 @@ export const data = [
         time: '8 мин', 
         description: 'Два корабля сталкиваются в гавани, отправляя проходящего мимо моряка ввысь, и он созерцает чудо и хрупкость существования.',
         poster: '/posters/2023/4.webp',
-        video: 'https://tapeop.dev/?movie=523564456',
+        // video: 'https://tapeop.dev/?movie=523564456',
+        video: 'https://vk.com/video-31920686_456240619',
         kinopoisk: 'https://www.kinopoisk.ru/film/5136457/'
     },
     {
@@ -304,7 +313,8 @@ export const data = [
         time: '14 мин', 
         description: 'Отец и сын живут на вершине скалы. Каждый день они спускаются вниз на парашютах, чтобы продавать лёд в деревушке, расположенной под их скалой.',
         poster: '/posters/2023/5.webp',
-        video: 'https://tapeop.dev/?movie=699455597',
+        // video: 'https://tapeop.dev/?movie=699455597',
+        video: 'https://vk.com/video-31920686_456240626',
         kinopoisk: 'https://www.kinopoisk.ru/film/5234141/'
     },
     {
@@ -330,7 +340,7 @@ export const data = [
         time: '11 мин', 
         description: '',
         poster: '/posters/2024/1.webp',
-        video: 'https://tapeop.dev/?movie=1538888812',
+        video: 'https://vk.com/video-189089797_456240737',
         kinopoisk: 'https://www.kinopoisk.ru/film/5445934/'
     },
     {
@@ -356,7 +366,9 @@ export const data = [
         time: '17 мин', 
         description: 'В День памяти переживший Холокост старик перед классом школьников зачитывает письмо, которое он написал свинье, спасшей ему жизнь. После этого одной ученице видится трагическая версия его истории.',
         poster: '/posters/2024/2.webp',
-        video: 'https://mega.nz/embed/J9hgGAib#kWhfuq8JhWyhKCM4uUBkYtBFA4edQI-jOIx6co3DMDs',
+        // video: 'https://mega.nz/embed/J9hgGAib#kWhfuq8JhWyhKCM4uUBkYtBFA4edQI-jOIx6co3DMDs',
+        video: 'https://vk.com/video61950003_456248182',
+        video: 'https://vk.com/video140140535_456239544',
         kinopoisk: 'https://www.kinopoisk.ru/film/5355992/'
     },
     {
@@ -382,7 +394,7 @@ export const data = [
         time: '7 мин', 
         description: '',
         poster: '/posters/2024/3.webp',
-        video: '',
+        video: 'https://vk.com/video140140535_456239555',
         kinopoisk: 'https://www.kinopoisk.ru/film/5445935/'
     },
     {
@@ -408,7 +420,8 @@ export const data = [
         time: '14 мин', 
         description: 'Рассказ о пяти органах чувств человека, у которого осталось не так много времени насладиться ими.',
         poster: '/posters/2024/4.webp',
-        video: 'https://mega.nz/embed/Aw52TI5b#htamumazk4n_1mFZu6LIYVS1bWDUbUvkC3z1HCaH-Wo',
+        // video: 'https://mega.nz/embed/Aw52TI5b#htamumazk4n_1mFZu6LIYVS1bWDUbUvkC3z1HCaH-Wo',
+        video: 'https://vk.com/video140140535_456239550',
         kinopoisk: 'https://www.kinopoisk.ru/film/1312813/'
     },
     {
@@ -434,7 +447,8 @@ export const data = [
         time: '11 мин', 
         description: 'Как и каждое лето, Луиза остается на несколько дней в деревне у бабушки и дедушки. В разгар этого лета пойдет снег, и толстокожий монстр умрет.',
         poster: '/posters/2024/5.webp',
-        video: 'https://mega.nz/embed/AwAj2DhZ#kwrWDN5jPHx7LccNQfZSwY1bfkdFYHPWixwgVyV6kv8',
+        // video: 'https://mega.nz/embed/AwAj2DhZ#kwrWDN5jPHx7LccNQfZSwY1bfkdFYHPWixwgVyV6kv8',
+        video: 'https://vk.com/video140140535_456239549',
         kinopoisk: 'https://www.kinopoisk.ru/film/5139401/'
     },
 ];
