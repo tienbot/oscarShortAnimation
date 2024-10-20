@@ -63,7 +63,10 @@ export const FilmPage = () => {
                 {age && <p>Возрастное ограничение {age}</p>}
                 <p>Время {time}</p>
                 <p>{description}</p>
-                <p>{video}</p>
+                {/* <p>{video}</p> */}
+                <div>
+                    <iframe src={video} width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+                </div>
                 <a target='_blank' href={kinopoisk}>Страница Кинопоиска</a>
             </Container>
         </main>
