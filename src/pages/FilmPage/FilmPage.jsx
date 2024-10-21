@@ -53,48 +53,75 @@ export const FilmPage = () => {
                         <a className={s.filmPage__kinopoisk} target='_blank' href={kinopoisk} rel="noopener noreferrer">Страница Кинопоиска</a>
                         <h2>О фильме</h2>
                         <div className={s.filmPage__content}>
-                            <div className={s.filmPage__content_left}>
-                                <p>Год номинации:</p>
-                                <p>Год производства:</p>
-                                {platform && <p>Платформа:</p>}
-                                <p>Страна:</p>
-                                {genre && <p>Жанр:</p>}
-                                {slogan && <p>Слоган:</p>}
-                                <p>Режиссер:</p>
-                                <p>Сценарий:</p>
-                                <p>Продюсер:</p>
-                                {operator && <p>Оператор:</p>}
-                                {composer && <p>Композитор:</p>}
-                                {artist && <p>Художник:</p>}
-                                {installation && <p>Монтажер:</p>}
-                                <p>Премьера в мире:</p>
-                                {age && <p>Возрастное ограничение:</p>}
-                                <p>Время:</p>
-                            </div>
-                            <div className="">
-                                <p>{nominatedYear}</p>
-                                <p>{yearProduction}</p>
-                                {platform && <p>{platform}</p>}
-                                <p>{country}</p>
-                                {genre && <p>{genre}</p>}
-                                {slogan && <p>{slogan}</p>}
-                                <p>{director}</p>
-                                <p>{scenario}</p>
-                                <p>{producer}</p>
-                                {operator && <p>{operator}</p>}
-                                {composer && <p>{composer}</p>}
-                                {artist && <p>{artist}</p>}
-                                {installation && <p>{installation}</p>}
-                                <p>{worldPremiere}</p>
-                                {age && <p>{age}</p>}
-                                <p>{time}</p>
+                            <div className={s.filmPage__content_table}>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}><p>Год номинации:</p></div>
+                                    <div className={s.filmPage__content_right}><p>{nominatedYear}</p></div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}><p>Год производства:</p></div>
+                                    <div className={s.filmPage__content_right}><p>{yearProduction}</p></div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}>{platform && <p>Платформа:</p>}</div>
+                                    <div className={s.filmPage__content_right}>{platform && <p>{platform}</p>}</div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}><p>Страна:</p></div>
+                                    <div className={s.filmPage__content_right}><p>{country}</p></div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}>{genre && <p>Жанр:</p>}</div>
+                                    <div className={s.filmPage__content_right}>{genre && <p>{genre}</p>}</div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}>{slogan && <p>Слоган:</p>}</div>
+                                    <div className={s.filmPage__content_right}>{slogan && <p>{slogan}</p>}</div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}><p>Режиссер:</p></div>
+                                    <div className={s.filmPage__content_right}><p>{director}</p></div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}><p>Сценарий:</p></div>
+                                    <div className={s.filmPage__content_right}><p>{scenario}</p></div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}><p>Продюсер:</p></div>
+                                    <div className={s.filmPage__content_right}><p>{producer}</p></div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}>{operator && <p>Оператор:</p>}</div>
+                                    <div className={s.filmPage__content_right}>{operator && <p>{operator}</p>}</div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}>{composer && <p>Композитор:</p>}</div>
+                                    <div className={s.filmPage__content_right}>{composer && <p>{composer}</p>}</div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}>{artist && <p>Художник:</p>}</div>
+                                    <div className={s.filmPage__content_right}>{artist && <p>{artist}</p>}</div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}>{installation && <p>Монтажер:</p>}</div>
+                                    <div className={s.filmPage__content_right}>{installation && <p>{installation}</p>}</div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}><p>Премьера в мире:</p></div>
+                                    <div className={s.filmPage__content_right}><p>{worldPremiere}</p></div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}>{age && <p>Возрастное ограничение:</p>}</div>
+                                    <div className={s.filmPage__content_right}>{age && <p>{age}</p>}</div>
+                                </div>
+                                <div className={s.filmPage__content_row}>
+                                    <div className={s.filmPage__content_left}><p>Время:</p></div>
+                                    <div className={s.filmPage__content_right}><p>{time}</p></div>
+                                </div>
                             </div>
                         </div>
-                        
                     </div>
-
                 </div>
-                
                
                 <p className={s.filmPage__descr}>{description}</p>
                 {video && (

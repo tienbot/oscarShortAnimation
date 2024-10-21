@@ -4,3 +4,9 @@
     /* width: 100%;
     height: 700px; */
 }
+
+@media screen and (max-width: 768px) {
+    .VkVideo{
+        width: 100%;
+    }
+}
