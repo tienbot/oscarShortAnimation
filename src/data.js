@@ -124,7 +124,7 @@ export const data = [
         time: '15 мин', 
         description: 'Контраст между грубым внешним и неочевидным чувственным внутренним, противопоставление формы содержанию, сила воздействия одного на другое и вообще возможность такового влияния: все эти вопросы, безусловно отсылающие нас к одной из важнейших философских проблем - «быть и казаться», являются ключевыми в понимании этой истории.',
         poster: '/posters/2022/3.webp',
-        video: 'https://vk.com/video-31920686_456240506',
+        video: 'https://vk.com/video140140535_456239557',
         kinopoisk: 'https://www.kinopoisk.ru/film/1378921/'
     },
     {
@@ -287,7 +287,7 @@ export const data = [
         description: 'Два корабля сталкиваются в гавани, отправляя проходящего мимо моряка ввысь, и он созерцает чудо и хрупкость существования.',
         poster: '/posters/2023/4.webp',
         // video: 'https://tapeop.dev/?movie=523564456',
-        video: 'https://vk.com/video-31920686_456240619',
+        video: 'https://vk.com/video140140535_456239559',
         kinopoisk: 'https://www.kinopoisk.ru/film/5136457/'
     },
     {
@@ -314,7 +314,7 @@ export const data = [
         description: 'Отец и сын живут на вершине скалы. Каждый день они спускаются вниз на парашютах, чтобы продавать лёд в деревушке, расположенной под их скалой.',
         poster: '/posters/2023/5.webp',
         // video: 'https://tapeop.dev/?movie=699455597',
-        video: 'https://vk.com/video-31920686_456240626',
+        video: 'https://vk.com/video140140535_456239558',
         kinopoisk: 'https://www.kinopoisk.ru/film/5234141/'
     },
     {
@@ -340,7 +340,7 @@ export const data = [
         time: '11 мин', 
         description: '',
         poster: '/posters/2024/1.webp',
-        video: 'https://vk.com/video-189089797_456240737',
+        video: 'https://vk.com/video140140535_456239554',
         kinopoisk: 'https://www.kinopoisk.ru/film/5445934/'
     },
     {
