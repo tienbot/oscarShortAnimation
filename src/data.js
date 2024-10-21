@@ -206,7 +206,7 @@ export const data = [
         poster: '/posters/2023/1.webp',
         // video: 'https://tapeop.dev/?movie=1109537782',
         // video: 'https://vk.com/video130919424_456244545',
-        video: 'https://vk.com/video-154816652_456241405',
+        video: 'https://vk.com/video140140535_456239560',
         kinopoisk: 'https://www.kinopoisk.ru/film/5138530/'
     },
     {
@@ -260,7 +260,7 @@ export const data = [
         description: 'Техас, 1991 год. 15-летняя Пэм настойчиво пытается лишиться девственности, но её фантазии о первом опыте сексуального контакта не соответствуют суровой реальности. С этого момента Пэм начинает путешествие, посвящённое самопознанию и сексуальному пробуждению, попутно взрослея, набираясь опыта и совершая серию ошибок.',
         poster: '/posters/2023/3.webp',
         // video: 'https://dl1.vibio.tv/4d9452b347c4e4a1a3898671a1aead3d/2953/2953788/output.lq.mp4',
-        video: 'https://vk.com/video-55244031_456240903',
+        video: 'https://vk.com/video140140535_456239563',
         kinopoisk: 'https://www.kinopoisk.ru/film/5165441/'
     },
     {

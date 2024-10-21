@@ -52,22 +52,6 @@ export const FilmPage = () => {
                         <p>{originalName}</p>
                         <a className={s.filmPage__kinopoisk} target='_blank' href={kinopoisk} rel="noopener noreferrer">Страница Кинопоиска</a>
                         <h2>О фильме</h2>
-                        {/* <p>Год номинации: {nominatedYear}</p>
-                        <p>Год производства: {yearProduction}</p>
-                        {platform && <p>Платформа: {platform}</p>}
-                        <p>Страна: {country}</p>
-                        {genre && <p>Жанр: {genre}</p>}
-                        {slogan && <p>Слоган: {slogan}</p>}
-                        <p>Режиссер: {director}</p>
-                        <p>Сценарий: {scenario}</p>
-                        <p>Продюсер: {producer}</p>
-                        {operator && <p>Оператор: {operator}</p>}
-                        {composer && <p>Композитор: {composer}</p>}
-                        {artist && <p>Художник: {artist}</p>}
-                        {installation && <p>Монтажер: {installation}</p>}
-                        <p>Премьера в мире: {worldPremiere}</p>
-                        {age && <p>Возрастное ограничение: {age}</p>}
-                        <p>Время: {time}</p> */}
                         <div className={s.filmPage__content}>
                             <div className={s.filmPage__content_left}>
                                 <p>Год номинации:</p>
@@ -120,5 +104,5 @@ export const FilmPage = () => {
                 )}
             </Container>
         </main>
-    );
+    )
 }

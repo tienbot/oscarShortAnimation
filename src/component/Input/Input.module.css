@@ -1,0 +1,17 @@
+.form {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: right;
+}
+
+.input{
+    height: 30px;
+    width: 400px;
+    padding: 0 10px;
+    outline: none;
+    font-size: 16px;
+}
+
+.button{
+    height: 30px;
+}
