@@ -9,11 +9,11 @@ export const SectionCard = () => {
   const reversedData = [...data].reverse();
 
   const [search, setSearch] = useState("");
-  const [filterData, setFilterData] = useState(reversedData); // Изменяемый / дополняемый массив
+  const [filterData, setFilterData] = useState(data); // Изменяемый / дополняемый массив
 
   function startSearch(e) {
     e.preventDefault();
-    const newData = reversedData.filter(
+    const newData = data.filter(
       (el) =>
         el.name.toLowerCase().includes(search.toLowerCase()) ||
         el.originalName.toLowerCase().includes(search.toLowerCase()) ||

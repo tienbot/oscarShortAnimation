@@ -3,6 +3,7 @@ import { Container } from '../../layout/Container/Container';
 import s from './FilmPage.module.css';
 import { data } from "../../data";
 import VkVideo from '../../component/VkVideo/VkVideo'
+import { MegaVideo } from "../../component/MegaVideo/MegaVideo";
 
 export const FilmPage = () => {
     const { id } = useParams();
@@ -124,10 +125,12 @@ export const FilmPage = () => {
                 </div>
                
                 <p className={s.filmPage__descr}>{description}</p>
-                {video && (
-                    <div>
-                        <VkVideo video={video} />
-                    </div>
+                {video.startsWith('https://mega.nz/') ? (
+                    <MegaVideo video={video} />
+                ) : video.startsWith('https://vk.com/') ? (
+                    <VkVideo video={video} />
+                ) : (
+                    <div>Неподдерживаемый формат видео</div>
                 )}
             </Container>
         </main>
