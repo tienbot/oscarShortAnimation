@@ -5,6 +5,8 @@ import { data } from "../../data";
 import VkVideo from '../../component/VkVideo/VkVideo'
 import { MegaVideo } from "../../component/MegaVideo/MegaVideo";
 
+import Player from '../../component/Player/Player'
+
 export const FilmPage = () => {
     const { id } = useParams();
     const film = data.find(film => film.id === id); // Ищем фильм по id
@@ -129,6 +131,8 @@ export const FilmPage = () => {
                     <MegaVideo video={video} />
                 ) : video.startsWith('https://vk.com/') ? (
                     <VkVideo video={video} />
+                ) : video.startsWith('https://www.kinopoisk.ru') ? (
+                    <Player video={video} />
                 ) : (
                     <div>Неподдерживаемый формат видео</div>
                 )}

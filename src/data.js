@@ -48,7 +48,8 @@ export const data = [
         time: '12 мин', 
         description: 'Единственное, что остается у любящих родителей после трагической потери, – это воспоминания.',
         poster: '/posters/2021/1.webp',
-        video: 'https://vk.com/video140140535_456239565',
+        // video: 'https://vk.com/video140140535_456239565',
+        video: 'https://www.kinopoisk.ru/film/1347450/',
         kinopoisk: 'https://www.kinopoisk.ru/film/1347450/',
     },
     {
@@ -74,7 +75,8 @@ export const data = [
         time: '6 мин', 
         description: 'Кролик пытается построить нору своей мечты, смущаясь каждый раз, когда случайно врывается в дом соседа.',
         poster: '/posters/2021/2.webp',
-        video: 'https://vk.com/video140140535_456239566',
+        // video: 'https://vk.com/video140140535_456239566',
+        video: 'https://www.kinopoisk.ru/film/4308670/',
         kinopoisk: 'https://www.kinopoisk.ru/film/4308670/',
     },
     {
@@ -179,7 +181,8 @@ export const data = [
         description: 'Сидя в кафе и непрерывно куря, мужчина задается вопросом, что такое любовь.',
         poster: '/posters/2022/1.webp',
         // video: 'https://tapeop.dev/?movie=1346747012',
-        video: 'https://vk.com/video140140535_456239551',
+        // video: 'https://vk.com/video140140535_456239551',
+        video: 'https://www.kinopoisk.ru/film/4470495/',
         kinopoisk: 'https://www.kinopoisk.ru/film/4470495/'
     },
     {
@@ -259,7 +262,8 @@ export const data = [
         description: 'Яйцо, из которого появилась Робин, случайно попало на свалку — так она оказалась в любящей семье мышей. Со временем их различия становятся всё более очевидны. Решив доказать родным, что из неё выйдет отличная мышь, Робин решается на ограбление века.',
         poster: '/posters/2022/4.webp',
         // video: 'https://tapeop.dev/?movie=1640236055',
-        video: 'https://vk.com/video140140535_456239556',
+        // video: 'https://vk.com/video140140535_456239556',
+        video: 'https://www.kinopoisk.ru/film/1345142/',
         kinopoisk: 'https://www.kinopoisk.ru/film/1345142/'
     },
     {
@@ -314,7 +318,8 @@ export const data = [
         poster: '/posters/2023/1.webp',
         // video: 'https://tapeop.dev/?movie=1109537782',
         // video: 'https://vk.com/video130919424_456244545',
-        video: 'https://mega.nz/file/phxmkY4R#2FLlHdZgxz53lE64o9Dn38kkJLx-53dfuDJHM8ZaD-U',
+        // video: 'https://mega.nz/file/phxmkY4R#2FLlHdZgxz53lE64o9Dn38kkJLx-53dfuDJHM8ZaD-U',
+        video: 'https://www.kinopoisk.ru/film/5138530/',
         kinopoisk: 'https://www.kinopoisk.ru/film/5138530/'
     },
     {
@@ -368,7 +373,8 @@ export const data = [
         description: 'Техас, 1991 год. 15-летняя Пэм настойчиво пытается лишиться девственности, но её фантазии о первом опыте сексуального контакта не соответствуют суровой реальности. С этого момента Пэм начинает путешествие, посвящённое самопознанию и сексуальному пробуждению, попутно взрослея, набираясь опыта и совершая серию ошибок.',
         poster: '/posters/2023/3.webp',
         // video: 'https://dl1.vibio.tv/4d9452b347c4e4a1a3898671a1aead3d/2953/2953788/output.lq.mp4',
-        video: 'https://vk.com/video140140535_456239563',
+        // video: 'https://vk.com/video140140535_456239563',
+        video: 'https://www.kinopoisk.ru/film/5165441/',
         kinopoisk: 'https://www.kinopoisk.ru/film/5165441/'
     },
     {
@@ -394,8 +400,8 @@ export const data = [
         time: '8 мин', 
         description: 'Два корабля сталкиваются в гавани, отправляя проходящего мимо моряка ввысь, и он созерцает чудо и хрупкость существования.',
         poster: '/posters/2023/4.webp',
-        // video: 'https://tapeop.dev/?movie=523564456',
         video: 'https://vk.com/video140140535_456239559',
+        // video: 'https://www.kinopoisk.ru/film/5136457/',
         kinopoisk: 'https://www.kinopoisk.ru/film/5136457/'
     },
     {
@@ -423,6 +429,7 @@ export const data = [
         poster: '/posters/2023/5.webp',
         // video: 'https://tapeop.dev/?movie=699455597',
         video: 'https://vk.com/video140140535_456239558',
+        // video: 'https://www.kinopoisk.ru/film/5234141/',
         kinopoisk: 'https://www.kinopoisk.ru/film/5234141/'
     },
     {
@@ -449,6 +456,7 @@ export const data = [
         description: '',
         poster: '/posters/2024/1.webp',
         video: 'https://vk.com/video140140535_456239554',
+        // video: 'https://www.kinopoisk.ru/film/5445934/',
         kinopoisk: 'https://www.kinopoisk.ru/film/5445934/'
     },
     {
