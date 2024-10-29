@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import s from './Player.module.css';
-import loading from '../../assets/loading.svg'
+import loading from '../../assets/loading.svg';
 
 const Player = ({ video }) => {
     const [iframeUrl, setIframeUrl] = useState('');
@@ -50,6 +50,30 @@ const Player = ({ video }) => {
             setIframeUrl(sourceData.iframeUrl);
         }
     };
+
+    // Блокировка рекламы с использованием MutationObserver
+    useEffect(() => {
+        const iframe = document.getElementById('movie-player');
+        if (iframe) {
+            const observer = new MutationObserver((mutations) => {
+                mutations.forEach((mutation) => {
+                    if (mutation.type === 'childList') {
+                        const adScripts = Array.from(iframe.contentDocument?.scripts || []).filter(
+                            script => script.src.includes('imasdk.googleapis.com')
+                        );
+                        adScripts.forEach(adScript => adScript.remove());
+                    }
+                });
+            });
+
+            iframe.addEventListener('load', () => {
+                const iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
+                observer.observe(iframeDocument, { childList: true, subtree: true });
+            });
+
+            return () => observer.disconnect();
+        }
+    }, [iframeUrl]);
 
     return (
         <div className={s.player}>
