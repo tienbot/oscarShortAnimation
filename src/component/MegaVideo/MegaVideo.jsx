@@ -33,9 +33,10 @@ export const MegaVideo = ({ video }) => {
       className={s.MegaVideo}
       width="640"
       height="360"
-      frameborder="0"
+      frameBorder="0"
       src = {convertMegaLink(video)}
-      allowfullscreen
+      allowFullScreen
     ></iframe>
+    
   );
 };
