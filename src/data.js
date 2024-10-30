@@ -176,7 +176,7 @@ export const data = [
         artist: '',
         installation: 'Альберто Мьельго',
         worldPremiere: '13 июля 2021',
-        age:'',
+        age:'18+',
         time: '15 мин', 
         description: 'Сидя в кафе и непрерывно куря, мужчина задается вопросом, что такое любовь.',
         poster: '/posters/2022/1.webp',
@@ -400,8 +400,8 @@ export const data = [
         time: '8 мин', 
         description: 'Два корабля сталкиваются в гавани, отправляя проходящего мимо моряка ввысь, и он созерцает чудо и хрупкость существования.',
         poster: '/posters/2023/4.webp',
-        video: 'https://vk.com/video140140535_456239559',
-        // video: 'https://www.kinopoisk.ru/film/5136457/',
+        // video: 'https://vk.com/video140140535_456239559',
+        video: 'https://www.kinopoisk.ru/film/5136457/',
         kinopoisk: 'https://www.kinopoisk.ru/film/5136457/'
     },
     {
@@ -428,8 +428,8 @@ export const data = [
         description: 'Отец и сын живут на вершине скалы. Каждый день они спускаются вниз на парашютах, чтобы продавать лёд в деревушке, расположенной под их скалой.',
         poster: '/posters/2023/5.webp',
         // video: 'https://tapeop.dev/?movie=699455597',
-        video: 'https://vk.com/video140140535_456239558',
-        // video: 'https://www.kinopoisk.ru/film/5234141/',
+        // video: 'https://vk.com/video140140535_456239558',
+        video: 'https://www.kinopoisk.ru/film/5234141/',
         kinopoisk: 'https://www.kinopoisk.ru/film/5234141/'
     },
     {
@@ -455,8 +455,8 @@ export const data = [
         time: '11 мин', 
         description: '',
         poster: '/posters/2024/1.webp',
-        video: 'https://vk.com/video140140535_456239554',
-        // video: 'https://www.kinopoisk.ru/film/5445934/',
+        // video: 'https://vk.com/video140140535_456239554',
+        video: 'https://www.kinopoisk.ru/film/5445934/',
         kinopoisk: 'https://www.kinopoisk.ru/film/5445934/'
     },
     {

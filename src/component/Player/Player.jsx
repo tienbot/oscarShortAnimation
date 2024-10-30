@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import s from './Player.module.css';
 import loading from '../../assets/loading.svg';
 
+const SOURCES = ['alloha', 'ashdi', 'cdnmovies', 'collaps', 'hdvb', 'kodik', 'vibix', 'videocdn', 'voidboost'];
+
 const Player = ({ video }) => {
     const [iframeUrl, setIframeUrl] = useState('');
     const [sources, setSources] = useState([]);
@@ -9,20 +11,18 @@ const Player = ({ video }) => {
     const [selectedTranslation, setSelectedTranslation] = useState('');
 
     useEffect(() => {
-        // Извлекаем числовой ID из URL, например, '4308670' из 'https://www.kinopoisk.ru/film/4308670/'
         const kinopoiskId = video.match(/\/film\/(\d+)\//)?.[1];
 
         if (kinopoiskId) {
             const fetchPlayerData = async () => {
                 try {
-                    const response = await fetch(`https://kinobox.tv/api/players?kinopoisk=${kinopoiskId}`);
+                    const response = await fetch(`https://kinobox.tv/api/players?kinopoisk=${kinopoiskId}&sources=${SOURCES.join(',')}`);
                     const result = await response.json();
 
                     if (Array.isArray(result)) {
                         const filteredSources = result.filter((item) => item.iframeUrl !== null);
                         setSources(filteredSources);
 
-                        // Устанавливаем первую доступную кнопку как активную
                         if (filteredSources.length > 0 && filteredSources[0].translations.length > 0) {
                             setIframeUrl(filteredSources[0].translations[0].iframeUrl);
                             setSelectedSource(filteredSources[0].source);
@@ -51,7 +51,6 @@ const Player = ({ video }) => {
         }
     };
 
-    // Блокировка рекламы с использованием MutationObserver
     useEffect(() => {
         const iframe = document.getElementById('movie-player');
         if (iframe) {
