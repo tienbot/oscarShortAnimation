@@ -15,35 +15,12 @@ const VkVideo = ({ video }) => {
     return null;
   };
   
-
   const iframeSrc = generateIframeSrc(video);
 
   // Если ссылка некорректна, выводим сообщение об ошибке
   if (!iframeSrc) {
     return <p>Invalid video URL</p>;
   }
-
-  const getPlayerUrl = async (kinopoiskId) => {
-    try {
-        const response = await fetch(`https://kinobox.tv/api/players?kinopoisk=${kinopoiskId}`);
-        const data = await response.json();
-        
-        if (data.length > 0 && data[0].translations.length > 0) {
-            // Получаем ссылку на iframe c нужной озвучкой
-            return data[0].translations[0].iframeUrl;
-        } else {
-            console.log("Плеер не найден");
-        }
-    } catch (error) {
-        console.error("Ошибка при получении данных", error);
-    }
-};
-
-getPlayerUrl("258687").then((iframeUrl) => {
-    if (iframeUrl) {
-        document.getElementById("movie-player").src = iframeUrl;
-    }
-});
 
 
   return (

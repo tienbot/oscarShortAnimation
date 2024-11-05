@@ -49,6 +49,7 @@
     display: block;
     margin-bottom: 48px;
     margin-top: 24px;
+    width: max-content;
 }
 
 .filmPage__kinopoisk:hover{

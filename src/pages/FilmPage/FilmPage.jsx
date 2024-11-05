@@ -4,6 +4,7 @@ import s from './FilmPage.module.css';
 import { data } from "../../data";
 import VkVideo from '../../component/VkVideo/VkVideo'
 import { MegaVideo } from "../../component/MegaVideo/MegaVideo";
+import YoutubeVideo from "../../component/YoutubeVideo/YoutubeVideo";
 
 import Player from '../../component/Player/Player'
 
@@ -131,6 +132,8 @@ export const FilmPage = () => {
                     <MegaVideo video={video} />
                 ) : video.startsWith('https://vk.com/') ? (
                     <VkVideo video={video} />
+                ) : video.startsWith('https://www.youtube.com/') ? (
+                    <YoutubeVideo video={video} />
                 ) : video.startsWith('https://www.kinopoisk.ru') ? (
                     <Player video={video} />
                 ) : (

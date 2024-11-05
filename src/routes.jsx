@@ -1,4 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import { Main } from "./pages/Main/Main";
 import { FilmPage } from "./pages/FilmPage/FilmPage";
 
