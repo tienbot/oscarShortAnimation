@@ -3,7 +3,13 @@
 .sectionCard__content{
     display: grid;
     gap: 20px;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    /* grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); */
+    grid-template-columns: repeat(4, 1fr); /* Устанавливаем ровно 4 колонки */
+}
+
+.sectionCard__content img {
+    width: 100%;
+    object-fit: cover;
 }
 
 .oops{
@@ -17,8 +23,26 @@
     text-align: center;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1200px) {
+    .sectionCard__content {
+        grid-template-columns: repeat(3, 1fr); /* 3 колонки при ширине экрана до 1200px */
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .sectionCard__content {
+        grid-template-columns: repeat(2, 1fr); /* 2 колонки при ширине экрана до 900px */
+    }
+}
+
+/* @media screen and (max-width: 700px) {
     .sectionCard__content{
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+} */
+
+@media screen and (max-width: 600px) {
+    .sectionCard__content {
+        grid-template-columns: 1fr; /* 1 колонка при ширине экрана до 600px */
     }
 }
