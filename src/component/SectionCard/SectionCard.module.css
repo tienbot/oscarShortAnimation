@@ -41,7 +41,7 @@
     }
 } */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 450px) {
     .sectionCard__content {
         grid-template-columns: 1fr; /* 1 колонка при ширине экрана до 600px */
     }

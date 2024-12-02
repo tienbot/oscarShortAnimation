@@ -6,12 +6,10 @@ const VkVideo = ({ video }) => {
   const generateIframeSrc = (video) => {
     const match = video.match(/video(-?\d+)_(\d+)/);
     if (match) {
-      console.log("Match found:", match); // Выводим oid и id для отладки
       const oid = match[1];
       const id = match[2];
       return `https://vk.com/video_ext.php?oid=${oid}&id=${id}&hd=1`;
     }
-    console.warn("No match found for video:", video); // Сообщаем, если не удалось извлечь данные
     return null;
   };
   
@@ -21,7 +19,6 @@ const VkVideo = ({ video }) => {
   if (!iframeSrc) {
     return <p>Invalid video URL</p>;
   }
-
 
   return (
     <iframe

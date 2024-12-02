@@ -4,70 +4,72 @@ import { Container } from "../../layout/Container/Container";
 import { data } from "../../data";
 import { Card } from "../Card/Card";
 import { Input } from "../Input/Input";
+import { Timer } from "../Timer/Timer";
 
 export const SectionCard = () => {
-  const reversedData = [...data].reverse();
-
   const [search, setSearch] = useState("");
-  const [filterData, setFilterData] = useState(data); // Изменяемый / дополняемый массив
+  const [filterData, setFilterData] = useState(data.slice(5)); // Изменяемый / дополняемый массив
+  const [showLastFive, setShowLastFive] = useState(false); // Переключатель на последние 5 фильмов
 
-  function startSearch(e) {
+  const handleEndOfWeek = () => {
+    // Отображаем последние 5 фильмов
+    setFilterData(data);
+    setShowLastFive(true);
+  };
+
+  const handleSearch = (e) => {
     e.preventDefault();
-    const newData = data.filter(
-      (el) =>
-        el.name.toLowerCase().includes(search.toLowerCase()) ||
-        el.originalName.toLowerCase().includes(search.toLowerCase()) ||
-        el.nominatedYear.toString().includes(search)
-    );
+  
+    const newData = showLastFive //если true
+      ? data.filter(  //поиск по всей data
+          (el) =>
+            el.name.toLowerCase().includes(search.toLowerCase()) ||
+            el.originalName.toLowerCase().includes(search.toLowerCase()) ||
+            el.nominatedYear.toString().includes(search)
+        )
+      : data 
+          .slice(5) //иначе поиск по всей data, кроме первых 5
+          .filter(
+            (el) =>
+              el.name.toLowerCase().includes(search.toLowerCase()) ||
+              el.originalName.toLowerCase().includes(search.toLowerCase()) ||
+              el.nominatedYear.toString().includes(search)
+          );
     setFilterData(newData);
-  }
+  };
+  
+  
+  let arrID = filterData.map(item => item.id)
+  let randomID = arrID[Math.floor(Math.random() * arrID.length)]
 
+  let getWinners = () => {
+    let winners = data.filter(el => el.isWin === true)
+    setFilterData(winners)
+  }
+  
   return (
     <section className={s.sectionCard}>
       <Container>
         <Input
           value={search}
           onChange={(el) => setSearch(el.target.value)}
-          onSubmit={(e) => startSearch(e)}
+          onSubmit={handleSearch}
+          randomID={randomID}
+          winners = {getWinners}
+          all={() => setFilterData(data)}
         />
+        {/* <button onClick={()=>{handleEndOfWeek()}}>test</button> */}
+        {!showLastFive && <Timer onEnd={handleEndOfWeek} />}
+
         {filterData.length > 0 ? (
           <div className={s.sectionCard__content}>
             {filterData.map((el) => (
-              <Card
-                key={el.id}
-                id={el.id}
-                name={el.name}
-                originalName={el.originalName}
-                nominatedYear={el.nominatedYear}
-                isWin={el.isWin}
-                yearProduction={el.yearProduction}
-                platform={el.platform}
-                country={el.country}
-                genre={el.genre}
-                slogan={el.slogan}
-                director={el.director}
-                scenario={el.scenario}
-                producer={el.producer}
-                operator={el.operator}
-                composer={el.composer}
-                artist={el.artist}
-                installation={el.installation}
-                worldPremiere={el.worldPremiere}
-                age={el.age}
-                time={el.time}
-                description={el.description}
-                poster={`${import.meta.env.BASE_URL}${el.poster}`}
-                video={el.video}
-              />
+              <Card key={el.id} {...el} poster={`${import.meta.env.BASE_URL}${el.poster}`} />
             ))}
           </div>
         ) : (
             <div className={s.oops}>
-                {/* <p>Упс! Мы честно искали, но ничего не нашли 😔</p> */}
                 <p>Упс! Пока такого фильма нет(</p>
-                {/* <p>Eсли номинировался на премию Оскар, то он здесь обязательно появится</p> */}
-                {/* <p>👀</p> */}
-
             </div>
         )}
       </Container>

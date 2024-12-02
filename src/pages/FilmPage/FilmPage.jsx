@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 import { useParams, Link } from "react-router-dom";
 import { Container } from '../../layout/Container/Container';
 import s from './FilmPage.module.css';
@@ -5,12 +6,17 @@ import { data } from "../../data";
 import VkVideo from '../../component/VkVideo/VkVideo'
 import { MegaVideo } from "../../component/MegaVideo/MegaVideo";
 import YoutubeVideo from "../../component/YoutubeVideo/YoutubeVideo";
+import oscar from '/oscar.webp'
 
 import Player from '../../component/Player/Player'
 
 export const FilmPage = () => {
     const { id } = useParams();
     const film = data.find(film => film.id === id); // Ищем фильм по id
+    const [isBlurred, setIsBlurred] = useState(true); // Изначально картинка с блюром
+    const handleClick = () => {
+        setIsBlurred(false); // Убираем блюр при клике
+      };
 
     // Проверка на случай, если по переданному id нет фильма.
     if (!film) {
@@ -125,12 +131,21 @@ export const FilmPage = () => {
                             </div>
                         </div>
                     </div>
+                    <div className={s.film__price}>    
+                                    <img
+                                        src={oscar}
+                                        alt="оскар"
+                                        className={`${s.film__oscar} ${isBlurred ? s.film__blur : ''} ${isWin ? '' : s.film__nuar}`}
+                                        onClick={handleClick}
+                                        // title={isWin ? 'Получен Оскар' : 'Без Оскара'}
+                                    />
+                                </div>
                 </div>
                
                 <p className={s.filmPage__descr}>{description}</p>
                 {video.startsWith('https://mega.nz/') ? (
                     <MegaVideo video={video} />
-                ) : video.startsWith('https://vk.com/') ? (
+                ) : video.startsWith('https://vk.com/') || video.startsWith('https://vkvideo.ru/') ? (
                     <VkVideo video={video} />
                 ) : video.startsWith('https://www.youtube.com/') ? (
                     <YoutubeVideo video={video} />
