@@ -25,6 +25,14 @@
     gap: 30px;
 }
 
+.card__descr{
+    display: -webkit-box;
+    -webkit-line-clamp: 12;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 .card__name{
     font-size: 30px;
 }

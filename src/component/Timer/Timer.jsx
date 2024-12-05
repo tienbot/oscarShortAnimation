@@ -8,12 +8,12 @@ export const Timer = ({ onEnd }) => {
     const now = new Date();
 
     // Расчет времени окончания среды
-    const daysUntilWednesday = (2 - now.getDay() + 7) % 7;
+    const daysUntilWednesday = (2 - now.getDay() + 13) % 7;
     const endOfWednesday = new Date(
       now.getFullYear(),
       now.getMonth(),
       now.getDate() + daysUntilWednesday,
-      23, //23
+      18, //23
       59, //59
       59 // Конец среды
     );
@@ -51,10 +51,10 @@ export const Timer = ({ onEnd }) => {
     <div className={s.timer}>
       {timeLeft ? (
         <p>
-          До публикации новых короткометражек: {timeLeft.days}д {timeLeft.hours}ч {timeLeft.minutes}м {timeLeft.seconds}с
+          До публикации новой порции короткометражек: {timeLeft.days}д {timeLeft.hours}ч {timeLeft.minutes}м {timeLeft.seconds}с
         </p>
       ) : (
-        <p>Время вышло!</p>
+        <p>Загрузка...</p>
       )}
     </div>
   );

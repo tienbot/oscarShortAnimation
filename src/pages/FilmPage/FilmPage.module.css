@@ -67,6 +67,7 @@
     padding: 10px;
     border-radius: 25px;
     width: max-content;
+    transition: 0.5s;
 }
 
 .backLink:hover{
@@ -97,8 +98,15 @@
     
 }
 .film__blur:hover{
-    /* filter: grayscale(0) blur(23px); */
     box-shadow: 0 0 15px 5px rgba(249, 218, 106, 0.416);
+}
+
+.commercial{
+    text-align: center;
+    margin-top: 20px;
+}
+.commercial a:hover{
+    color: red;
 }
 
 @media screen and (max-width: 768px) {
@@ -112,5 +120,11 @@
 
     .filmPage__info{
         width: 100%;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    .backLink{
+        outline: 1px #213547 solid;
     }
 }
