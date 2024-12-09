@@ -837,7 +837,7 @@ export const data = [
                 "nomination": [
                     {
                         "name": "Лучший короткометражный анимационный фильм",
-                        "isWinShortAnimatedFilm": true
+                        "isWinShortAnimatedFilm": false
                     }
                 ],
                 "countries": [
@@ -24074,7 +24074,7 @@ export const data = [
         "ratingAgeLimits": "",
         "ratingMpaa": "",
         "filmLength": "14 мин",
-        "description": "",
+        "description": "Мультяшные животные на сеансе терапии.",
         "video": "https://vk.com/video140140535_456239572",
         "webUrl": "https://www.kinopoisk.ru/film/1165322/"
       },

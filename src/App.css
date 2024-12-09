@@ -39,3 +39,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.loadingPage{
+  height: 100vh;
+  margin-top: 48vh;
+}

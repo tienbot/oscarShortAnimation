@@ -9,11 +9,13 @@ import oscar from '/oscar.webp';
 import Player from '../../component/Player/Player';
 import { ref, onValue } from "firebase/database";
 import { database } from "../../firebase";
+import { Loader } from '../../component/Loader/Loader';
 
 export const FilmPage = () => {
     const { id } = useParams();
     const [data, setData] = useState([]);
     const [film, setFilm] = useState(null);
+    const [isLoading, setIsLoading] = useState(true);
     const [isBlurred, setIsBlurred] = useState(true);
 
     const handleClick = () => setIsBlurred(false);
@@ -34,11 +36,29 @@ export const FilmPage = () => {
                 ? filmData.films.find(film => film.kinopoiskId === Number(id)) 
                 : null;
             setFilm(foundFilm);
+
+            // Завершаем процесс загрузки
+            setIsLoading(false);
         });
     }, [id]);
 
-    if (!film) {
+    // Установка title страницы
+    useEffect(() => {
+        if (film) {
+            document.title = film.nameRu || 'Film Page';
+        }
+    }, [film]);
+
+    // Если фильм не найден
+    if (!film && !isLoading) {
         return <div>Error: Film not found</div>;
+    }
+
+    // Отображение загрузчика, пока идет загрузка
+    if (isLoading) {
+        return <div className='loadingPage'>
+            <Loader />
+        </div>
     }
 
     const {
@@ -48,7 +68,7 @@ export const FilmPage = () => {
         year,
         platform,
         countries = [],
-        genre,
+        genres = [],
         slogan,
         director = [],
         scenario = [],
@@ -67,6 +87,9 @@ export const FilmPage = () => {
         webUrl,
         nomination = []
     } = film;
+
+    console.log(genres);
+    
 
     const isWinShortAnimatedFilm = nomination.length > 0 && nomination[0]?.isWinShortAnimatedFilm;
 
@@ -96,7 +119,7 @@ export const FilmPage = () => {
                                 { label: 'Год производства', value: year },
                                 { label: 'Платформа', value: platform },
                                 { label: 'Страна', value: countries.map(c => c.country).join(', ') },
-                                { label: 'Жанр', value: genre },
+                                { label: 'Жанр', value: genres.map(item => item.genre).join(", ") },
                                 { label: 'Слоган', value: slogan },
                                 { label: 'Режиссер', value: director.join(', ') },
                                 { label: 'Сценарий', value: scenario.join(', ') },

@@ -3,8 +3,8 @@ import { RouterProvider } from "react-router-dom";
 import router from "./routes";
 // import { database } from "./firebase";
 // import { data } from "./data";
-import { ref, push, onValue } from "firebase/database";
-import { useEffect, useState } from "react";
+// import { ref, push, onValue } from "firebase/database";
+// import { useEffect, useState } from "react";
 
 function App() {
   // const [state, setState] = useState([]);

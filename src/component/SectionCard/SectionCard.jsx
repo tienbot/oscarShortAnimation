@@ -1,24 +1,26 @@
 import { useState, useEffect } from "react";
 import s from "./SectionCard.module.css";
 import { Container } from "../../layout/Container/Container";
-// import { data } from "../../data";
 import { Card } from "../Card/Card";
 import { Input } from "../Input/Input";
 import { Timer } from "../Timer/Timer";
 import { onValue, ref } from "firebase/database";
 import { database } from "../../firebase";
+import { Loader } from "../Loader/Loader";
 
 export const SectionCard = () => {
   const [data, setData] = useState([]);
   const [search, setSearch] = useState("");
   const [filterData, setFilterData] = useState([]); // Изначально пустой массив для фильтрации
   const [showMore, setShowMore] = useState(false); // Переключатель на последние 5 фильмов
+  const [isLoading, setIsLoading] = useState(true); // Состояние для отображения Loader
 
   // Функция для извлечения всех фильмов из данных
   function getAllFilms(data) {
     return data.flatMap((yearData) => yearData.films);
   }
 
+  //получить больше фильмов
   function getMoreFilms(data) {
     return data.flatMap((yearData) => yearData.films).slice(338);
   }
@@ -73,14 +75,24 @@ export const SectionCard = () => {
   const randomID = arrID[Math.floor(Math.random() * arrID.length)];
 
   useEffect(() => {
-    const oscarsRef = ref(database, "oscars/"); // Исправлено путь для консистентности
+    const oscarsRef = ref(database, "oscars/");
     onValue(oscarsRef, (snapshot) => {
       const data = snapshot.val();
       const oscarsList = data ? Object.values(data) : []; // Преобразование в массив, если данные существуют
       setData(oscarsList); // Сохранение данных в состоянии
       setFilterData(getFilms(oscarsList)); // Установка начального состояния фильтра
+      setIsLoading(false); // Отключаем Loader после загрузки данных
     });
   }, []); // Пустой массив зависимостей для запуска только при монтировании
+
+  document.title = 'Animation Shortcut Oscar'
+  
+
+  if (isLoading) {
+    return <div className='loadingPage'>
+        <Loader />
+    </div>
+}
 
   return (
     <section className={s.sectionCard}>
@@ -92,10 +104,11 @@ export const SectionCard = () => {
           randomID={randomID}
           winners={getWinners}
           all={showAll}
+          q = {filterData.length}
         />
 
-        {/* <button onClick={handleEndOfWeek}>Выкл. таймер</button> */}
-        {/* <button onClick={showAll}>Показать все фильмы</button> */}
+        {/* <button onClick={handleEndOfWeek}>Выкл. таймер</button>
+        <button onClick={showAll}>Показать все фильмы</button> */}
 
         {!showMore && <Timer onEnd={handleEndOfWeek} />}
 
