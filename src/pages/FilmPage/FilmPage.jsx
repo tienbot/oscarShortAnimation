@@ -1,29 +1,46 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams, Link } from "react-router-dom";
 import { Container } from '../../layout/Container/Container';
 import s from './FilmPage.module.css';
-import { data } from "../../data";  // Структура данных с films
 import VkVideo from '../../component/VkVideo/VkVideo';
 import { MegaVideo } from "../../component/MegaVideo/MegaVideo";
 import YoutubeVideo from "../../component/YoutubeVideo/YoutubeVideo";
 import oscar from '/oscar.webp';
 import Player from '../../component/Player/Player';
+import { ref, onValue } from "firebase/database";
+import { database } from "../../firebase";
 
 export const FilmPage = () => {
     const { id } = useParams();
-    
-    // Поиск фильма в структуре данных
-    const filmData = data.find(item => item.films.some(film => film.kinopoiskId === Number(id))); // Найти объект с фильмами
-    const film = filmData ? filmData.films.find(film => film.kinopoiskId === Number(id)) : null; // Найти сам фильм в массиве films
-    
-    const [isBlurred, setIsBlurred] = useState(true); // Изначально картинка с блюром
+    const [data, setData] = useState([]);
+    const [film, setFilm] = useState(null);
+    const [isBlurred, setIsBlurred] = useState(true);
 
-    const handleClick = () => setIsBlurred(false); // Убираем блюр при клике
+    const handleClick = () => setIsBlurred(false);
+
+    // Загрузка данных из Firebase
+    useEffect(() => {
+        const oscarsRef = ref(database, "oscars/");
+        onValue(oscarsRef, (snapshot) => {
+            const data = snapshot.val();
+            const oscarsList = data ? Object.values(data) : [];
+            setData(oscarsList);
+
+            // Поиск фильма по ID
+            const filmData = oscarsList.find(item => 
+                item.films.some(film => film.kinopoiskId === Number(id))
+            );
+            const foundFilm = filmData 
+                ? filmData.films.find(film => film.kinopoiskId === Number(id)) 
+                : null;
+            setFilm(foundFilm);
+        });
+    }, [id]);
 
     if (!film) {
         return <div>Error: Film not found</div>;
     }
-    
+
     const {
         nameRu,
         nameOriginal,

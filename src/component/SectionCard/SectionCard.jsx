@@ -1,14 +1,17 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import s from "./SectionCard.module.css";
 import { Container } from "../../layout/Container/Container";
-import { data } from "../../data";
+// import { data } from "../../data";
 import { Card } from "../Card/Card";
 import { Input } from "../Input/Input";
 import { Timer } from "../Timer/Timer";
+import { onValue, ref } from "firebase/database";
+import { database } from "../../firebase";
 
 export const SectionCard = () => {
+  const [data, setData] = useState([]);
   const [search, setSearch] = useState("");
-  const [filterData, setFilterData] = useState(getFilms(data)); // Начальный массив всех фильмов
+  const [filterData, setFilterData] = useState([]); // Изначально пустой массив для фильтрации
   const [showMore, setShowMore] = useState(false); // Переключатель на последние 5 фильмов
 
   // Функция для извлечения всех фильмов из данных
@@ -17,17 +20,17 @@ export const SectionCard = () => {
   }
 
   function getMoreFilms(data) {
-    return data.flatMap((yearData) => yearData.films).slice(65);
+    return data.flatMap((yearData) => yearData.films).slice(338);
   }
 
   function getFilms(data) {
-    return data.flatMap((yearData) => yearData.films).slice(70);
+    return data.flatMap((yearData) => yearData.films).slice(343);
   }
 
   const showAll = () => {
     // Отображаем все фильмы
     const allFilms = getAllFilms(data);
-    setFilterData(allFilms); // Берем последние 5 фильмов
+    setFilterData(allFilms); // Устанавливаем все фильмы для отображения
     setShowMore(true);
   };
 
@@ -38,25 +41,24 @@ export const SectionCard = () => {
     setShowMore(true);
   };
 
-const handleSearch = (e) => {
-  e.preventDefault();
+  const handleSearch = (e) => {
+    e.preventDefault();
 
-  const normalizeSearch = (str) => str.toLowerCase().includes(search.toLowerCase());
-  
-  const filterFilms = (films) => 
-    films.filter(
-      (film) =>
-        normalizeSearch(film.nameRu) ||
-        normalizeSearch(film.nameOriginal) ||
-        normalizeSearch(film.nominatedYear.toString())
-    );
+    const normalizeSearch = (str) => str.toLowerCase().includes(search.toLowerCase());
 
-  const filmsToSearch = showMore ? getMoreFilms(data) : getFilms(data);
-  const newData = filterFilms(filmsToSearch);
+    const filterFilms = (films) =>
+      films.filter(
+        (film) =>
+          normalizeSearch(film.nameRu) ||
+          normalizeSearch(film.nameOriginal) ||
+          normalizeSearch(film.nominatedYear.toString())
+      );
 
-  setFilterData(newData);
-};
+    const filmsToSearch = showMore ? getMoreFilms(data) : getFilms(data);
+    const newData = filterFilms(filmsToSearch);
 
+    setFilterData(newData);
+  };
 
   const getWinners = () => {
     const allFilms = getAllFilms(data);
@@ -70,6 +72,16 @@ const handleSearch = (e) => {
   const arrID = filterData.map((film) => film.kinopoiskId);
   const randomID = arrID[Math.floor(Math.random() * arrID.length)];
 
+  useEffect(() => {
+    const oscarsRef = ref(database, "oscars/"); // Исправлено путь для консистентности
+    onValue(oscarsRef, (snapshot) => {
+      const data = snapshot.val();
+      const oscarsList = data ? Object.values(data) : []; // Преобразование в массив, если данные существуют
+      setData(oscarsList); // Сохранение данных в состоянии
+      setFilterData(getFilms(oscarsList)); // Установка начального состояния фильтра
+    });
+  }, []); // Пустой массив зависимостей для запуска только при монтировании
+
   return (
     <section className={s.sectionCard}>
       <Container>
@@ -81,7 +93,7 @@ const handleSearch = (e) => {
           winners={getWinners}
           all={showAll}
         />
-        
+
         {/* <button onClick={handleEndOfWeek}>Выкл. таймер</button> */}
         {/* <button onClick={showAll}>Показать все фильмы</button> */}
 
