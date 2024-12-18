@@ -1,39 +1,41 @@
 import "./App.css";
 import { RouterProvider } from "react-router-dom";
 import router from "./routes";
-// import { database } from "./firebase";
-// import { data } from "./data";
-// import { ref, push, onValue } from "firebase/database";
-// import { useEffect, useState } from "react";
+import { database } from "./firebase";
+import { data } from "./data";
+import { ref, set, onValue } from "firebase/database";
+import { useEffect, useState } from "react";
 
 function App() {
+
   // const [state, setState] = useState([]);
 
-  // const addOscars = (oscar) => {
-  //   push(ref(database, "oscars/"), oscar) // Исправлено путь для соответствия с чтением данных
+  // // Функция для перезаписи данных
+  // const writeData = () => {
+  //   set(ref(database, "oscars/"), data) // Полностью заменяем данные
   //     .then(() => {
-  //       console.log("Oscar added successfully!");
+  //       console.log("Data updated successfully!");
   //     })
   //     .catch((error) => {
-  //       console.error("Error adding oscar: ", error);
+  //       console.error("Error updating data: ", error);
   //     });
   // };
 
-  // const writeData = () => {
-  //   data.forEach(addOscars);
-  // };
-
   // useEffect(() => {
-  //   const oscarsRef = ref(database, "oscars/"); // Исправлено путь для консистентности
+  //   // Вызов writeData для перезаписи данных
+  //   writeData();
+
+  //   const oscarsRef = ref(database, "oscars/");
   //   onValue(oscarsRef, (snapshot) => {
   //     const data = snapshot.val();
   //     const oscarsList = data ? Object.values(data) : []; // Преобразование в массив, если данные существуют
-  //     setState(oscarsList); // Обновление состояния oscars
+  //     setState(oscarsList);
   //   });
-  // }, []); // Пустой массив зависимостей для запуска только при монтировании
+  // }, []); // Пустой массив зависимостей для выполнения только при монтировании
 
   return (
     <>
+      {/* <button onClick={writeData}>Перезаписать данные</button> */}
       <RouterProvider router={router} />
     </>
   );

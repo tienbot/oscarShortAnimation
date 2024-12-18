@@ -22,11 +22,11 @@ export const SectionCard = () => {
 
   //получить больше фильмов
   function getMoreFilms(data) {
-    return data.flatMap((yearData) => yearData.films).slice(338);
+    return data.flatMap((yearData) => yearData.films).slice(333);
   }
 
   function getFilms(data) {
-    return data.flatMap((yearData) => yearData.films).slice(343);
+    return data.flatMap((yearData) => yearData.films).slice(338);
   }
 
   const showAll = () => {
@@ -107,8 +107,8 @@ export const SectionCard = () => {
           q = {filterData.length}
         />
 
-        {/* <button onClick={handleEndOfWeek}>Выкл. таймер</button>
-        <button onClick={showAll}>Показать все фильмы</button> */}
+        {/* <button onClick={handleEndOfWeek}>Выкл. таймер</button> */}
+        <button onClick={showAll}>Показать все фильмы</button> 
 
         {!showMore && <Timer onEnd={handleEndOfWeek} />}
 

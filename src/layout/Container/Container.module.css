@@ -3,4 +3,7 @@
     max-width: 1880px;
     width: 100vw;
     margin: 0 auto;
+    
+    /* для нового года */
+    margin-top: 60px; 
 }

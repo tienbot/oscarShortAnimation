@@ -88,7 +88,7 @@ export const FilmPage = () => {
         nomination = []
     } = film;
 
-    console.log(genres);
+    // console.log(genres);
     
 
     const isWinShortAnimatedFilm = nomination.length > 0 && nomination[0]?.isWinShortAnimatedFilm;
