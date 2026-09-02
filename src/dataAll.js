@@ -45,7 +45,7 @@ export const data = [
                 "director": [
                     "Бен Аффлек"
                 ],
-                "scenario": [
+                "writer": [
                     "Крис Террио",
                     "Тони Мендес",
                     "Джошуа Бирмен"
@@ -62,13 +62,13 @@ export const data = [
                 "composer": [
                     "Александр Деспла"
                 ],
-                "artist": [
+                "design": [
                     "Шэрон Сеймур",
                     "Питер Борк",
                     "Жаклин Уэст",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Уильям Голденберг"
                 ],
                 "worldPremiere": "31 августа 2012",
@@ -119,7 +119,7 @@ export const data = [
                 "director": [
                     "Стивен Спилберг"
                 ],
-                "scenario": [
+                "writer": [
                     "Тони Кушнер",
                     "Дорис Кернс Гудвин"
                 ],
@@ -135,13 +135,13 @@ export const data = [
                 "composer": [
                     "Джон Уильямс"
                 ],
-                "artist": [
+                "design": [
                     "Рик Картер",
                     "Курт Бич",
                     "Дэвид Крэнк",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Майкл Кан"
                 ],
                 "worldPremiere": "8 октября 2012",
@@ -204,7 +204,7 @@ export const data = [
                 "director": [
                     "Энг Ли"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэвид Маги",
                     "Янн Мартел"
                 ],
@@ -220,13 +220,13 @@ export const data = [
                 "composer": [
                     "Майкл Дэнна"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Гропмэн",
                     "Аль Хоббс",
                     "Нирадж Кумар Сингх",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Тим Скуайрес"
                 ],
                 "worldPremiere": "28 сентября 2012",
@@ -274,7 +274,7 @@ export const data = [
                 "director": [
                     "Дэвид О. Расселл"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэвид О. Расселл",
                     "Мэттью Куик"
                 ],
@@ -290,13 +290,13 @@ export const data = [
                 "composer": [
                     "Дэнни Элфман"
                 ],
-                "artist": [
+                "design": [
                     "Джуди Бекер",
                     "Джесси Розенталь",
                     "Марк Бриджес",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джей Кэссиди",
                     "Криспин Стразерс"
                 ],
@@ -349,7 +349,7 @@ export const data = [
                 "director": [
                     "Михаэль Ханеке"
                 ],
-                "scenario": [
+                "writer": [
                     "Михаэль Ханеке"
                 ],
                 "producer": [
@@ -364,13 +364,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Жан-Венсан Пюзо",
                     "Тьерри Пулет",
                     "Катрин Летерье",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Надин Мьюз",
                     "Моника Вилли"
                 ],
@@ -418,7 +418,7 @@ export const data = [
                 "director": [
                     "Том Хупер"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Николсон",
                     "Ален Бублиль",
                     "Клод-Мишель Шонберг",
@@ -436,13 +436,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Ив Стюарт",
                     "Грант Армстронг",
                     "Гари Джоплинг",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Крис Дикенс",
                     "Мелани Оливер"
                 ],
@@ -497,7 +497,7 @@ export const data = [
                 "director": [
                     "Кэтрин Бигелоу"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Боал"
                 ],
                 "producer": [
@@ -512,13 +512,13 @@ export const data = [
                 "composer": [
                     "Александр Деспла"
                 ],
-                "artist": [
+                "design": [
                     "Джереми Хиндл",
                     "Kulwant Maan",
                     "Бен Коллинз",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Уильям Голденберг",
                     "Дилан Тиченор"
                 ],
@@ -570,7 +570,7 @@ export const data = [
                 "director": [
                     "Квентин Тарантино"
                 ],
-                "scenario": [
+                "writer": [
                     "Квентин Тарантино"
                 ],
                 "producer": [
@@ -585,13 +585,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Дж. Майкл Рива",
                     "Пейдж Бакнер",
                     "Дэвид Ф. Классен",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Фред Раскин"
                 ],
                 "worldPremiere": "11 декабря 2012",
@@ -636,7 +636,7 @@ export const data = [
                 "director": [
                     "Бен Зайтлин"
                 ],
-                "scenario": [
+                "writer": [
                     "Бен Зайтлин",
                     "Люси Алибар"
                 ],
@@ -653,13 +653,13 @@ export const data = [
                     "Дэн Ромер",
                     "Бен Зайтлин"
                 ],
-                "artist": [
+                "design": [
                     "Алекс ДиДжерландо",
                     "Доун Маси",
                     "Стефани Льюис",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Крокетт Дуб",
                     "Аффонсо Гонсалвес"
                 ],
@@ -707,7 +707,7 @@ export const data = [
                 "director": [
                     "Уэс Андерсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Уэс Андерсон",
                     "Роман Коппола"
                 ],
@@ -723,13 +723,13 @@ export const data = [
                 "composer": [
                     "Александр Деспла"
                 ],
-                "artist": [
+                "design": [
                     "Адам Штокхаузен",
                     "Джералд Салливан",
                     "Кася Валицка-Мэймон",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Эндрю Вайсблум"
                 ],
                 "worldPremiere": "16 мая 2012",
@@ -773,7 +773,7 @@ export const data = [
                 "director": [
                     "Роберт Земекис"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Гэйтинс"
                 ],
                 "producer": [
@@ -788,13 +788,13 @@ export const data = [
                 "composer": [
                     "Алан Сильвестри"
                 ],
-                "artist": [
+                "design": [
                     "Нельсон Коутс",
                     "Дэвид Лазан",
                     "Луиз Фрогли",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джеремайя О’Дрисколл"
                 ],
                 "worldPremiere": "14 октября 2012",
@@ -834,7 +834,7 @@ export const data = [
                 "director": [
                     "ПЕС"
                 ],
-                "scenario": [
+                "writer": [
                     "ПЕС"
                 ],
                 "producer": [
@@ -847,10 +847,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "ПЕС"
                 ],
                 "worldPremiere": "2 марта 2012",
@@ -899,7 +899,7 @@ export const data = [
                 "director": [
                     "Тимоти Рекарт"
                 ],
-                "scenario": [
+                "writer": [
                     "Тимоти Рекарт"
                 ],
                 "producer": [
@@ -911,11 +911,11 @@ export const data = [
                 "composer": [
                     "Джеред Соркин"
                 ],
-                "artist": [
+                "design": [
                     "Элеонора Кремонезе",
                     "Томас Энтони Лоутион"
                 ],
-                "installation": [
+                "editor": [
                     "Джеймс Тейлор"
                 ],
                 "worldPremiere": "24 мая 2012",
@@ -961,7 +961,7 @@ export const data = [
                 "director": [
                     "Дэвид Силверман"
                 ],
-                "scenario": [
+                "writer": [
                     "Джеймс Л. Брукс",
                     "Мэтт Грейнинг",
                     "Эл Джин",
@@ -979,10 +979,10 @@ export const data = [
                 "composer": [
                     "Ханс Циммер"
                 ],
-                "artist": [
+                "design": [
                     "Дима Маланичев"
                 ],
-                "installation": [
+                "editor": [
                     "Роджер Инджарусорн"
                 ],
                 "worldPremiere": "26 июня 2012",
@@ -1037,7 +1037,7 @@ export const data = [
                 "director": [
                     "Джон Карс"
                 ],
-                "scenario": [
+                "writer": [
                     "Клио Чианг",
                     "Кенделл Хойер"
                 ],
@@ -1051,10 +1051,10 @@ export const data = [
                 "composer": [
                     "Кристоф Бек"
                 ],
-                "artist": [
+                "design": [
                     "Джефф Терли"
                 ],
-                "installation": [
+                "editor": [
                     "Лиза Линдер"
                 ],
                 "worldPremiere": "29 сентября 2012",
@@ -1097,7 +1097,7 @@ export const data = [
                 "director": [
                     "Ли Мин-гю"
                 ],
-                "scenario": [
+                "writer": [
                     "Ли Мин-гю"
                 ],
                 "producer": [
@@ -1110,10 +1110,10 @@ export const data = [
                 "composer": [
                     "Джои Ньюман"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "6 ноября 2012",
@@ -1157,7 +1157,7 @@ export const data = [
                 "director": [
                     "Роберт Земекис"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Гэйтинс"
                 ],
                 "producer": [
@@ -1172,13 +1172,13 @@ export const data = [
                 "composer": [
                     "Алан Сильвестри"
                 ],
-                "artist": [
+                "design": [
                     "Нельсон Коутс",
                     "Дэвид Лазан",
                     "Луиз Фрогли",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джеремайя О’Дрисколл"
                 ],
                 "worldPremiere": "14 октября 2012",
@@ -1219,7 +1219,7 @@ export const data = [
                 "director": [
                     "Ян Инглэнд"
                 ],
-                "scenario": [
+                "writer": [
                     "Ян Инглэнд"
                 ],
                 "producer": [
@@ -1232,10 +1232,10 @@ export const data = [
                     "Алексис ле Ме",
                     "Мишель Мотар"
                 ],
-                "artist": [
+                "design": [
                     "Фредерик Девос"
                 ],
-                "installation": [
+                "editor": [
                     "Филипп Ганьон"
                 ],
                 "worldPremiere": "9 августа 2011",
@@ -1279,7 +1279,7 @@ export const data = [
                 "director": [
                     "Сэм Френч"
                 ],
-                "scenario": [
+                "writer": [
                     "Сэм Френч",
                     "Мартин Десмонд Роу"
                 ],
@@ -1295,10 +1295,10 @@ export const data = [
                 "composer": [
                     "Джеймс Дули"
                 ],
-                "artist": [
+                "design": [
                     "Мэттью Томпсон"
                 ],
-                "installation": [
+                "editor": [
                     "Нельс Бангертер"
                 ],
                 "worldPremiere": "20 октября 2012",
@@ -1345,7 +1345,7 @@ export const data = [
                 "director": [
                     "Брайан Бакли"
                 ],
-                "scenario": [
+                "writer": [
                     "Брайан Бакли"
                 ],
                 "producer": [
@@ -1360,11 +1360,11 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Скиннер",
                     "Малин Нокел"
                 ],
-                "installation": [
+                "editor": [
                     "Крис Франклин"
                 ],
                 "worldPremiere": "21 апреля 2012",
@@ -1417,7 +1417,7 @@ export const data = [
                 "director": [
                     "Том Ван Авермат"
                 ],
-                "scenario": [
+                "writer": [
                     "Том Ван Авермат"
                 ],
                 "producer": [
@@ -1432,11 +1432,11 @@ export const data = [
                 "composer": [
                     "Раф Кюнен"
                 ],
-                "artist": [
+                "design": [
                     "Эрван Ле Флёк",
                     "Ванесса Эдрард"
                 ],
-                "installation": [
+                "editor": [
                     "Дитер Дипендале"
                 ],
                 "worldPremiere": "4 июня 2012",
@@ -1484,7 +1484,7 @@ export const data = [
                     "Шон Файн",
                     "Андреа Никс"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -1499,10 +1499,10 @@ export const data = [
                 "composer": [
                     "Кигэн Девитт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джефф Консильо"
                 ],
                 "worldPremiere": "15 июня 2012",
@@ -1546,7 +1546,7 @@ export const data = [
                 "director": [
                     "Синтия Уэйд"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -1562,10 +1562,10 @@ export const data = [
                 "composer": [
                     "Макс Эйвери Лихтенштейн"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дэвид Тиг"
                 ],
                 "worldPremiere": "20 апреля 2012",
@@ -1612,7 +1612,7 @@ export const data = [
                 "director": [
                     "Сари Гилман"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -1629,10 +1629,10 @@ export const data = [
                 "composer": [
                     "Мириам Катлер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джеффри Фридман"
                 ],
                 "worldPremiere": "12 октября 2012",
@@ -1680,7 +1680,7 @@ export const data = [
                     "Джон Алперт",
                     "Мэттью О’Нилл"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -1694,10 +1694,10 @@ export const data = [
                 "composer": [
                     "Джонатан Залбен"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Адам Бартон",
                     "Джон Кустодио",
                     "Роб Канс",
@@ -1738,7 +1738,7 @@ export const data = [
                 "director": [
                     "Киеф Давидсон"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -1754,10 +1754,10 @@ export const data = [
                     "Джонни Клаймек",
                     "Гэбриел Исаак Монси"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Киеф Давидсон",
                     "Флавия Де Соуза"
                 ],
@@ -1808,7 +1808,7 @@ export const data = [
                 "director": [
                     "Малик Бенджеллуль"
                 ],
-                "scenario": [
+                "writer": [
                     "Малик Бенджеллуль",
                     "Стивен «Шугар» Сегерман",
                     "Крэйг Бартоломью Стридом"
@@ -1825,10 +1825,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Малик Бенджеллуль"
                 ],
                 "worldPremiere": "19 января 2012",
@@ -1872,7 +1872,7 @@ export const data = [
                 "director": [
                     "Кирби Дик"
                 ],
-                "scenario": [
+                "writer": [
                     "Кирби Дик",
                     "Эми Зиринг Кофман",
                     "Дуглас Блаш"
@@ -1890,10 +1890,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дуглас Блаш",
                     "Дерек Бунстра"
                 ],
@@ -1935,7 +1935,7 @@ export const data = [
                 "director": [
                     "Дэвид Фрэнс"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэвид Фрэнс",
                     "Тодд Вуди Ричман",
                     "Тайлер Х. Уолк",
@@ -1955,10 +1955,10 @@ export const data = [
                     "Люк О’Мэлли",
                     "Артур Расселл"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Тодд Вуди Ричман",
                     "Тайлер Х. Уолк"
                 ],
@@ -2010,7 +2010,7 @@ export const data = [
                     "Эмад Бернат",
                     "Гай Давиди"
                 ],
-                "scenario": [
+                "writer": [
                     "Гай Давиди"
                 ],
                 "producer": [
@@ -2025,10 +2025,10 @@ export const data = [
                 "composer": [
                     "Ле Трио Жубран"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Гай Давиди",
                     "Вероника Лагорде-Сегот"
                 ],
@@ -2082,7 +2082,7 @@ export const data = [
                 "director": [
                     "Дрор Морех"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -2097,10 +2097,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Дорон Корен"
                 ],
-                "installation": [
+                "editor": [
                     "Орон Адар"
                 ],
                 "worldPremiere": "10 июля 2012",
@@ -2156,7 +2156,7 @@ export const data = [
                 "director": [
                     "Николай Арсель"
                 ],
-                "scenario": [
+                "writer": [
                     "Расмус Хейстерберг",
                     "Николай Арсель",
                     "Бодиль Стинсен-Лет"
@@ -2174,13 +2174,13 @@ export const data = [
                     "Сирилль Офорт",
                     "Габриэль Яред"
                 ],
-                "artist": [
+                "design": [
                     "Нильс Сейер",
                     "Мартин Курель",
                     "Манон Расмуссен",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Каспер Лейк",
                     "Миккел И.Г. Нилсен"
                 ],
@@ -2222,7 +2222,7 @@ export const data = [
                 "director": [
                     "Ким Нгуен"
                 ],
-                "scenario": [
+                "writer": [
                     "Ким Нгуен",
                     "Simon Trépanier",
                     "Alexandre Mangona"
@@ -2239,12 +2239,12 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Эммануэль Фречетт",
                     "Эрик Пурье",
                     "Жози Арсено"
                 ],
-                "installation": [
+                "editor": [
                     "Ричард Комю"
                 ],
                 "worldPremiere": "17 февраля 2012",
@@ -2304,7 +2304,7 @@ export const data = [
                     "Йоаким Рённинг",
                     "Эспен Сандберг"
                 ],
-                "scenario": [
+                "writer": [
                     "Петтер Скавлан"
                 ],
                 "producer": [
@@ -2319,13 +2319,13 @@ export const data = [
                 "composer": [
                     "Юхан Сёдерквист"
                 ],
-                "artist": [
+                "design": [
                     "Карл Юлиуссон",
                     "Кес Бонне",
                     "Лек Чайян Чунсуттиват",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Пер-Эрик Эриксен",
                     "Мартин Штольц"
                 ],
@@ -2376,7 +2376,7 @@ export const data = [
                 "director": [
                     "Пабло Ларраин"
                 ],
-                "scenario": [
+                "writer": [
                     "Педро Пеирано",
                     "Антонио Скармета"
                 ],
@@ -2392,12 +2392,12 @@ export const data = [
                 "composer": [
                     "Карлос Кабесас"
                 ],
-                "artist": [
+                "design": [
                     "Эстефания Ларраин",
                     "Франциска Роман",
                     "Мария Эухения Эдерра"
                 ],
-                "installation": [
+                "editor": [
                     "Андрея Киньоли"
                 ],
                 "worldPremiere": "18 мая 2012",
@@ -2449,7 +2449,7 @@ export const data = [
                     "Бренда Чепмен",
                     "Стив Пёрселл"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Эндрюс",
                     "Стив Пёрселл",
                     "Ирен Меччи",
@@ -2467,10 +2467,10 @@ export const data = [
                 "composer": [
                     "Патрик Дойл"
                 ],
-                "artist": [
+                "design": [
                     "Стив Пилчер"
                 ],
-                "installation": [
+                "editor": [
                     "Николас С. Смит"
                 ],
                 "worldPremiere": "10 июня 2012",
@@ -2529,7 +2529,7 @@ export const data = [
                 "director": [
                     "Тим Бёртон"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Огаст",
                     "Тим Бёртон",
                     "Леонард Риппс"
@@ -2546,12 +2546,12 @@ export const data = [
                 "composer": [
                     "Дэнни Элфман"
                 ],
-                "artist": [
+                "design": [
                     "Рик Хайнрихс",
                     "Тим Браунинг",
                     "Александра Уолкер"
                 ],
-                "installation": [
+                "editor": [
                     "Крис Лебензон",
                     "Марк Соломон"
                 ],
@@ -2612,7 +2612,7 @@ export const data = [
                     "Питер Лорд",
                     "Джефф Ньюитт"
                 ],
-                "scenario": [
+                "writer": [
                     "Гидеон Дефо"
                 ],
                 "producer": [
@@ -2627,13 +2627,13 @@ export const data = [
                 "composer": [
                     "Теодор Шапиро"
                 ],
-                "artist": [
+                "design": [
                     "Норман Гарвуд",
                     "Сара Холдрен",
                     "Фил Льюис",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джастин Криш"
                 ],
                 "worldPremiere": "28 марта 2012",
@@ -2690,7 +2690,7 @@ export const data = [
                     "Крис Батлер",
                     "Сэм Фелл"
                 ],
-                "scenario": [
+                "writer": [
                     "Крис Батлер"
                 ],
                 "producer": [
@@ -2705,13 +2705,13 @@ export const data = [
                 "composer": [
                     "Джон Брайон"
                 ],
-                "artist": [
+                "design": [
                     "Нельсон Лоури",
                     "Фил Бразертон",
                     "Франческа Берлиньери Максвелл",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Кристофер Мюрри"
                 ],
                 "worldPremiere": "3 августа 2012",
@@ -2764,7 +2764,7 @@ export const data = [
                 "director": [
                     "Рич Мур"
                 ],
-                "scenario": [
+                "writer": [
                     "Дженнифер Ли",
                     "Рич Мур",
                     "Фил Джонстон",
@@ -2781,11 +2781,11 @@ export const data = [
                 "composer": [
                     "Генри Джекман"
                 ],
-                "artist": [
+                "design": [
                     "Майк Гэбриел",
                     "Иэн Гудинг"
                 ],
-                "installation": [
+                "editor": [
                     "Тим Мертенс"
                 ],
                 "worldPremiere": "1 ноября 2012",
@@ -2817,7 +2817,7 @@ export const data = [
             "director": [
                 "Дон Мишер"
             ],
-            "scenario": [
+            "writer": [
                 "Лесли Диксон",
                 "Джон Мэкс",
                 "Мэтт Робертс",
@@ -2835,13 +2835,13 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Дерек МакЛейн",
                 "Джо Челли",
                 "Брюс Паск",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 ""
             ],
             "worldPremiere": "24 февраля 2013",
@@ -2896,7 +2896,7 @@ export const data = [
                 "director": [
                     "Стив МакКуин"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Ридли",
                     "Соломон Нортап"
                 ],
@@ -2912,13 +2912,13 @@ export const data = [
                 "composer": [
                     "Ханс Циммер"
                 ],
-                "artist": [
+                "design": [
                     "Адам Штокхаузен",
                     "Дэвид Стейн",
                     "Патриша Норрис",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джо Уокер"
                 ],
                 "worldPremiere": "30 августа 2013",
@@ -2963,7 +2963,7 @@ export const data = [
                 "director": [
                     "Жан-Марк Валле"
                 ],
-                "scenario": [
+                "writer": [
                     "Крэйг Бортен",
                     "Мелисса Уоллэк"
                 ],
@@ -2979,13 +2979,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Джон Пэйно",
                     "Хавьера Варас",
                     "Курт и Барт",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Мартин Пенса",
                     "Жан-Марк Валле"
                 ],
@@ -3037,7 +3037,7 @@ export const data = [
                 "director": [
                     "Мартин Скорсезе"
                 ],
-                "scenario": [
+                "writer": [
                     "Теренс Уинтер",
                     "Джордан Белфорт"
                 ],
@@ -3053,13 +3053,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Боб Шоу",
                     "Крис Шрайвер",
                     "Dave Asling",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Тельма Скунмейкер"
                 ],
                 "worldPremiere": "9 декабря 2013",
@@ -3109,7 +3109,7 @@ export const data = [
                 "director": [
                     "Альфонсо Куарон"
                 ],
-                "scenario": [
+                "writer": [
                     "Альфонсо Куарон",
                     "Хонас Куарон"
                 ],
@@ -3125,13 +3125,13 @@ export const data = [
                 "composer": [
                     "Стивен Прайс"
                 ],
-                "artist": [
+                "design": [
                     "Энди Николсон",
                     "Марк Скратон",
                     "Яни Темиме",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Альфонсо Куарон",
                     "Марк Сэнгер"
                 ],
@@ -3183,7 +3183,7 @@ export const data = [
                 "director": [
                     "Пол Гринграсс"
                 ],
-                "scenario": [
+                "writer": [
                     "Билли Рэй",
                     "Ричард Филлипс",
                     "Стефан Тэлти"
@@ -3200,13 +3200,13 @@ export const data = [
                 "composer": [
                     "Генри Джекман"
                 ],
-                "artist": [
+                "design": [
                     "Пол Кирби",
                     "Азиз Хамичи",
                     "Су Уайтакер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Кристофер Раус"
                 ],
                 "worldPremiere": "27 сентября 2013",
@@ -3254,7 +3254,7 @@ export const data = [
                 "director": [
                     "Спайк Джонс"
                 ],
-                "scenario": [
+                "writer": [
                     "Спайк Джонс"
                 ],
                 "producer": [
@@ -3269,13 +3269,13 @@ export const data = [
                 "composer": [
                     "Arcade Fire"
                 ],
-                "artist": [
+                "design": [
                     "К.К. Баррет",
                     "Остин Горг",
                     "Кэйси Сторм",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джефф Бьюкэнэн",
                     "Эрик Замбраннен"
                 ],
@@ -3327,7 +3327,7 @@ export const data = [
                 "director": [
                     "Дэвид О. Расселл"
                 ],
-                "scenario": [
+                "writer": [
                     "Эрик Уоррен Сингер",
                     "Дэвид О. Расселл"
                 ],
@@ -3343,13 +3343,13 @@ export const data = [
                 "composer": [
                     "Дэнни Элфман"
                 ],
-                "artist": [
+                "design": [
                     "Джуди Бекер",
                     "Джесси Розенталь",
                     "Майкл Уилкинсон",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Алан Баумгартен",
                     "Джей Кэссиди",
                     "Криспин Стразерс"
@@ -3399,7 +3399,7 @@ export const data = [
                 "director": [
                     "Александр Пэйн"
                 ],
-                "scenario": [
+                "writer": [
                     "Боб Нельсон"
                 ],
                 "producer": [
@@ -3414,13 +3414,13 @@ export const data = [
                 "composer": [
                     "Марк Ортон"
                 ],
-                "artist": [
+                "design": [
                     "Дж. Деннис Вашингтон",
                     "Сэнди Венециано",
                     "Венди Чак",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Кевин Тент"
                 ],
                 "worldPremiere": "23 мая 2013",
@@ -3471,7 +3471,7 @@ export const data = [
                 "director": [
                     "Стивен Фрирз"
                 ],
-                "scenario": [
+                "writer": [
                     "Стив Куган",
                     "Джефф Поуп",
                     "Мартин Сиксмит"
@@ -3488,13 +3488,13 @@ export const data = [
                 "composer": [
                     "Александр Деспла"
                 ],
-                "artist": [
+                "design": [
                     "Алан МакДональд",
                     "Сара Стюарт",
                     "Род МакЛин",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Валерио Бонелли"
                 ],
                 "worldPremiere": "31 августа 2013",
@@ -3538,7 +3538,7 @@ export const data = [
                 "director": [
                     "Вуди Аллен"
                 ],
-                "scenario": [
+                "writer": [
                     "Вуди Аллен"
                 ],
                 "producer": [
@@ -3553,13 +3553,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Санто Локосто",
                     "Майкл Е. Голдман",
                     "Сьюзи Бензингер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Алиса Лепселтер"
                 ],
                 "worldPremiere": "22 июля 2013",
@@ -3603,7 +3603,7 @@ export const data = [
                 "director": [
                     "Ричард Линклейтер"
                 ],
-                "scenario": [
+                "writer": [
                     "Жюли Дельпи",
                     "Итан Хоук",
                     "Ричард Линклейтер",
@@ -3621,10 +3621,10 @@ export const data = [
                 "composer": [
                     "Грэм Рейнольдс"
                 ],
-                "artist": [
+                "design": [
                     "Василейя Розана"
                 ],
-                "installation": [
+                "editor": [
                     "Сандра Адер"
                 ],
                 "worldPremiere": "20 января 2013",
@@ -3670,7 +3670,7 @@ export const data = [
                 "director": [
                     "Сюхэй Морита"
                 ],
-                "scenario": [
+                "writer": [
                     "Сюхэй Морита"
                 ],
                 "producer": [
@@ -3682,11 +3682,11 @@ export const data = [
                 "composer": [
                     "Рэидзи Китадзато"
                 ],
-                "artist": [
+                "design": [
                     "Хидэки Накамура",
                     "Даисукэ Садзики"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "4 июня 2012",
@@ -3730,7 +3730,7 @@ export const data = [
                     "Ян Лахойер",
                     "Макс Лэнг"
                 ],
-                "scenario": [
+                "writer": [
                     "Макс Лэнг",
                     "Джулия Дональдсон",
                     "Аксель Шеффлер"
@@ -3747,10 +3747,10 @@ export const data = [
                 "composer": [
                     "Рене Обри"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Робин Сэйлс"
                 ],
                 "worldPremiere": "25 декабря 2012",
@@ -3799,7 +3799,7 @@ export const data = [
                 "director": [
                     "Дэниэл Суза"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэниэл Суза"
                 ],
                 "producer": [
@@ -3812,10 +3812,10 @@ export const data = [
                 "composer": [
                     "Дэн Голден"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дэниэл Суза"
                 ],
                 "worldPremiere": "25 апреля 2013",
@@ -3861,7 +3861,7 @@ export const data = [
                 "director": [
                     "Лорен Макмаллен"
                 ],
-                "scenario": [
+                "writer": [
                     "Лорен Макмаллен",
                     "Пол Бриггс",
                     "Нэнси Крус",
@@ -3878,10 +3878,10 @@ export const data = [
                 "composer": [
                     "Марк Уоттерс"
                 ],
-                "artist": [
+                "design": [
                     "Эндрю Эдвард Харкнесс"
                 ],
-                "installation": [
+                "editor": [
                     "Джули Роджерс"
                 ],
                 "worldPremiere": "11 июня 2013",
@@ -3934,7 +3934,7 @@ export const data = [
                     "Лорен Уитц",
                     "Александр Эспигарес"
                 ],
-                "scenario": [
+                "writer": [
                     "Лорен Уитц"
                 ],
                 "producer": [
@@ -3946,10 +3946,10 @@ export const data = [
                 "composer": [
                     "Франсуа Русселот"
                 ],
-                "artist": [
+                "design": [
                     "Паскаль Тьебо"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "20 июня 2013",
@@ -3996,7 +3996,7 @@ export const data = [
                 "director": [
                     "Андерс Вальтер Хансен"
                 ],
-                "scenario": [
+                "writer": [
                     "Кристиан Гамст Миллер-Харрис",
                     "Андерс Вальтер Хансен"
                 ],
@@ -4012,10 +4012,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ларс Уиссинг"
                 ],
                 "worldPremiere": "25 января 2014",
@@ -4062,7 +4062,7 @@ export const data = [
                 "director": [
                     "Марк Гил"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Гил",
                     "Болдуин Ли",
                     "Дэвид Митчелл"
@@ -4078,12 +4078,12 @@ export const data = [
                 "composer": [
                     "Болдуин Ли"
                 ],
-                "artist": [
+                "design": [
                     "Helen Watson",
                     "Кэт Хейл",
                     "Томас Стотт"
                 ],
-                "installation": [
+                "editor": [
                     "Марк Гил",
                     "Болдуин Ли"
                 ],
@@ -4131,7 +4131,7 @@ export const data = [
                 "director": [
                     "Сельма Вилхунен"
                 ],
-                "scenario": [
+                "writer": [
                     "Kirsikka Saari"
                 ],
                 "producer": [
@@ -4146,10 +4146,10 @@ export const data = [
                 "composer": [
                     "Tuomas Skopa"
                 ],
-                "artist": [
+                "design": [
                     "Каролина Койсо-Канттила"
                 ],
-                "installation": [
+                "editor": [
                     "Сельма Вилхунен"
                 ],
                 "worldPremiere": "17 февраля 2012",
@@ -4193,7 +4193,7 @@ export const data = [
                 "director": [
                     "Эстебан Креспо"
                 ],
-                "scenario": [
+                "writer": [
                     "Эстебан Креспо"
                 ],
                 "producer": [
@@ -4207,10 +4207,10 @@ export const data = [
                 "composer": [
                     "Juande Marfil"
                 ],
-                "artist": [
+                "design": [
                     "Хосе Луис Азкона"
                 ],
-                "installation": [
+                "editor": [
                     "Ванесса Маримберт"
                 ],
                 "worldPremiere": "24 апреля 2012",
@@ -4257,7 +4257,7 @@ export const data = [
                 "director": [
                     "Ксавье Легран"
                 ],
-                "scenario": [
+                "writer": [
                     "Ксавье Легран"
                 ],
                 "producer": [
@@ -4269,11 +4269,11 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Джереми Сфез",
                     "Laurence Forgue"
                 ],
-                "installation": [
+                "editor": [
                     "Йоргос Лампринос"
                 ],
                 "worldPremiere": "23 января 2013",
@@ -4329,7 +4329,7 @@ export const data = [
                 "director": [
                     "Малкольм Кларк"
                 ],
-                "scenario": [
+                "writer": [
                     "Малкольм Кларк",
                     "Карл Фрид"
                 ],
@@ -4345,10 +4345,10 @@ export const data = [
                 "composer": [
                     "Люк Ст. Пьер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Карл Фрид"
                 ],
                 "worldPremiere": "31 мая 2013",
@@ -4392,7 +4392,7 @@ export const data = [
                 "director": [
                     "Джеффри Карофф"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -4404,10 +4404,10 @@ export const data = [
                 "composer": [
                     "Питер Мин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Эрин Нордстром"
                 ],
                 "worldPremiere": "12 января 2013",
@@ -4460,7 +4460,7 @@ export const data = [
                 "director": [
                     "Сара Ишак"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -4474,10 +4474,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Amir Hamdani",
                     "Сара Ишак"
                 ],
@@ -4522,7 +4522,7 @@ export const data = [
                 "director": [
                     "Джейсон Коэн"
                 ],
-                "scenario": [
+                "writer": [
                     "Джейсон Коэн"
                 ],
                 "producer": [
@@ -4536,10 +4536,10 @@ export const data = [
                 "composer": [
                     "Дэвид Кеслер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Т.М. Кристофер"
                 ],
                 "worldPremiere": "13 июля 2013",
@@ -4586,7 +4586,7 @@ export const data = [
                 "director": [
                     "Эдгар Баренс"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -4601,10 +4601,10 @@ export const data = [
                 "composer": [
                     "Макс Рихтер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джеф Бэртс",
                     "Глэдис Мерфи"
                 ],
@@ -4652,7 +4652,7 @@ export const data = [
                 "director": [
                     "Морган Невилл"
                 ],
-                "scenario": [
+                "writer": [
                     "Морган Невилл"
                 ],
                 "producer": [
@@ -4668,10 +4668,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дуглас Блаш",
                     "Кевин Клаубер",
                     "Джейсон Зелдс"
@@ -4714,7 +4714,7 @@ export const data = [
                 "director": [
                     "Захари Хейнзерлинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Захари Хейнзерлинг"
                 ],
                 "producer": [
@@ -4729,10 +4729,10 @@ export const data = [
                 "composer": [
                     "Ясуаки Симидзу"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дэвид Тиг"
                 ],
                 "worldPremiere": "19 января 2013",
@@ -4790,7 +4790,7 @@ export const data = [
                     "Аноним",
                     "Кристина Синн"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -4807,10 +4807,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Нильс Паг Андерсен",
                     "Шарлотта Мунх Бенгтсен",
                     "Ариадна Фатьо-Вилас",
@@ -4863,7 +4863,7 @@ export const data = [
                 "director": [
                     "Джехен Нужейм"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -4882,10 +4882,10 @@ export const data = [
                     "Йонас Колструп",
                     "Х. Скотт Салинас"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Кристофер де ла Торре",
                     "Мохаммед эль Манастерли",
                     "Пьер Хеберер",
@@ -4938,7 +4938,7 @@ export const data = [
                 "director": [
                     "Рик Роули"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэвид Райкер"
                 ],
                 "producer": [
@@ -4953,10 +4953,10 @@ export const data = [
                 "composer": [
                     "Дэвид Хэррингтон"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дэвид Райкер",
                     "Рик Роули"
                 ],
@@ -5001,7 +5001,7 @@ export const data = [
                 "director": [
                     "Паоло Соррентино"
                 ],
-                "scenario": [
+                "writer": [
                     "Умберто Контарелло",
                     "Паоло Соррентино"
                 ],
@@ -5017,11 +5017,11 @@ export const data = [
                 "composer": [
                     "Леле Маркителли"
                 ],
-                "artist": [
+                "design": [
                     "Стефания Челла",
                     "Даниэла Чианчио"
                 ],
-                "installation": [
+                "editor": [
                     "Кристьяно Травальоли"
                 ],
                 "worldPremiere": "21 мая 2013",
@@ -5068,7 +5068,7 @@ export const data = [
                 "director": [
                     "Феликс ван Гронинген"
                 ],
-                "scenario": [
+                "writer": [
                     "Шарлотта Вандермерш",
                     "Йохан Хелденберг",
                     "Мике Доббелс",
@@ -5086,11 +5086,11 @@ export const data = [
                 "composer": [
                     "Bjorn Eriksson"
                 ],
-                "artist": [
+                "design": [
                     "Курт Риголле",
                     "Энн Ловери"
                 ],
-                "installation": [
+                "editor": [
                     "Нико Лёнен"
                 ],
                 "worldPremiere": "10 октября 2012",
@@ -5131,7 +5131,7 @@ export const data = [
                 "director": [
                     "Томас Винтерберг"
                 ],
-                "scenario": [
+                "writer": [
                     "Томас Винтерберг",
                     "Тобиас Линдхольм"
                 ],
@@ -5147,12 +5147,12 @@ export const data = [
                 "composer": [
                     "Николай Эгелунд"
                 ],
-                "artist": [
+                "design": [
                     "Торбен Стиг Нилсен",
                     "Манон Расмуссен",
                     "Расмус Балслев-Олесен"
                 ],
-                "installation": [
+                "editor": [
                     "Янус Биллесков Янсен",
                     "Анне Эстеруд"
                 ],
@@ -5194,7 +5194,7 @@ export const data = [
                 "director": [
                     "Рити Панх"
                 ],
-                "scenario": [
+                "writer": [
                     "Рити Панх",
                     "Кристоф Батайль"
                 ],
@@ -5209,10 +5209,10 @@ export const data = [
                 "composer": [
                     "Марк Мардер"
                 ],
-                "artist": [
+                "design": [
                     "Рити Панх"
                 ],
-                "installation": [
+                "editor": [
                     "Рити Панх",
                     "Мари-Кристин Ружери"
                 ],
@@ -5254,7 +5254,7 @@ export const data = [
                 "director": [
                     "Хани Абу-Ассад"
                 ],
-                "scenario": [
+                "writer": [
                     "Хани Абу-Ассад"
                 ],
                 "producer": [
@@ -5269,12 +5269,12 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Йоэль Херцберг",
                     "Наэль Кань",
                     "Хамада Аталла"
                 ],
-                "installation": [
+                "editor": [
                     "Мартин Бринклер",
                     "Эйас Салман"
                 ],
@@ -5332,7 +5332,7 @@ export const data = [
                     "Крис Бак",
                     "Дженнифер Ли"
                 ],
-                "scenario": [
+                "writer": [
                     "Дженнифер Ли",
                     "Ханс Кристиан Андерсен",
                     "Крис Бак",
@@ -5349,11 +5349,11 @@ export const data = [
                 "composer": [
                     "Кристоф Бек"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Вомерсли",
                     "Майкл Джиаймо"
                 ],
-                "installation": [
+                "editor": [
                     "Джефф Дрэхейм"
                 ],
                 "worldPremiere": "10 ноября 2013",
@@ -5404,7 +5404,7 @@ export const data = [
                     "Кирк де Микко",
                     "Крис Сандерс"
                 ],
-                "scenario": [
+                "writer": [
                     "Кирк де Микко",
                     "Крис Сандерс",
                     "Джон Клиз"
@@ -5419,13 +5419,13 @@ export const data = [
                 "composer": [
                     "Алан Сильвестри"
                 ],
-                "artist": [
+                "design": [
                     "Кристоф Лотретт",
                     "Пол Дункан",
                     "Доминик Луи",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Даррен Т. Холмс"
                 ],
                 "worldPremiere": "15 февраля 2013",
@@ -5485,7 +5485,7 @@ export const data = [
                     "Пьер Коффан",
                     "Крис Рено"
                 ],
-                "scenario": [
+                "writer": [
                     "Синко Пол",
                     "Кен Даурио"
                 ],
@@ -5501,12 +5501,12 @@ export const data = [
                     "Эйтор Перейра",
                     "Фаррелл Уильямс"
                 ],
-                "artist": [
+                "design": [
                     "Ярроу Чейни",
                     "Эрик Гуильон",
                     "Питер Заслав"
                 ],
-                "installation": [
+                "editor": [
                     "Грегори Перлер"
                 ],
                 "worldPremiere": "16 июня 2013",
@@ -5573,7 +5573,7 @@ export const data = [
                     "Венсан Патар",
                     "Бенжамин Реннер"
                 ],
-                "scenario": [
+                "writer": [
                     "Даниэль Пеннак",
                     "Габриэль Венсан"
                 ],
@@ -5589,12 +5589,12 @@ export const data = [
                 "composer": [
                     "Венсан Куртуа"
                 ],
-                "artist": [
+                "design": [
                     "Заза",
                     "Зик",
                     "Ив Ле Пейе"
                 ],
-                "installation": [
+                "editor": [
                     "Фабьен Альварез-Жиро"
                 ],
                 "worldPremiere": "23 мая 2012",
@@ -5644,7 +5644,7 @@ export const data = [
                 "director": [
                     "Хаяо Миядзаки"
                 ],
-                "scenario": [
+                "writer": [
                     "Хаяо Миядзаки"
                 ],
                 "producer": [
@@ -5659,10 +5659,10 @@ export const data = [
                 "composer": [
                     "Дзё Хисаиси"
                 ],
-                "artist": [
+                "design": [
                     "Ёдзи Такэсигэ"
                 ],
-                "installation": [
+                "editor": [
                     "Такэси Сэяма"
                 ],
                 "worldPremiere": "20 июля 2013",
@@ -5694,7 +5694,7 @@ export const data = [
             "director": [
                 "Хамиш Хэмилтон"
             ],
-            "scenario": [
+            "writer": [
                 "Кристин Гор",
                 "Эми Озолс",
                 "Джон Мэкс",
@@ -5712,13 +5712,13 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Дерек МакЛейн",
                 "Джо Челли",
                 "Глория Ламб",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 ""
             ],
             "worldPremiere": "2 марта 2014",
@@ -5767,7 +5767,7 @@ export const data = [
                 "director": [
                     "Алехандро Гонсалес Иньярриту"
                 ],
-                "scenario": [
+                "writer": [
                     "Алехандро Гонсалес Иньярриту",
                     "Николас Джакобоне",
                     "Александр Динеларис",
@@ -5785,13 +5785,13 @@ export const data = [
                 "composer": [
                     "Антонио Санчес"
                 ],
-                "artist": [
+                "design": [
                     "Кевин Томпсон",
                     "Стивен Х. Картер",
                     "Альберт Вольски",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Дуглас Крайс",
                     "Стивен Миррионе"
                 ],
@@ -5842,7 +5842,7 @@ export const data = [
                 "director": [
                     "Ава ДюВерней"
                 ],
-                "scenario": [
+                "writer": [
                     "Пол Уэбб"
                 ],
                 "producer": [
@@ -5857,13 +5857,13 @@ export const data = [
                 "composer": [
                     "Джейсон Моран"
                 ],
-                "artist": [
+                "design": [
                     "Марк Фридберг",
                     "Ким Дженнингс",
                     "Рут Е. Картер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Спенсер Эверик"
                 ],
                 "worldPremiere": "11 ноября 2014",
@@ -5905,7 +5905,7 @@ export const data = [
                 "director": [
                     "Ричард Линклейтер"
                 ],
-                "scenario": [
+                "writer": [
                     "Ричард Линклейтер"
                 ],
                 "producer": [
@@ -5921,12 +5921,12 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Родни Бекер",
                     "Кари Перкинс",
                     "Мелани Фергюсон"
                 ],
-                "installation": [
+                "editor": [
                     "Сандра Адер"
                 ],
                 "worldPremiere": "19 января 2014",
@@ -5980,7 +5980,7 @@ export const data = [
                 "director": [
                     "Мортен Тильдум"
                 ],
-                "scenario": [
+                "writer": [
                     "Грэм Мур",
                     "Эндрю Ходжес"
                 ],
@@ -5996,13 +5996,13 @@ export const data = [
                 "composer": [
                     "Александр Деспла"
                 ],
-                "artist": [
+                "design": [
                     "Мария Джуркович",
                     "Ник Дент",
                     "Ребекка Милтон",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Уильям Голденберг"
                 ],
                 "worldPremiere": "29 августа 2014",
@@ -6053,7 +6053,7 @@ export const data = [
                 "director": [
                     "Клинт Иствуд"
                 ],
-                "scenario": [
+                "writer": [
                     "Джейсон Холл",
                     "Крис Кайл",
                     "Скотт МакЭвен",
@@ -6071,13 +6071,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Черисс Карденас",
                     "Джеймс Дж. Мураками",
                     "Гарри Е. Отто",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джоэл Кокс",
                     "Гари Роач"
                 ],
@@ -6132,7 +6132,7 @@ export const data = [
                 "director": [
                     "Уэс Андерсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Стефан Цвейг",
                     "Уэс Андерсон",
                     "Хьюго Гиннесс"
@@ -6149,13 +6149,13 @@ export const data = [
                 "composer": [
                     "Александр Деспла"
                 ],
-                "artist": [
+                "design": [
                     "Адам Штокхаузен",
                     "Санаа Аль-Хабиб",
                     "Штефан О. Гесслер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Барни Пиллинг"
                 ],
                 "worldPremiere": "6 февраля 2014",
@@ -6200,7 +6200,7 @@ export const data = [
                 "director": [
                     "Дэмьен Шазелл"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэмьен Шазелл"
                 ],
                 "producer": [
@@ -6215,13 +6215,13 @@ export const data = [
                 "composer": [
                     "Джастин Гурвиц"
                 ],
-                "artist": [
+                "design": [
                     "Мелани Джонс",
                     "Хантер Браун",
                     "Лиза Норсиа",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Том Кросс"
                 ],
                 "worldPremiere": "16 января 2014",
@@ -6272,7 +6272,7 @@ export const data = [
                 "director": [
                     "Джеймс Марш"
                 ],
-                "scenario": [
+                "writer": [
                     "Энтони МакКартен",
                     "Джейн Хокинг"
                 ],
@@ -6288,13 +6288,13 @@ export const data = [
                 "composer": [
                     "Йохан Йоханнссон"
                 ],
-                "artist": [
+                "design": [
                     "Джон Пол Келли",
                     "Дэвид Хиндл",
                     "Стивен Ноубл",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джинкс Годфри"
                 ],
                 "worldPremiere": "7 сентября 2014",
@@ -6335,7 +6335,7 @@ export const data = [
                 "director": [
                     "Беннетт Миллер"
                 ],
-                "scenario": [
+                "writer": [
                     "Э. Макс Фрай",
                     "Дэн Футтерман"
                 ],
@@ -6351,13 +6351,13 @@ export const data = [
                 "composer": [
                     "Роб Симонсен"
                 ],
-                "artist": [
+                "design": [
                     "Джесс Гончор",
                     "Брэд Рикер",
                     "Кася Валицка-Мэймон",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джей Кэссиди",
                     "Стюарт Леви",
                     "Конор О’Нилл"
@@ -6403,7 +6403,7 @@ export const data = [
                 "director": [
                     "Дэн Гилрой"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэн Гилрой"
                 ],
                 "producer": [
@@ -6418,13 +6418,13 @@ export const data = [
                 "composer": [
                     "Джеймс Ньютон Ховард"
                 ],
-                "artist": [
+                "design": [
                     "Кевин Кэвэно",
                     "Наман Маршалл",
                     "Эми Весткотт",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джон Гилрой"
                 ],
                 "worldPremiere": "5 сентября 2014",
@@ -6468,7 +6468,7 @@ export const data = [
                 "director": [
                     "Пол Томас Андерсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Пол Томас Андерсон",
                     "Томас Пинчон"
                 ],
@@ -6484,13 +6484,13 @@ export const data = [
                 "composer": [
                     "Джонни Гринвуд"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Крэнк",
                     "Рут Де Йонг",
                     "Марк Бриджес",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Лесли Джонс"
                 ],
                 "worldPremiere": "4 октября 2014",
@@ -6536,7 +6536,7 @@ export const data = [
                 "director": [
                   "Дэйзи Джейкобс"
                 ],
-                "scenario": [
+                "writer": [
                   "Дэйзи Джейкобс",
                   "Дженнифер Майка"
                 ],
@@ -6549,10 +6549,10 @@ export const data = [
                 "composer": [
                   "Хув Банфорд"
                 ],
-                "artist": [
+                "design": [
                   "Эло Сооде"
                 ],
-                "installation": [
+                "editor": [
                   "Vera Simmonds"
                 ],
                 "worldPremiere": "21 мая 2014",
@@ -6607,7 +6607,7 @@ export const data = [
                 "director": [
                   "Патрик Осборн"
                 ],
-                "scenario": [
+                "writer": [
                   "Патрик Осборн",
                   "Николь Митчелл",
                   "Рэймонд С. Перси"
@@ -6621,10 +6621,10 @@ export const data = [
                 "composer": [
                   "Алекс Эберт"
                 ],
-                "artist": [
+                "design": [
                   "Джефф Терли"
                 ],
-                "installation": [
+                "editor": [
                   "Джефф Дрэхейм"
                 ],
                 "worldPremiere": "10 июня 2014",
@@ -6670,7 +6670,7 @@ export const data = [
                 "director": [
                   "Торилл Коув"
                 ],
-                "scenario": [
+                "writer": [
                   "Торилл Коув"
                 ],
                 "producer": [
@@ -6683,10 +6683,10 @@ export const data = [
                 "composer": [
                   "Кевин Дин"
                 ],
-                "artist": [
+                "design": [
                   "Торилл Коув"
                 ],
-                "installation": [
+                "editor": [
                   "Элисон Барнс"
                 ],
                 "worldPremiere": "10 июня 2014",
@@ -6736,7 +6736,7 @@ export const data = [
                   "Роберт Кондо",
                   "Даисукэ Цуцуми"
                 ],
-                "scenario": [
+                "writer": [
                   "John Henry Hinkel",
                   "Роберт Кондо",
                   "Даисукэ Цуцуми"
@@ -6752,8 +6752,8 @@ export const data = [
                   "Зак Джонстон",
                   "Маттео Робертс"
                 ],
-                "artist": [],
-                "installation": [
+                "design": [],
+                "editor": [
                   "Брэдли Ферниш"
                 ],
                 "worldPremiere": "28 июня 2014",
@@ -6804,7 +6804,7 @@ export const data = [
                   "Йорис Опринс",
                   "Йоб Роггевен"
                 ],
-                "scenario": [
+                "writer": [
                   "Йоб Роггевен",
                   "Йорис Опринс",
                   "Марике Блау"
@@ -6818,8 +6818,8 @@ export const data = [
                 "composer": [
                   "Хэппи Кэмпер"
                 ],
-                "artist": [],
-                "installation": [],
+                "design": [],
+                "editor": [],
                 "worldPremiere": "21 октября 2014",
                 "ratingAgeLimits": "",
                 "ratingMpaa": "",
@@ -6858,7 +6858,7 @@ export const data = [
                 "director": [
                     "Мат Кирби"
                 ],
-                "scenario": [
+                "writer": [
                     "Мат Кирби",
                     "Джеймс Лукас"
                 ],
@@ -6874,10 +6874,10 @@ export const data = [
                     "Эндрю Росс",
                     "Эндрю Уоллес"
                 ],
-                "artist": [
+                "design": [
                     "Питер Френсис"
                 ],
-                "installation": [
+                "editor": [
                     "Лиззи Грэхэм"
                 ],
                 "worldPremiere": "20 октября 2013",
@@ -6928,7 +6928,7 @@ export const data = [
                     "Одед Биннун",
                     "Михаль Брезис"
                 ],
-                "scenario": [
+                "writer": [
                     "Михаль Брезис",
                     "Одед Биннун",
                     "Том Шовал"
@@ -6945,10 +6945,10 @@ export const data = [
                     "Ишай Адар",
                     "Ронен Шапира"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "1 сентября 2012",
@@ -6992,7 +6992,7 @@ export const data = [
                 "director": [
                     "Вэй Ху"
                 ],
-                "scenario": [
+                "writer": [
                     "Вэй Ху"
                 ],
                 "producer": [
@@ -7006,10 +7006,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Вэй Ху"
                 ],
-                "installation": [
+                "editor": [
                     "Вэй Ху"
                 ],
                 "worldPremiere": "20 мая 2013",
@@ -7050,7 +7050,7 @@ export const data = [
                 "director": [
                     "Талкон Хамзави"
                 ],
-                "scenario": [
+                "writer": [
                     "Талкон Хамзави"
                 ],
                 "producer": [
@@ -7062,10 +7062,10 @@ export const data = [
                 "composer": [
                     "Доминик Блумер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ханнес Рюттиман"
                 ],
                 "worldPremiere": "4 июля 2013",
@@ -7109,7 +7109,7 @@ export const data = [
                 "director": [
                     "Майкл Леннокс"
                 ],
-                "scenario": [
+                "writer": [
                     "Ронан Блэйни"
                 ],
                 "producer": [
@@ -7122,11 +7122,11 @@ export const data = [
                 "composer": [
                     "Джеред Соркин"
                 ],
-                "artist": [
+                "design": [
                     "Ниал МакЭвой",
                     "Сьюзэн Скотт"
                 ],
-                "installation": [
+                "editor": [
                     "Ливия Серпа"
                 ],
                 "worldPremiere": "1 августа 2014",
@@ -7167,7 +7167,7 @@ export const data = [
                 "director": [
                     "Эллен Гусенберг Кент"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -7181,10 +7181,10 @@ export const data = [
                 "composer": [
                     "Венди Блэкстоун"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джеф Бэртс",
                     "Глэдис Мерфи"
                 ],
@@ -7232,7 +7232,7 @@ export const data = [
                 "director": [
                     "Анета Копач"
                 ],
-                "scenario": [
+                "writer": [
                     "Анета Копач",
                     "Томаш Среднява"
                 ],
@@ -7245,10 +7245,10 @@ export const data = [
                 "composer": [
                     "Ян А.П. Качмарек"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Анета Копач",
                     "Павел Ласковски",
                     "Рафаль Самборски"
@@ -7297,7 +7297,7 @@ export const data = [
                 "director": [
                     "Кристиан Дженсен"
                 ],
-                "scenario": [
+                "writer": [
                     "Кристиан Дженсен"
                 ],
                 "producer": [
@@ -7309,10 +7309,10 @@ export const data = [
                 "composer": [
                     "Уайли Уэбб"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Кристиан Дженсен"
                 ],
                 "worldPremiere": "18 января 2014",
@@ -7359,7 +7359,7 @@ export const data = [
                 "director": [
                     "Томаш Сливиньский"
                 ],
-                "scenario": [
+                "writer": [
                     "Томаш Сливиньский"
                 ],
                 "producer": [
@@ -7372,10 +7372,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Юстина Кроль",
                     "Томаш Сливиньский",
                     "Томаш Вольский"
@@ -7421,7 +7421,7 @@ export const data = [
                 "director": [
                     "Габриэль Серра"
                 ],
-                "scenario": [
+                "writer": [
                     "Габриэль Серра"
                 ],
                 "producer": [
@@ -7433,10 +7433,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Коки Ортега",
                     "Габриэль Серра"
                 ],
@@ -7484,7 +7484,7 @@ export const data = [
                 "director": [
                     "Лора Пойтрас"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -7502,10 +7502,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Матильда Бонфуа"
                 ],
                 "worldPremiere": "10 октября 2014",
@@ -7550,7 +7550,7 @@ export const data = [
                     "Джон Малуф",
                     "Чарли Сискел"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Малуф",
                     "Чарли Сискел"
                 ],
@@ -7566,10 +7566,10 @@ export const data = [
                 "composer": [
                     "Джошуа Ральф"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Аарон Уикенден"
                 ],
                 "worldPremiere": "9 сентября 2013",
@@ -7613,7 +7613,7 @@ export const data = [
                 "director": [
                     "Рори Кеннеди"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Бэйли",
                     "Кевен Макалестер"
                 ],
@@ -7629,10 +7629,10 @@ export const data = [
                 "composer": [
                     "Гари Лионелли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Don Kleszy"
                 ],
                 "worldPremiere": "17 января 2014",
@@ -7676,7 +7676,7 @@ export const data = [
                 "director": [
                     "Орландо фон Айнсидель"
                 ],
-                "scenario": [
+                "writer": [
                     "Орландо фон Айнсидель"
                 ],
                 "producer": [
@@ -7691,10 +7691,10 @@ export const data = [
                 "composer": [
                     "Патрик Йонсон"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Кэти Брайер",
                     "Масахиро Хиракубо",
                     "Миикка Лескинен",
@@ -7748,7 +7748,7 @@ export const data = [
                     "Джулиано Рибейру Сальгаду",
                     "Вим Вендерс"
                 ],
-                "scenario": [
+                "writer": [
                     "Вим Вендерс",
                     "Джулиано Рибейру Сальгаду",
                     "Дэвид Розье"
@@ -7766,10 +7766,10 @@ export const data = [
                 "composer": [
                     "Лоран Петиган"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Максин Гёдике",
                     "Роб Майерс"
                 ],
@@ -7811,7 +7811,7 @@ export const data = [
                 "director": [
                     "Павел Павликовский"
                 ],
-                "scenario": [
+                "writer": [
                     "Павел Павликовский",
                     "Ребекка Ленкевич"
                 ],
@@ -7828,13 +7828,13 @@ export const data = [
                 "composer": [
                     "Кристиан Эйднс Андерсен"
                 ],
-                "artist": [
+                "design": [
                     "Марсель Славиньский",
                     "Катажина Собанска-Стрзалковска",
                     "Ягна Добеш",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Ярослав Камински"
                 ],
                 "worldPremiere": "30 августа 2013",
@@ -7875,7 +7875,7 @@ export const data = [
                 "director": [
                     "Андрей Звягинцев"
                 ],
-                "scenario": [
+                "writer": [
                     "Олег Негин",
                     "Андрей Звягинцев"
                 ],
@@ -7891,12 +7891,12 @@ export const data = [
                 "composer": [
                     "Филип Гласс"
                 ],
-                "artist": [
+                "design": [
                     "Андрей Понкратов",
                     "Анна Бартули",
                     "Николай Рябцев"
                 ],
-                "installation": [
+                "editor": [
                     "Анна Масс"
                 ],
                 "worldPremiere": "23 мая 2014",
@@ -7940,7 +7940,7 @@ export const data = [
                 "director": [
                     "Заза Урушадзе"
                 ],
-                "scenario": [
+                "writer": [
                     "Заза Урушадзе"
                 ],
                 "producer": [
@@ -7956,11 +7956,11 @@ export const data = [
                     "Ниаз Диасамидзе",
                     "Леван Киквидзе"
                 ],
-                "artist": [
+                "design": [
                     "Теа Телия",
                     "Симон Матчабели"
                 ],
-                "installation": [
+                "editor": [
                     "Александр Куранов"
                 ],
                 "worldPremiere": "16 октября 2013",
@@ -8013,7 +8013,7 @@ export const data = [
                 "director": [
                     "Дамиан Сифрон"
                 ],
-                "scenario": [
+                "writer": [
                     "Хулиан Лойола",
                     "Дамиан Сифрон",
                     "Germán Servidio"
@@ -8030,13 +8030,13 @@ export const data = [
                 "composer": [
                     "Густаво Сантаолалья"
                 ],
-                "artist": [
+                "design": [
                     "Josè Massolo",
                     "Мария Клара Нотари",
                     "Рут Фишермен",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Пабло Барбиери Каррера",
                     "Дамиан Сифрон"
                 ],
@@ -8084,7 +8084,7 @@ export const data = [
                 "director": [
                     "Абдеррахман Сиссако"
                 ],
-                "scenario": [
+                "writer": [
                     "Абдеррахман Сиссако",
                     "Кессен Толл"
                 ],
@@ -8100,11 +8100,11 @@ export const data = [
                 "composer": [
                     "Амин Бухафа"
                 ],
-                "artist": [
+                "design": [
                     "Себастьян Биршле",
                     "Ami Sow"
                 ],
-                "installation": [
+                "editor": [
                     "Надя Бен Рашид"
                 ],
                 "worldPremiere": "15 мая 2014",
@@ -8155,7 +8155,7 @@ export const data = [
                     "Дон Холл",
                     "Крис Уильямс"
                 ],
-                "scenario": [
+                "writer": [
                     "Джордан Робертс",
                     "Роберт Л. Бейрд",
                     "Дэниел Герсон",
@@ -8173,11 +8173,11 @@ export const data = [
                 "composer": [
                     "Генри Джекман"
                 ],
-                "artist": [
+                "design": [
                     "Пол А. Феликс",
                     "Скотт Ватанабэ"
                 ],
-                "installation": [
+                "editor": [
                     "Тим Мертенс"
                 ],
                 "worldPremiere": "23 октября 2014",
@@ -8231,7 +8231,7 @@ export const data = [
                     "Грэм Эннэбл",
                     "Энтони Стакки"
                 ],
-                "scenario": [
+                "writer": [
                     "Ирена Бригналл",
                     "Адам Пава",
                     "Vera Brosgol",
@@ -8249,13 +8249,13 @@ export const data = [
                 "composer": [
                     "Дарио Марианелли"
                 ],
-                "artist": [
+                "design": [
                     "Мишель Бретон",
                     "Аугуст Холл",
                     "Пол Лэсейн",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Эди Итиока"
                 ],
                 "worldPremiere": "31 августа 2014",
@@ -8308,7 +8308,7 @@ export const data = [
                 "director": [
                     "Дин ДеБлуа"
                 ],
-                "scenario": [
+                "writer": [
                     "Дин ДеБлуа",
                     "Крессида Коуэлл"
                 ],
@@ -8324,12 +8324,12 @@ export const data = [
                 "composer": [
                     "Джон Пауэлл"
                 ],
-                "artist": [
+                "design": [
                     "Пьер-Оливье Винсент",
                     "Майкл Неччи",
                     "Чжаопин Вэй"
                 ],
-                "installation": [
+                "editor": [
                     "Джон К. Карр"
                 ],
                 "worldPremiere": "16 мая 2014",
@@ -8391,7 +8391,7 @@ export const data = [
                 "director": [
                     "Томм Мур"
                 ],
-                "scenario": [
+                "writer": [
                     "Уилл Коллинз",
                     "Томм Мур"
                 ],
@@ -8407,10 +8407,10 @@ export const data = [
                 "composer": [
                     "Бруно Куле"
                 ],
-                "artist": [
+                "design": [
                     "Адриен Мериго"
                 ],
-                "installation": [
+                "editor": [
                     "Дарра Бирн"
                 ],
                 "worldPremiere": "6 сентября 2014",
@@ -8454,7 +8454,7 @@ export const data = [
                 "director": [
                     "Исао Такахата"
                 ],
-                "scenario": [
+                "writer": [
                     "Исао Такахата",
                     "Рико Сакагути"
                 ],
@@ -8469,10 +8469,10 @@ export const data = [
                 "composer": [
                     "Дзё Хисаиси"
                 ],
-                "artist": [
+                "design": [
                     "Кадзуо Ога"
                 ],
-                "installation": [
+                "editor": [
                     "Тосихико Кодзима"
                 ],
                 "worldPremiere": "23 ноября 2013",
@@ -8504,7 +8504,7 @@ export const data = [
             "director": [
                 "Хамиш Хэмилтон"
             ],
-            "scenario": [
+            "writer": [
                 "Грег Берланти",
                 "Сет Грэм-Смит",
                 "Майкл Грин",
@@ -8522,13 +8522,13 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Дерек МакЛейн",
                 "Глория Ламб",
                 "Мэтт Штайнбреннер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 ""
             ],
             "worldPremiere": "22 февраля 2015",
@@ -8580,7 +8580,7 @@ export const data = [
                 "director": [
                     "Том Маккарти"
                 ],
-                "scenario": [
+                "writer": [
                     "Джош Сингер",
                     "Том Маккарти"
                 ],
@@ -8596,13 +8596,13 @@ export const data = [
                 "composer": [
                     "Говард Шор"
                 ],
-                "artist": [
+                "design": [
                     "Стивен Х. Картер",
                     "Михаэла Чейн",
                     "Венди Чак",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Том МакАрдл"
                 ],
                 "worldPremiere": "3 сентября 2015",
@@ -8646,7 +8646,7 @@ export const data = [
                 "director": [
                     "Джордж Миллер"
                 ],
-                "scenario": [
+                "writer": [
                     "Джордж Миллер",
                     "Брендан МакКарти",
                     "Ник Латурис"
@@ -8663,13 +8663,13 @@ export const data = [
                 "composer": [
                     "Junkie XL"
                 ],
-                "artist": [
+                "design": [
                     "Колин Гибсон",
                     "Ричард Хоббс",
                     "Шира Хокман",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Маргарет Сиксел"
                 ],
                 "worldPremiere": "7 мая 2015",
@@ -8720,7 +8720,7 @@ export const data = [
                 "director": [
                     "Адам Маккей"
                 ],
-                "scenario": [
+                "writer": [
                     "Чарльз Рэндольф",
                     "Адам Маккей",
                     "Майкл Льюис"
@@ -8737,13 +8737,13 @@ export const data = [
                 "composer": [
                     "Николас Брителл"
                 ],
-                "artist": [
+                "design": [
                     "Клэйтон Хартли",
                     "Эллиотт Глик",
                     "Сьюзэн Мэтисон",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Хэнк Коруин"
                 ],
                 "worldPremiere": "12 ноября 2015",
@@ -8793,7 +8793,7 @@ export const data = [
                 "director": [
                     "Алехандро Гонсалес Иньярриту"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Л. Смит",
                     "Алехандро Гонсалес Иньярриту",
                     "Майкл Панке"
@@ -8811,13 +8811,13 @@ export const data = [
                     "Карстен Николай",
                     "Рюити Сакамото"
                 ],
-                "artist": [
+                "design": [
                     "Джек Фиск",
                     "Лорел Бергман",
                     "Майкл Динер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Стивен Миррионе"
                 ],
                 "worldPremiere": "16 декабря 2015",
@@ -8868,7 +8868,7 @@ export const data = [
                 "director": [
                     "Джон Краули"
                 ],
-                "scenario": [
+                "writer": [
                     "Ник Хорнби",
                     "Колм Тойбин"
                 ],
@@ -8884,13 +8884,13 @@ export const data = [
                 "composer": [
                     "Майкл Брук"
                 ],
-                "artist": [
+                "design": [
                     "Франсуа Сеген",
                     "Таня Биджлани",
                     "Шон Роберт Хоган",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джейк Робертс"
                 ],
                 "worldPremiere": "26 января 2015",
@@ -8944,7 +8944,7 @@ export const data = [
                 "director": [
                     "Леонард Абрахамсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Эмма Донохью"
                 ],
                 "producer": [
@@ -8959,13 +8959,13 @@ export const data = [
                 "composer": [
                     "Стивен Ренникс"
                 ],
-                "artist": [
+                "design": [
                     "Этан Тобман",
                     "Мишель Лэннон",
                     "Дерек Дж. Баскервиль",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Нэйтан Ньюджент"
                 ],
                 "worldPremiere": "4 сентября 2015",
@@ -9019,7 +9019,7 @@ export const data = [
                 "director": [
                     "Ридли Скотт"
                 ],
-                "scenario": [
+                "writer": [
                     "Дрю Годдард",
                     "Энди Уир"
                 ],
@@ -9035,13 +9035,13 @@ export const data = [
                 "composer": [
                     "Гарри Грегсон-Уильямс"
                 ],
-                "artist": [
+                "design": [
                     "Артур Макс",
                     "Роберт Каупер",
                     "Моника Эстан",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Пьетро Скалия"
                 ],
                 "worldPremiere": "11 сентября 2015",
@@ -9098,7 +9098,7 @@ export const data = [
                 "director": [
                     "Стивен Спилберг"
                 ],
-                "scenario": [
+                "writer": [
                     "Мэтт Чарман",
                     "Итан Коэн",
                     "Джоэл Коэн"
@@ -9115,13 +9115,13 @@ export const data = [
                 "composer": [
                     "Томас Ньюман"
                 ],
-                "artist": [
+                "design": [
                     "Адам Штокхаузен",
                     "Марко Биттнер Россер",
                     "Скотт Дуган",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Майкл Кан"
                 ],
                 "worldPremiere": "4 октября 2015",
@@ -9168,7 +9168,7 @@ export const data = [
                 "director": [
                     "Алекс Гарленд"
                 ],
-                "scenario": [
+                "writer": [
                     "Алекс Гарленд"
                 ],
                 "producer": [
@@ -9184,13 +9184,13 @@ export const data = [
                     "Джофф Барроу",
                     "Бен Солсбери"
                 ],
-                "artist": [
+                "design": [
                     "Марк Дигби",
                     "Катрина Маккэй",
                     "Дэнис Шнегг",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Марк Дэй"
                 ],
                 "worldPremiere": "16 декабря 2014",
@@ -9234,7 +9234,7 @@ export const data = [
                 "director": [
                     "Ф. Гэри Грей"
                 ],
-                "scenario": [
+                "writer": [
                     "Джонатан Херман",
                     "Андреа Берлофф",
                     "С. Ли Сэвидж",
@@ -9252,13 +9252,13 @@ export const data = [
                 "composer": [
                     "Джозеф Трапанезе"
                 ],
-                "artist": [
+                "design": [
                     "Шэйн Валентино",
                     "Кристофер Браун",
                     "Келли Джонс",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Билли Фокс",
                     "Майкл Троник"
                 ],
@@ -9311,7 +9311,7 @@ export const data = [
                     "Пит Доктер",
                     "Роналдо Дель Кармен"
                 ],
-                "scenario": [
+                "writer": [
                     "Мэг ЛеФов",
                     "Джош Кули",
                     "Пит Доктер",
@@ -9329,11 +9329,11 @@ export const data = [
                 "composer": [
                     "Майкл Джаккино"
                 ],
-                "artist": [
+                "design": [
                     "Ральф Эгглстон",
                     "Берт Берри"
                 ],
-                "installation": [
+                "editor": [
                     "Кевин Нолтинг"
                 ],
                 "worldPremiere": "18 мая 2015",
@@ -9380,7 +9380,7 @@ export const data = [
                 "director": [
                     "Тодд Хейнс"
                 ],
-                "scenario": [
+                "writer": [
                     "Филлис Наж",
                     "Патриция Хайсмит"
                 ],
@@ -9396,13 +9396,13 @@ export const data = [
                 "composer": [
                     "Картер Бёруэлл"
                 ],
-                "artist": [
+                "design": [
                     "Джуди Бекер",
                     "Джесси Розенталь",
                     "Сэнди Пауэлл",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Аффонсо Гонсалвес"
                 ],
                 "worldPremiere": "17 мая 2015",
@@ -9452,7 +9452,7 @@ export const data = [
                 "director": [
                   "Габриель Осорио Варгас"
                 ],
-                "scenario": [
+                "writer": [
                   "Даниэль Кастро",
                   "Габриель Осорио Варгас"
                 ],
@@ -9466,11 +9466,11 @@ export const data = [
                 "composer": [
                   "Dënver"
                 ],
-                "artist": [
+                "design": [
                   "Antonia Herrera Oesterheld",
                   "Габриель Осорио Варгас"
                 ],
-                "installation": [
+                "editor": [
                   "Pato Escala Pierart"
                 ],
                 "worldPremiere": "8 мая 2014",
@@ -9510,7 +9510,7 @@ export const data = [
                 "director": [
                   "Константин Бронзит"
                 ],
-                "scenario": [
+                "writer": [
                   "Константин Бронзит"
                 ],
                 "producer": [
@@ -9521,10 +9521,10 @@ export const data = [
                 "composer": [
                   "Валентин Васенков"
                 ],
-                "artist": [
+                "design": [
                   "Роман Соколов"
                 ],
-                "installation": [],
+                "editor": [],
                 "worldPremiere": "21 августа 2014",
                 "ratingAgeLimits": "6+",
                 "ratingMpaa": "",
@@ -9571,7 +9571,7 @@ export const data = [
                 "director": [
                   "Дон Херцфельд"
                 ],
-                "scenario": [
+                "writer": [
                   "Дон Херцфельд"
                 ],
                 "producer": [
@@ -9583,10 +9583,10 @@ export const data = [
                 "composer": [
                   "-"
                 ],
-                "artist": [
+                "design": [
                   "Дон Херцфельд"
                 ],
-                "installation": [
+                "editor": [
                   "Дон Херцфельд"
                 ],
                 "worldPremiere": "22 января 2015",
@@ -9638,7 +9638,7 @@ export const data = [
                 "director": [
                   "Санджай Патель"
                 ],
-                "scenario": [
+                "writer": [
                   "Санджай Патель"
                 ],
                 "producer": [
@@ -9649,10 +9649,10 @@ export const data = [
                 "composer": [
                   "Майкл Дэнна"
                 ],
-                "artist": [
+                "design": [
                   "Chris Sasaki"
                 ],
-                "installation": [
+                "editor": [
                   "Kevin Rose-Williams"
                 ],
                 "worldPremiere": "27 сентября 2015",
@@ -9692,7 +9692,7 @@ export const data = [
                 "director": [
                   "Ричард Уильямс"
                 ],
-                "scenario": [
+                "writer": [
                   "-"
                 ],
                 "producer": [
@@ -9702,8 +9702,8 @@ export const data = [
                 "composer": [
                   "-"
                 ],
-                "artist": [],
-                "installation": [],
+                "design": [],
+                "editor": [],
                 "worldPremiere": "17 октября 2015",
                 "ratingAgeLimits": "",
                 "ratingMpaa": "",
@@ -9745,7 +9745,7 @@ export const data = [
                 "director": [
                     "Бенджамин Клири"
                 ],
-                "scenario": [
+                "writer": [
                     "Бенджамин Клири"
                 ],
                 "producer": [
@@ -9759,13 +9759,13 @@ export const data = [
                 "composer": [
                     "Николас Касаль"
                 ],
-                "artist": [
+                "design": [
                     "Расселл Де Розарио",
                     "Elena Isolini",
                     "Erin Larnder",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Бенджамин Клири"
                 ],
                 "worldPremiere": "8 июля 2015",
@@ -9812,7 +9812,7 @@ export const data = [
                 "director": [
                     "Генри Хьюз"
                 ],
-                "scenario": [
+                "writer": [
                     "Dawn DeVoe",
                     "Генри Хьюз"
                 ],
@@ -9828,13 +9828,13 @@ export const data = [
                 "composer": [
                     "Омар Фадель"
                 ],
-                "artist": [
+                "design": [
                     "Бенжи Кокс",
                     "Хайсу Вонг",
                     "Амре Ригли",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Anisha Acharya"
                 ],
                 "worldPremiere": "27 февраля 2015",
@@ -9884,7 +9884,7 @@ export const data = [
                 "director": [
                     "Джеми Донахью"
                 ],
-                "scenario": [
+                "writer": [
                     "Джеми Донахью"
                 ],
                 "producer": [
@@ -9899,11 +9899,11 @@ export const data = [
                 "composer": [
                     "Тримор Дхоми"
                 ],
-                "artist": [
+                "design": [
                     "Leonora Mehmeti",
                     "Vesa Kraja"
                 ],
-                "installation": [
+                "editor": [
                     "Сара Печек"
                 ],
                 "worldPremiere": "10 апреля 2015",
@@ -9950,7 +9950,7 @@ export const data = [
                 "director": [
                     "Патрик Воллрат"
                 ],
-                "scenario": [
+                "writer": [
                     "Патрик Воллрат"
                 ],
                 "producer": [
@@ -9963,11 +9963,11 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Симона Рааб",
                     "Вероника Сузанна Харб"
                 ],
-                "installation": [
+                "editor": [
                     "Патрик Воллрат"
                 ],
                 "worldPremiere": "19 мая 2015",
@@ -10014,7 +10014,7 @@ export const data = [
                 "director": [
                     "Бейзил Халил"
                 ],
-                "scenario": [
+                "writer": [
                     "Daniel Ka-Chun Chan",
                     "Бейзил Халил"
                 ],
@@ -10030,12 +10030,12 @@ export const data = [
                 "composer": [
                     "Jamie Serafi"
                 ],
-                "artist": [
+                "design": [
                     "Bashar Hassuneh",
                     "Крис Иса",
                     "Rabia Salifiti"
                 ],
-                "installation": [
+                "editor": [
                     "Бейзил Халил"
                 ],
                 "worldPremiere": "18 мая 2015",
@@ -10079,7 +10079,7 @@ export const data = [
                 "director": [
                     "Шармин Обаид"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10094,10 +10094,10 @@ export const data = [
                 "composer": [
                     "Венди Блэкстоун"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джеф Бэртс"
                 ],
                 "worldPremiere": "28 октября 2015",
@@ -10147,7 +10147,7 @@ export const data = [
                 "director": [
                     "Кортни Марш"
                 ],
-                "scenario": [
+                "writer": [
                     "Кортни Марш",
                     "Марсело Митник"
                 ],
@@ -10163,10 +10163,10 @@ export const data = [
                 "composer": [
                     "Стив Лондон"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Кортни Марш"
                 ],
                 "worldPremiere": "8 февраля 2015",
@@ -10217,7 +10217,7 @@ export const data = [
                     "Dee Hibbert-Jones",
                     "Nomi Talisman"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10232,11 +10232,11 @@ export const data = [
                 "composer": [
                     "Фред Фрит"
                 ],
-                "artist": [
+                "design": [
                     "Dee Hibbert-Jones",
                     "Nomi Talisman"
                 ],
-                "installation": [
+                "editor": [
                     "Роберт Арнольд",
                     "Элизабет Финлейсон",
                     "Dee Hibbert-Jones",
@@ -10283,7 +10283,7 @@ export const data = [
                 "director": [
                     "Дэвид Дарг"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэвид Дарг"
                 ],
                 "producer": [
@@ -10298,10 +10298,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "19 апреля 2015",
@@ -10351,7 +10351,7 @@ export const data = [
                 "director": [
                     "Adam Benzine"
                 ],
-                "scenario": [
+                "writer": [
                     "Adam Benzine"
                 ],
                 "producer": [
@@ -10366,10 +10366,10 @@ export const data = [
                 "composer": [
                     "Джоэль Гудман"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Тиффани Боуден"
                 ],
                 "worldPremiere": "25 апреля 2015",
@@ -10413,7 +10413,7 @@ export const data = [
                 "director": [
                     "Азиф Кападиа"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10430,10 +10430,10 @@ export const data = [
                 "composer": [
                     "Антонио Пинто"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Крис Кинг"
                 ],
                 "worldPremiere": "16 мая 2015",
@@ -10504,7 +10504,7 @@ export const data = [
                 "director": [
                     "Джошуа Оппенхаймер"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10520,10 +10520,10 @@ export const data = [
                     "Seri Banang",
                     "Мана Тахэн"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Нильс Паг Андерсен"
                 ],
                 "worldPremiere": "28 августа 2014",
@@ -10561,7 +10561,7 @@ export const data = [
                 "director": [
                     "Мэтт Хейнеман"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10578,10 +10578,10 @@ export const data = [
                     "Джексон Гринберг",
                     "Х. Скотт Салинас"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Мэттью Хамачек",
                     "Мэтт Хейнеман",
                     "Брэдли Дж. Росс",
@@ -10628,7 +10628,7 @@ export const data = [
                 "director": [
                     "Лиз Гарбус"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10643,11 +10643,11 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Маркус Киршнер",
                     "Ребекка Люк"
                 ],
-                "installation": [
+                "editor": [
                     "Джош Пирсон"
                 ],
                 "worldPremiere": "22 января 2015",
@@ -10697,7 +10697,7 @@ export const data = [
                 "director": [
                     "Евгений Афинеевский"
                 ],
-                "scenario": [
+                "writer": [
                     "Den Tolmor"
                 ],
                 "producer": [
@@ -10715,10 +10715,10 @@ export const data = [
                 "composer": [
                     "Джаша Клебе"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Уилл Знидарич"
                 ],
                 "worldPremiere": "3 сентября 2015",
@@ -10759,7 +10759,7 @@ export const data = [
                 "director": [
                     "Ласло Немеш"
                 ],
-                "scenario": [
+                "writer": [
                     "Ласло Немеш",
                     "Клара Ройер"
                 ],
@@ -10775,13 +10775,13 @@ export const data = [
                 "composer": [
                     "Ласло Мелиш"
                 ],
-                "artist": [
+                "design": [
                     "Ласло Райк",
                     "Эдит Сюч",
                     "Дорка Кишш",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Маттьё Тапонье"
                 ],
                 "worldPremiere": "15 мая 2015",
@@ -10834,7 +10834,7 @@ export const data = [
                 "director": [
                     "Наджи Абу Новар"
                 ],
-                "scenario": [
+                "writer": [
                     "Наджи Абу Новар",
                     "Бассель Гандур"
                 ],
@@ -10850,12 +10850,12 @@ export const data = [
                 "composer": [
                     "Джерри Лэйн"
                 ],
-                "artist": [
+                "design": [
                     "Анна Лэвэлл",
                     "Самю Кеилани",
                     "Jamila Aladdin"
                 ],
-                "installation": [
+                "editor": [
                     "Руперт Ллойд"
                 ],
                 "worldPremiere": "4 сентября 2014",
@@ -10905,7 +10905,7 @@ export const data = [
                 "director": [
                     "Тобиас Линдхольм"
                 ],
-                "scenario": [
+                "writer": [
                     "Тобиас Линдхольм"
                 ],
                 "producer": [
@@ -10920,13 +10920,13 @@ export const data = [
                 "composer": [
                     "Суне Вагнер"
                 ],
-                "artist": [
+                "design": [
                     "Томас Греве",
                     "Бурак Йерликая",
                     "Нассер Зуби",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Адам Нильсен"
                 ],
                 "worldPremiere": "5 сентября 2015",
@@ -10973,7 +10973,7 @@ export const data = [
                 "director": [
                     "Дениз Гамзе Эргювен"
                 ],
-                "scenario": [
+                "writer": [
                     "Дениз Гамзе Эргювен",
                     "Алис Винокур"
                 ],
@@ -10990,12 +10990,12 @@ export const data = [
                 "composer": [
                     "Уоррен Эллис"
                 ],
-                "artist": [
+                "design": [
                     "Туркер Исджи",
                     "Сердар Емисчи",
                     "Селин Созен"
                 ],
-                "installation": [
+                "editor": [
                     "Матильда Фон де Мортел"
                 ],
                 "worldPremiere": "19 мая 2015",
@@ -11048,7 +11048,7 @@ export const data = [
                 "director": [
                     "Сиро Герра"
                 ],
-                "scenario": [
+                "writer": [
                     "Кристина Гальего",
                     "Сиро Герра",
                     "Теодор Кох-Грюнберг",
@@ -11066,13 +11066,13 @@ export const data = [
                 "composer": [
                     "Наскуй Линарес"
                 ],
-                "artist": [
+                "design": [
                     "Анхелика Переа",
                     "Рамзес Бенхумеа",
                     "Катрин Родригес",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Этьен Буссак"
                 ],
                 "worldPremiere": "15 мая 2015",
@@ -11123,7 +11123,7 @@ export const data = [
                     "Дьюк Джонсон",
                     "Чарли Кауфман"
                 ],
-                "scenario": [
+                "writer": [
                     "Чарли Кауфман"
                 ],
                 "producer": [
@@ -11138,12 +11138,12 @@ export const data = [
                 "composer": [
                     "Картер Бёруэлл"
                 ],
-                "artist": [
+                "design": [
                     "Джон Джойс",
                     "Хай Ву",
                     "Susan Donym"
                 ],
-                "installation": [
+                "editor": [
                     "Гаррет Элкинс"
                 ],
                 "worldPremiere": "4 сентября 2015",
@@ -11197,7 +11197,7 @@ export const data = [
                     "Марк Бертон",
                     "Ричард Старзак"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Бертон",
                     "Ричард Старзак",
                     "Ник Парк"
@@ -11215,10 +11215,10 @@ export const data = [
                 "composer": [
                     "Илан Эшкери"
                 ],
-                "artist": [
+                "design": [
                     "Мэтт Перри"
                 ],
-                "installation": [
+                "editor": [
                     "Сим Эван-Джонс"
                 ],
                 "worldPremiere": "24 января 2015",
@@ -11262,7 +11262,7 @@ export const data = [
                 "director": [
                     "Але Абреу"
                 ],
-                "scenario": [
+                "writer": [
                     "Але Абреу"
                 ],
                 "producer": [
@@ -11278,10 +11278,10 @@ export const data = [
                     "Рубен Феффер",
                     "Густаво Курлат"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Але Абреу"
                 ],
                 "worldPremiere": "20 сентября 2013",
@@ -11328,7 +11328,7 @@ export const data = [
                 "director": [
                     "Хиромаса Ёнэбаяси"
                 ],
-                "scenario": [
+                "writer": [
                     "Кэйко Нива",
                     "Масаси Андо",
                     "Хиромаса Ёнэбаяси",
@@ -11346,10 +11346,10 @@ export const data = [
                 "composer": [
                     "Такацугу Мурамацу"
                 ],
-                "artist": [
+                "design": [
                     "Ёхэй Танэда"
                 ],
-                "installation": [
+                "editor": [
                     "Риэ Мацубара"
                 ],
                 "worldPremiere": "19 июля 2014",
@@ -11381,7 +11381,7 @@ export const data = [
             "director": [
                 "Гленн Уайсс"
             ],
-            "scenario": [
+            "writer": [
                 "Билли Кимбалл",
                 "Дэйв Бун",
                 "Крис Рок",
@@ -11399,13 +11399,13 @@ export const data = [
             "composer": [
                 "Дэнни Элфман"
             ],
-            "artist": [
+            "design": [
                 "Дерек МакЛейн",
                 "Глория Ламб",
                 "Мэтт Штайнбреннер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Бен Фолтс",
                 "Виктор Джори",
                 "Пол Маршан",
@@ -11454,7 +11454,7 @@ export const data = [
                 "director": [
                     "Барри Дженкинс"
                 ],
-                "scenario": [
+                "writer": [
                     "Барри Дженкинс",
                     "Тарелл МакКрейни"
                 ],
@@ -11470,13 +11470,13 @@ export const data = [
                 "composer": [
                     "Николас Брителл"
                 ],
-                "artist": [
+                "design": [
                     "Ханна Бичлер",
                     "Мэйбл Барба",
                     "Кэролайн Эселин",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джои МакМиллон",
                     "Нат Сандерс"
                 ],
@@ -11534,7 +11534,7 @@ export const data = [
                 "director": [
                     "Дэмьен Шазелл"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэмьен Шазелл"
                 ],
                 "producer": [
@@ -11549,13 +11549,13 @@ export const data = [
                 "composer": [
                     "Джастин Гурвиц"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Уоско",
                     "Остин Горг",
                     "Alex Angelino",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Том Кросс"
                 ],
                 "worldPremiere": "31 августа 2016",
@@ -11609,7 +11609,7 @@ export const data = [
                 "director": [
                     "Гарт Дэвис"
                 ],
-                "scenario": [
+                "writer": [
                     "Люк Дейвис",
                     "Сару Брайерли"
                 ],
@@ -11626,13 +11626,13 @@ export const data = [
                     "Фолькер Бертельман",
                     "Дастин О’Хэллоран"
                 ],
-                "artist": [
+                "design": [
                     "Крис Кеннеди",
                     "Джени Паркер",
                     "Рави Шривастав",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Александр де Франчески"
                 ],
                 "worldPremiere": "10 сентября 2016",
@@ -11683,7 +11683,7 @@ export const data = [
                 "director": [
                     "Дэвид Маккензи"
                 ],
-                "scenario": [
+                "writer": [
                     "Тейлор Шеридан"
                 ],
                 "producer": [
@@ -11699,13 +11699,13 @@ export const data = [
                     "Ник Кейв",
                     "Уоррен Эллис"
                 ],
-                "artist": [
+                "design": [
                     "Том Даффилд",
                     "Стив Купер",
                     "Малгожата Тужаньская",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джейк Робертс"
                 ],
                 "worldPremiere": "16 мая 2016",
@@ -11747,7 +11747,7 @@ export const data = [
                 "director": [
                     "Кеннет Лонерган"
                 ],
-                "scenario": [
+                "writer": [
                     "Кеннет Лонерган"
                 ],
                 "producer": [
@@ -11762,13 +11762,13 @@ export const data = [
                 "composer": [
                     "Лесли Барбер"
                 ],
-                "artist": [
+                "design": [
                     "Рут Де Йонг",
                     "Джордан Хендерсон",
                     "Мелисса Тот",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Дженнифер Лэйм"
                 ],
                 "worldPremiere": "23 января 2016",
@@ -11813,7 +11813,7 @@ export const data = [
                 "director": [
                     "Дензел Вашингтон"
                 ],
-                "scenario": [
+                "writer": [
                     "Огаст Уилсон"
                 ],
                 "producer": [
@@ -11828,13 +11828,13 @@ export const data = [
                 "composer": [
                     "Марсело Зарвос"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Гропмэн",
                     "Карен Шульц Гропмэн",
                     "Грегори А. Веймерскирч",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Хьюз Уинборн"
                 ],
                 "worldPremiere": "6 декабря 2016",
@@ -11881,7 +11881,7 @@ export const data = [
                 "director": [
                     "Мэл Гибсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Роберт Шенккан",
                     "Эндрю Найт"
                 ],
@@ -11897,13 +11897,13 @@ export const data = [
                 "composer": [
                     "Руперт Грегсон-Уильямс"
                 ],
-                "artist": [
+                "design": [
                     "Барри Робисон",
                     "Джасинта Леонг",
                     "Марк Робинс",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джон Гилберт"
                 ],
                 "worldPremiere": "4 сентября 2016",
@@ -11954,7 +11954,7 @@ export const data = [
                 "director": [
                     "Дени Вильнёв"
                 ],
-                "scenario": [
+                "writer": [
                     "Эрик Хайссерер",
                     "Тед Чан"
                 ],
@@ -11970,13 +11970,13 @@ export const data = [
                 "composer": [
                     "Йохан Йоханнссон"
                 ],
-                "artist": [
+                "design": [
                     "Патрис Верметт",
                     "Изабель Гюэ",
                     "Николас Лепаж",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джо Уокер"
                 ],
                 "worldPremiere": "1 сентября 2016",
@@ -12024,7 +12024,7 @@ export const data = [
                 "director": [
                     "Тед Мелфи"
                 ],
-                "scenario": [
+                "writer": [
                     "Эллисон Шредер",
                     "Тед Мелфи",
                     "Марго Ли Шеттерли"
@@ -12043,13 +12043,13 @@ export const data = [
                     "Фаррелл Уильямс",
                     "Ханс Циммер"
                 ],
-                "artist": [
+                "design": [
                     "Винн Томас",
                     "Джереми Вулси",
                     "Рени Эрлих Калфус",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Питер Тешнер"
                 ],
                 "worldPremiere": "1 декабря 2016",
@@ -12090,7 +12090,7 @@ export const data = [
                 "director": [
                     "Майк Миллс"
                 ],
-                "scenario": [
+                "writer": [
                     "Майк Миллс"
                 ],
                 "producer": [
@@ -12105,13 +12105,13 @@ export const data = [
                 "composer": [
                     "Роджер Нилл"
                 ],
-                "artist": [
+                "design": [
                     "Крис Джонс",
                     "Дженнифер Джонсон",
                     "Neil Wyzanowski",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Лесли Джонс"
                 ],
                 "worldPremiere": "8 октября 2016",
@@ -12170,7 +12170,7 @@ export const data = [
                 "director": [
                     "Йоргос Лантимос"
                 ],
-                "scenario": [
+                "writer": [
                     "Йоргос Лантимос",
                     "Эфтимис Филиппу"
                 ],
@@ -12186,11 +12186,11 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Жаклин Абрахамс",
                     "Сара Бленкинсоп"
                 ],
-                "installation": [
+                "editor": [
                     "Йоргос Мавропсаридис"
                 ],
                 "worldPremiere": "15 мая 2015",
@@ -12237,7 +12237,7 @@ export const data = [
                   "Эндрю Коутс",
                   "Lou Hamou-Lhadj"
                 ],
-                "scenario": [
+                "writer": [
                   "Эндрю Коутс",
                   "Lou Hamou-Lhadj",
                   "Mark C. Harris",
@@ -12252,11 +12252,11 @@ export const data = [
                 "composer": [
                   "Густаво Сантаолалья"
                 ],
-                "artist": [
+                "design": [
                   "Эндрю Коутс",
                   "Lou Hamou-Lhadj"
                 ],
-                "installation": [
+                "editor": [
                   "Кэти Грейвз"
                 ],
                 "worldPremiere": "31 октября 2015",
@@ -12302,7 +12302,7 @@ export const data = [
                 "director": [
                   "Теодор Ушев"
                 ],
-                "scenario": [
+                "writer": [
                   "Теодор Ушев",
                   "Georgi Gospodinov"
                 ],
@@ -12314,8 +12314,8 @@ export const data = [
                 "composer": [
                   "-"
                 ],
-                "artist": [],
-                "installation": [],
+                "design": [],
+                "editor": [],
                 "worldPremiere": "15 февраля 2016",
                 "ratingAgeLimits": "",
                 "ratingMpaa": "pg-13",
@@ -12356,7 +12356,7 @@ export const data = [
                 "director": [
                   "Патрик Осборн"
                 ],
-                "scenario": [
+                "writer": [
                   "—"
                 ],
                 "producer": [
@@ -12369,10 +12369,10 @@ export const data = [
                 "composer": [
                   "-"
                 ],
-                "artist": [
+                "design": [
                   "Туна Бора"
                 ],
-                "installation": [
+                "editor": [
                   "Стивен Райли"
                 ],
                 "worldPremiere": "17 апреля 2016",
@@ -12415,7 +12415,7 @@ export const data = [
                 "director": [
                   "Алан Барилларо"
                 ],
-                "scenario": [
+                "writer": [
                   "Алан Барилларо"
                 ],
                 "producer": [
@@ -12430,10 +12430,10 @@ export const data = [
                 "composer": [
                   "Эдриан Белью"
                 ],
-                "artist": [
+                "design": [
                   "Джейсон Димер"
                 ],
-                "installation": [
+                "editor": [
                   "Сара К. Реймерс"
                 ],
                 "worldPremiere": "16 июня 2016",
@@ -12479,7 +12479,7 @@ export const data = [
                 "director": [
                   "Роберт Вэлли"
                 ],
-                "scenario": [
+                "writer": [
                   "Роберт Вэлли"
                 ],
                 "producer": [
@@ -12491,10 +12491,10 @@ export const data = [
                 "composer": [
                   "—"
                 ],
-                "artist": [
+                "design": [
                   "Роберт Вэлли"
                 ],
-                "installation": [
+                "editor": [
                   "Роберт Вэлли"
                 ],
                 "worldPremiere": "1 июля 2016",
@@ -12553,7 +12553,7 @@ export const data = [
                 "director": [
                     "Йоргос Лантимос"
                 ],
-                "scenario": [
+                "writer": [
                     "Йоргос Лантимос",
                     "Эфтимис Филиппу"
                 ],
@@ -12569,11 +12569,11 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Жаклин Абрахамс",
                     "Сара Бленкинсоп"
                 ],
-                "installation": [
+                "editor": [
                     "Йоргос Мавропсаридис"
                 ],
                 "worldPremiere": "15 мая 2015",
@@ -12614,7 +12614,7 @@ export const data = [
                 "director": [
                     "Selim Azzazi"
                 ],
-                "scenario": [
+                "writer": [
                     "Selim Azzazi"
                 ],
                 "producer": [
@@ -12628,11 +12628,11 @@ export const data = [
                 "composer": [
                     "Selim Azzazi"
                 ],
-                "artist": [
+                "design": [
                     "Франсуаза Арно",
                     "Emily Cauwet"
                 ],
-                "installation": [
+                "editor": [
                     "Анита Рот"
                 ],
                 "worldPremiere": "5 февраля 2016",
@@ -12676,7 +12676,7 @@ export const data = [
                 "director": [
                     "Хуанхо Хименес Пенья"
                 ],
-                "scenario": [
+                "writer": [
                     "Пере Альтимира",
                     "Хуанхо Хименес Пенья"
                 ],
@@ -12691,10 +12691,10 @@ export const data = [
                 "composer": [
                     "Иван Цестер"
                 ],
-                "artist": [
+                "design": [
                     "Дэниэл Гарсия Бланко"
                 ],
-                "installation": [
+                "editor": [
                     "Сильвия Сервантес"
                 ],
                 "worldPremiere": "21 мая 2016",
@@ -12744,7 +12744,7 @@ export const data = [
                 "director": [
                     "Тимо фон Гунтен"
                 ],
-                "scenario": [
+                "writer": [
                     "Тимо фон Гунтен"
                 ],
                 "producer": [
@@ -12761,11 +12761,11 @@ export const data = [
                     "Лионель Бальденвег",
                     "Нора Бальденвег"
                 ],
-                "artist": [
+                "design": [
                     "Salome Jermann",
                     "Катрин Шнайдер"
                 ],
-                "installation": [
+                "editor": [
                     "Marcel Jetzer",
                     "Тимо фон Гунтен"
                 ],
@@ -12804,7 +12804,7 @@ export const data = [
                 "director": [
                     "Аске Банг"
                 ],
-                "scenario": [
+                "writer": [
                     "Аске Банг"
                 ],
                 "producer": [
@@ -12816,10 +12816,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -12863,7 +12863,7 @@ export const data = [
                 "director": [
                     "Орландо фон Айнсидель"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -12881,10 +12881,10 @@ export const data = [
                 "composer": [
                     "Патрик Йонсон"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Масахиро Хиракубо"
                 ],
                 "worldPremiere": "16 сентября 2016",
@@ -12925,7 +12925,7 @@ export const data = [
                 "director": [
                     "Дэн Краусс"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -12940,10 +12940,10 @@ export const data = [
                 "composer": [
                     "Джастин Мелланд"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Jeff Gilbert"
                 ],
                 "worldPremiere": "",
@@ -12987,7 +12987,7 @@ export const data = [
                 "director": [
                     "Марсель Меттельсифен"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -13002,10 +13002,10 @@ export const data = [
                 "composer": [
                     "Эндрю Филлипс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Nicholas Bays",
                     "Стив Эллис"
                 ],
@@ -13047,7 +13047,7 @@ export const data = [
                 "director": [
                     "Дафни Мациараки"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -13062,10 +13062,10 @@ export const data = [
                 "composer": [
                     "Уильям Райан Фритч"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дафни Мациараки"
                 ],
                 "worldPremiere": "1 сентября 2016",
@@ -13109,7 +13109,7 @@ export const data = [
                 "director": [
                     "Кахейн Корн"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -13124,10 +13124,10 @@ export const data = [
                 "composer": [
                     "Гари Майстер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Амира Дугхри",
                     "Эндрю Сэундерсон"
                 ],
@@ -13172,7 +13172,7 @@ export const data = [
                 "director": [
                     "Кахейн Корн"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -13187,10 +13187,10 @@ export const data = [
                 "composer": [
                     "Гари Майстер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Амира Дугхри",
                     "Эндрю Сэундерсон"
                 ],
@@ -13232,7 +13232,7 @@ export const data = [
                 "director": [
                     "Джанфранко Рози"
                 ],
-                "scenario": [
+                "writer": [
                     "Джанфранко Рози",
                     "Карла Каттани"
                 ],
@@ -13248,10 +13248,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Фабрицио Федерико",
                     "Якопо Куадри"
                 ],
@@ -13302,7 +13302,7 @@ export const data = [
                 "director": [
                     "Рауль Пек"
                 ],
-                "scenario": [
+                "writer": [
                     "Джеймс Болдуин",
                     "Рауль Пек"
                 ],
@@ -13320,10 +13320,10 @@ export const data = [
                 "composer": [
                     "Алексей Айги"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Александра Штраусс"
                 ],
                 "worldPremiere": "10 сентября 2016",
@@ -13367,7 +13367,7 @@ export const data = [
                 "director": [
                     "Ава ДюВерней"
                 ],
-                "scenario": [
+                "writer": [
                     "Спенсер Эверик",
                     "Ава ДюВерней"
                 ],
@@ -13384,10 +13384,10 @@ export const data = [
                 "composer": [
                     "Джейсон Моран"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Спенсер Эверик"
                 ],
                 "worldPremiere": "30 сентября 2016",
@@ -13440,7 +13440,7 @@ export const data = [
                 "director": [
                     "Роджер Росс Уильямс"
                 ],
-                "scenario": [
+                "writer": [
                     "Эмили Хабли",
                     "Кейт Роуз",
                     "Joyzel Acevedo",
@@ -13459,10 +13459,10 @@ export const data = [
                     "Т. Гриффин",
                     "Дилан Старк"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дэвид Тиг"
                 ],
                 "worldPremiere": "23 января 2016",
@@ -13512,7 +13512,7 @@ export const data = [
                 "director": [
                     "Асгар Фархади"
                 ],
-                "scenario": [
+                "writer": [
                     "Асгар Фархади"
                 ],
                 "producer": [
@@ -13527,12 +13527,12 @@ export const data = [
                     "Hojjat Hassanpour",
                     "Саттар Ораки"
                 ],
-                "artist": [
+                "design": [
                     "Кейван Мохаддам",
                     "Aylar Behzadi",
                     "Сара Сами"
                 ],
-                "installation": [
+                "editor": [
                     "Хайде Сафияри"
                 ],
                 "worldPremiere": "21 мая 2016",
@@ -13576,7 +13576,7 @@ export const data = [
                 "director": [
                     "Марен Аде"
                 ],
-                "scenario": [
+                "writer": [
                     "Марен Аде"
                 ],
                 "producer": [
@@ -13591,13 +13591,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Зильке Фишер",
                     "Малина Ионеску",
                     "Бриджитт Фучс",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Хейк Парплис"
                 ],
                 "worldPremiere": "14 мая 2016",
@@ -13644,7 +13644,7 @@ export const data = [
                 "director": [
                     "Мартин Зандвлиет"
                 ],
-                "scenario": [
+                "writer": [
                     "Мартин Зандвлиет"
                 ],
                 "producer": [
@@ -13659,13 +13659,13 @@ export const data = [
                 "composer": [
                     "Суне Мартин"
                 ],
-                "artist": [
+                "design": [
                     "Гитте Мэллинг",
                     "Сет Тернер",
                     "Стефани Бикер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Пер Сандхолт",
                     "Молли Марлен Стенсгаард"
                 ],
@@ -13710,7 +13710,7 @@ export const data = [
                 "director": [
                     "Ханнес Холм"
                 ],
-                "scenario": [
+                "writer": [
                     "Ханнес Холм",
                     "Фредрик Бакман"
                 ],
@@ -13726,11 +13726,11 @@ export const data = [
                 "composer": [
                     "Гауте Сторас"
                 ],
-                "artist": [
+                "design": [
                     "Ян Улоф Огрен",
                     "Камилла Линдблом"
                 ],
-                "installation": [
+                "editor": [
                     "Фредерик Морхеден"
                 ],
                 "worldPremiere": "13 декабря 2015",
@@ -13778,7 +13778,7 @@ export const data = [
                     "Мартин Батлер",
                     "Бентли Дин"
                 ],
-                "scenario": [
+                "writer": [
                     "Мартин Батлер",
                     "Джон Колли",
                     "Бентли Дин"
@@ -13795,10 +13795,10 @@ export const data = [
                 "composer": [
                     "Энтони Партос"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Таня Неме"
                 ],
                 "worldPremiere": "7 сентября 2015",
@@ -13853,7 +13853,7 @@ export const data = [
                     "Рич Мур",
                     "Джаред Буш"
                 ],
-                "scenario": [
+                "writer": [
                     "Байрон Ховард",
                     "Рич Мур",
                     "Джаред Буш",
@@ -13871,12 +13871,12 @@ export const data = [
                 "composer": [
                     "Майкл Джаккино"
                 ],
-                "artist": [
+                "design": [
                     "Дэн Купер",
                     "Дэвид Гетц",
                     "Маттиас Лехнер"
                 ],
-                "installation": [
+                "editor": [
                     "Джереми Милтон",
                     "Фабьен Роули"
                 ],
@@ -13930,7 +13930,7 @@ export const data = [
                 "director": [
                     "Трэвис Найт"
                 ],
-                "scenario": [
+                "writer": [
                     "Крис Батлер",
                     "Марк Хеймс",
                     "Шеннон Тиндл"
@@ -13946,13 +13946,13 @@ export const data = [
                 "composer": [
                     "Дарио Марианелли"
                 ],
-                "artist": [
+                "design": [
                     "Дэниэл Р. Кэйси",
                     "Нельсон Лоури",
                     "Элис Бёрд",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Кристофер Мюрри"
                 ],
                 "worldPremiere": "13 августа 2016",
@@ -14008,7 +14008,7 @@ export const data = [
                 "director": [
                     "Михаэль Дюдок де Вит"
                 ],
-                "scenario": [
+                "writer": [
                     "Паскаль Ферран",
                     "Михаэль Дюдок де Вит"
                 ],
@@ -14024,10 +14024,10 @@ export const data = [
                 "composer": [
                     "Лорен Перез"
                 ],
-                "artist": [
+                "design": [
                     "Михаэль Дюдок де Вит"
                 ],
-                "installation": [
+                "editor": [
                     "Селин Келепикис"
                 ],
                 "worldPremiere": "18 мая 2016",
@@ -14083,7 +14083,7 @@ export const data = [
                     "Дон Холл",
                     "..."
                 ],
-                "scenario": [
+                "writer": [
                     "Джаред Буш",
                     "Рон Клементс",
                     "Джон Маскер",
@@ -14100,10 +14100,10 @@ export const data = [
                 "composer": [
                     "Марк Манчина"
                 ],
-                "artist": [
+                "design": [
                     "Иэн Гудинг"
                 ],
-                "installation": [
+                "editor": [
                     "Джефф Дрэхейм"
                 ],
                 "worldPremiere": "14 ноября 2016",
@@ -14153,7 +14153,7 @@ export const data = [
                 "director": [
                     "Клод Баррас"
                 ],
-                "scenario": [
+                "writer": [
                     "Селин Сьямма",
                     "Germano Zullo",
                     "Клод Баррас",
@@ -14171,13 +14171,13 @@ export const data = [
                 "composer": [
                     "Sophie Hunger"
                 ],
-                "artist": [
+                "design": [
                     "Ludovic Chemarin",
                     "Christel Grandchamp",
                     "Vanessa Riera",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Валентин Ротелли"
                 ],
                 "worldPremiere": "15 мая 2016",
@@ -14209,7 +14209,7 @@ export const data = [
             "director": [
                 "Гленн Уайсс"
             ],
-            "scenario": [
+            "writer": [
                 "Билли Кимбалл",
                 "Джон Мэкс",
                 "Джимми Киммел",
@@ -14227,13 +14227,13 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Дерек МакЛейн",
                 "Алана Биллингсли",
                 "Глория Ламб",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Рэй Артис",
                 "Michael Samano",
                 "Тим Шульц"
@@ -14287,7 +14287,7 @@ export const data = [
                 "director": [
                     "Гильермо дель Торо"
                 ],
-                "scenario": [
+                "writer": [
                     "Ванесса Тейлор",
                     "Гильермо дель Торо"
                 ],
@@ -14303,13 +14303,13 @@ export const data = [
                 "composer": [
                     "Александр Деспла"
                 ],
-                "artist": [
+                "design": [
                     "Пол Д. Остерберри",
                     "Найджел Чёрчер",
                     "Луис Секейра",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Сидни Волински"
                 ],
                 "worldPremiere": "31 августа 2017",
@@ -14362,7 +14362,7 @@ export const data = [
                 "director": [
                     "Кристофер Нолан"
                 ],
-                "scenario": [
+                "writer": [
                     "Кристофер Нолан"
                 ],
                 "producer": [
@@ -14377,13 +14377,13 @@ export const data = [
                 "composer": [
                     "Ханс Циммер"
                 ],
-                "artist": [
+                "design": [
                     "Нэйтан Краули",
                     "Тоби Бриттон",
                     "Оливер Гудье",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Ли Смит"
                 ],
                 "worldPremiere": "13 июля 2017",
@@ -14428,7 +14428,7 @@ export const data = [
                 "director": [
                     "Грета Гервиг"
                 ],
-                "scenario": [
+                "writer": [
                     "Грета Гервиг"
                 ],
                 "producer": [
@@ -14443,12 +14443,12 @@ export const data = [
                 "composer": [
                     "Джон Брайон"
                 ],
-                "artist": [
+                "design": [
                     "Крис Джонс",
                     "Эйприл Напье",
                     "Трейси Спадорсиа"
                 ],
-                "installation": [
+                "editor": [
                     "Ник Хюи"
                 ],
                 "worldPremiere": "1 сентября 2017",
@@ -14499,7 +14499,7 @@ export const data = [
                 "director": [
                     "Джордан Пил"
                 ],
-                "scenario": [
+                "writer": [
                     "Джордан Пил"
                 ],
                 "producer": [
@@ -14514,13 +14514,13 @@ export const data = [
                 "composer": [
                     "Майкл Эбелс"
                 ],
-                "artist": [
+                "design": [
                     "Расти Смит",
                     "Крис Крейн",
                     "Надин Хэйдерс",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Грегори Плоткин"
                 ],
                 "worldPremiere": "23 января 2017",
@@ -14567,7 +14567,7 @@ export const data = [
                 "director": [
                     "Джо Райт"
                 ],
-                "scenario": [
+                "writer": [
                     "Энтони МакКартен"
                 ],
                 "producer": [
@@ -14582,13 +14582,13 @@ export const data = [
                 "composer": [
                     "Дарио Марианелли"
                 ],
-                "artist": [
+                "design": [
                     "Сара Гринвуд",
                     "Оливер Гудье",
                     "Ник Готтшалк",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Валерио Бонелли"
                 ],
                 "worldPremiere": "1 сентября 2017",
@@ -14642,7 +14642,7 @@ export const data = [
                 "director": [
                     "Лука Гуаданьино"
                 ],
-                "scenario": [
+                "writer": [
                     "Джеймс Айвори",
                     "Андре Асиман"
                 ],
@@ -14658,13 +14658,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Самюэль Деор",
                     "Роберта Федерико",
                     "Джулия Пьерсанти",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Уолтер Фазано"
                 ],
                 "worldPremiere": "22 января 2017",
@@ -14711,7 +14711,7 @@ export const data = [
                 "director": [
                     "Пол Томас Андерсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Пол Томас Андерсон"
                 ],
                 "producer": [
@@ -14726,13 +14726,13 @@ export const data = [
                 "composer": [
                     "Джонни Гринвуд"
                 ],
-                "artist": [
+                "design": [
                     "Марк Тилдесли",
                     "Крис Питерс",
                     "Дэнис Шнегг",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Дилан Тиченор"
                 ],
                 "worldPremiere": "11 декабря 2017",
@@ -14782,7 +14782,7 @@ export const data = [
                 "director": [
                     "Стивен Спилберг"
                 ],
-                "scenario": [
+                "writer": [
                     "Элизабет Ханна",
                     "Джош Сингер"
                 ],
@@ -14798,13 +14798,13 @@ export const data = [
                 "composer": [
                     "Джон Уильямс"
                 ],
-                "artist": [
+                "design": [
                     "Рик Картер",
                     "Ким Дженнингс",
                     "Дебора Дженсен",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Сара Брошар",
                     "Майкл Кан"
                 ],
@@ -14853,7 +14853,7 @@ export const data = [
                 "director": [
                     "Мартин Макдона"
                 ],
-                "scenario": [
+                "writer": [
                     "Мартин Макдона"
                 ],
                 "producer": [
@@ -14868,13 +14868,13 @@ export const data = [
                 "composer": [
                     "Картер Бёруэлл"
                 ],
-                "artist": [
+                "design": [
                     "Инбал Вейнберг",
                     "Джесси Розенталь",
                     "Мелисса Тот",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джон Грегори"
                 ],
                 "worldPremiere": "4 сентября 2017",
@@ -14918,7 +14918,7 @@ export const data = [
                 "director": [
                     "Майкл Шоуолтер"
                 ],
-                "scenario": [
+                "writer": [
                     "Эмили В. Гордон",
                     "Кумэйл Нанджиани"
                 ],
@@ -14934,13 +14934,13 @@ export const data = [
                 "composer": [
                     "Майкл Эндрюс"
                 ],
-                "artist": [
+                "design": [
                     "Брэндон Тоннер-Коннолли",
                     "Энди Эклунд",
                     "Сара Мэй Бертон",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Роберт Нассау"
                 ],
                 "worldPremiere": "20 января 2017",
@@ -14990,7 +14990,7 @@ export const data = [
                 "director": [
                     "Аарон Соркин"
                 ],
-                "scenario": [
+                "writer": [
                     "Аарон Соркин",
                     "Молли Блум"
                 ],
@@ -15006,13 +15006,13 @@ export const data = [
                 "composer": [
                     "Дэниэл Пембертон"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Уоско",
                     "Брандт Гордон",
                     "Сьюзэн Лайолл",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Алан Баумгартен",
                     "Эллиот Грэм",
                     "Джош Шеффер"
@@ -15055,7 +15055,7 @@ export const data = [
                 "director": [
                     "Ди Риис"
                 ],
-                "scenario": [
+                "writer": [
                     "Вирджил Уильямс",
                     "Ди Риис",
                     "Hillary Jordan"
@@ -15072,13 +15072,13 @@ export const data = [
                 "composer": [
                     "Тамар-Кали"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Дж. Бомба",
                     "Нора Такач",
                     "Артур Йонгевард",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Мако Камицуна"
                 ],
                 "worldPremiere": "21 января 2017",
@@ -15122,7 +15122,7 @@ export const data = [
                 "director": [
                     "Джеймс Франко"
                 ],
-                "scenario": [
+                "writer": [
                     "Скотт Нойстедтер",
                     "Майкл Х. Уэбер",
                     "Грег Сестеро",
@@ -15140,13 +15140,13 @@ export const data = [
                 "composer": [
                     "Дэйв Портер"
                 ],
-                "artist": [
+                "design": [
                     "Крис Л. Спэллман",
                     "Рэйчел Л. Рокстрох",
                     "Бренда Аббандандоло",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Стэйси Шредер"
                 ],
                 "worldPremiere": "12 марта 2017",
@@ -15193,7 +15193,7 @@ export const data = [
                 "director": [
                     "Джеймс Мэнголд"
                 ],
-                "scenario": [
+                "writer": [
                     "Скотт Фрэнк",
                     "Майкл Грин",
                     "Джеймс Мэнголд"
@@ -15210,13 +15210,13 @@ export const data = [
                 "composer": [
                     "Марко Белтрами"
                 ],
-                "artist": [
+                "design": [
                     "Франсуа Одуи",
                     "Крис Фармер",
                     "Джордан Феррер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Майкл МакКаскер",
                     "Дирк Уэстервелт"
                 ],
@@ -15271,7 +15271,7 @@ export const data = [
                   "Джейкоб Шух",
                   "Bin-Han To"
                 ],
-                "scenario": [
+                "writer": [
                   "Роальд Даль",
                   "Квентин Блейк",
                   "Ян Лахойер",
@@ -15287,10 +15287,10 @@ export const data = [
                 "composer": [
                   "Бен Локет"
                 ],
-                "artist": [
+                "design": [
                   "Надя Мира"
                 ],
-                "installation": [
+                "editor": [
                   "Бенжамин Квобек"
                 ],
                 "worldPremiere": "26 декабря 2016",
@@ -15339,7 +15339,7 @@ export const data = [
                   "Виктор Кэр",
                   "..."
                 ],
-                "scenario": [
+                "writer": [
                   "-"
                 ],
                 "producer": [
@@ -15347,8 +15347,8 @@ export const data = [
                 ],
                 "operator": [],
                 "composer": [],
-                "artist": [],
-                "installation": [],
+                "design": [],
+                "editor": [],
                 "worldPremiere": "28 января 2017",
                 "ratingAgeLimits": "",
                 "ratingMpaa": "r",
@@ -15395,7 +15395,7 @@ export const data = [
                 "director": [
                   "Дэйв Маллинз"
                 ],
-                "scenario": [
+                "writer": [
                   "Дэйв Маллинз"
                 ],
                 "producer": [
@@ -15410,8 +15410,8 @@ export const data = [
                 "composer": [
                   "Кристоф Бек"
                 ],
-                "artist": [],
-                "installation": [
+                "design": [],
+                "editor": [
                   "Энтони Гринберг"
                 ],
                 "worldPremiere": "12 марта 2017",
@@ -15457,7 +15457,7 @@ export const data = [
                 "director": [
                   "Глен Кин"
                 ],
-                "scenario": [
+                "writer": [
                   "Коби Брайант"
                 ],
                 "producer": [
@@ -15470,10 +15470,10 @@ export const data = [
                 "composer": [
                   "Джон Уильямс"
                 ],
-                "artist": [
+                "design": [
                   "Макс Кин"
                 ],
-                "installation": [],
+                "editor": [],
                 "worldPremiere": "23 апреля 2017",
                 "ratingAgeLimits": "",
                 "ratingMpaa": "",
@@ -15512,7 +15512,7 @@ export const data = [
                   "Ру Кувахата",
                   "Макс Портер"
                 ],
-                "scenario": [
+                "writer": [
                   "Макс Портер",
                   "Ру Кувахата",
                   "Ron Koertge"
@@ -15529,11 +15529,11 @@ export const data = [
                 "composer": [
                   "Брэм Мейндерсма"
                 ],
-                "artist": [
+                "design": [
                   "Ру Кувахата",
                   "Макс Портер"
                 ],
-                "installation": [
+                "editor": [
                   "Макс Портер"
                 ],
                 "worldPremiere": "13 июня 2017",
@@ -15574,7 +15574,7 @@ export const data = [
                 "director": [
                     "Крис Овертон"
                 ],
-                "scenario": [
+                "writer": [
                     "Рэйчел Шентон"
                 ],
                 "producer": [
@@ -15589,10 +15589,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Эмили Уолдер"
                 ],
                 "worldPremiere": "8 августа 2017",
@@ -15633,7 +15633,7 @@ export const data = [
                 "director": [
                     "Рид Ван Дайк"
                 ],
-                "scenario": [
+                "writer": [
                     "Рид Ван Дайк"
                 ],
                 "producer": [
@@ -15648,12 +15648,12 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Мэй Митчелл",
                     "Deborah Hanley",
                     "Брианна Куик"
                 ],
-                "installation": [
+                "editor": [
                     "Рид Ван Дайк"
                 ],
                 "worldPremiere": "4 февраля 2017",
@@ -15694,7 +15694,7 @@ export const data = [
                 "director": [
                     "Дерин Сил"
                 ],
-                "scenario": [
+                "writer": [
                     "Джош Лоусон"
                 ],
                 "producer": [
@@ -15708,11 +15708,11 @@ export const data = [
                 "composer": [
                     "Адриан Сергович"
                 ],
-                "artist": [
+                "design": [
                     "Элизабет Мери Мур",
                     "Brenda Hayward"
                 ],
-                "installation": [
+                "editor": [
                     "Дрю Томпсон"
                 ],
                 "worldPremiere": "6 сентября 2016",
@@ -15756,7 +15756,7 @@ export const data = [
                 "director": [
                     "Катя Бенрат"
                 ],
-                "scenario": [
+                "writer": [
                     "Джулия Драхе",
                     "Александр Икава",
                     "Брайан Мунене"
@@ -15774,11 +15774,11 @@ export const data = [
                     "Флориан Хиршман",
                     "Элизабет Каплан"
                 ],
-                "artist": [
+                "design": [
                     "Нэнси Алуч",
                     "Мэри Мукунди"
                 ],
-                "installation": [
+                "editor": [
                     "Джулия Драхе"
                 ],
                 "worldPremiere": "19 сентября 2017",
@@ -15822,7 +15822,7 @@ export const data = [
                 "director": [
                     "Кевин Уилсон мл."
                 ],
-                "scenario": [
+                "writer": [
                     "Кевин Уилсон мл."
                 ],
                 "producer": [
@@ -15837,11 +15837,11 @@ export const data = [
                 "composer": [
                     "Гэвин Бривик"
                 ],
-                "artist": [
+                "design": [
                     "Марк А. Терри",
                     "Шалин Джонсон"
                 ],
-                "installation": [
+                "editor": [
                     "Алекс ДеМиль"
                 ],
                 "worldPremiere": "6 августа 2017",
@@ -15885,7 +15885,7 @@ export const data = [
                 "director": [
                     "Фрэнк Стифел"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -15898,10 +15898,10 @@ export const data = [
                 "composer": [
                     "Пол Марун"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Тинг Пу"
                 ],
                 "worldPremiere": "26 октября 2018",
@@ -15942,7 +15942,7 @@ export const data = [
                 "director": [
                     "Лора Чековэй"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -15958,10 +15958,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Лора Чековэй",
                     "P. Corwin Lamm"
                 ],
@@ -16003,7 +16003,7 @@ export const data = [
                 "director": [
                     "Элейн Макмиллион Шелдон"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -16018,10 +16018,10 @@ export const data = [
                 "composer": [
                     "Дэниэл Харт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Кристен Ньютайл"
                 ],
                 "worldPremiere": "3 сентября 2017",
@@ -16062,7 +16062,7 @@ export const data = [
                 "director": [
                     "Кейт Дэвис"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -16077,10 +16077,10 @@ export const data = [
                 "composer": [
                     "Джоэль Харрисон"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Кейт Дэвис"
                 ],
                 "worldPremiere": "14 ноября 2017",
@@ -16121,7 +16121,7 @@ export const data = [
                 "director": [
                     "Томас Леннон"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -16136,10 +16136,10 @@ export const data = [
                 "composer": [
                     "Роберт Миллер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ник Огаст-Перна"
                 ],
                 "worldPremiere": "29 июля 2017",
@@ -16183,7 +16183,7 @@ export const data = [
                 "director": [
                     "Брайан Фогель"
                 ],
-                "scenario": [
+                "writer": [
                     "Брайан Фогель",
                     "Марк Монро",
                     "Jon Bertain",
@@ -16202,10 +16202,10 @@ export const data = [
                 "composer": [
                     "Адам Питерс"
                 ],
-                "artist": [
+                "design": [
                     "Jon Bertain"
                 ],
-                "installation": [
+                "editor": [
                     "Jon Bertain",
                     "Кевин Клаубер",
                     "Timothy Rode",
@@ -16246,7 +16246,7 @@ export const data = [
                 "director": [
                     "Стив Джеймс"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -16261,10 +16261,10 @@ export const data = [
                 "composer": [
                     "Джошуа Абрамс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "John Farbrother",
                     "Дэвид Э. Симпсон"
                 ],
@@ -16309,7 +16309,7 @@ export const data = [
                 "director": [
                     "Янс Форд"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -16325,10 +16325,10 @@ export const data = [
                     "Хильдур Гуднадоуттир",
                     "Крэйг Сазерленд"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Янус Биллесков Янсен",
                     "Shannon Kennedy"
                 ],
@@ -16368,7 +16368,7 @@ export const data = [
                     "ДжейАр",
                     "Аньес Варда"
                 ],
-                "scenario": [
+                "writer": [
                     "ДжейАр",
                     "Аньес Варда"
                 ],
@@ -16387,10 +16387,10 @@ export const data = [
                 "composer": [
                     "Матьё Шедид"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Максим Поцци-Гарсиа",
                     "Аньес Варда"
                 ],
@@ -16436,7 +16436,7 @@ export const data = [
                     "Ферас Файяд",
                     "Стин Йоханнесен"
                 ],
-                "scenario": [
+                "writer": [
                     "Ферас Файяд"
                 ],
                 "producer": [
@@ -16454,10 +16454,10 @@ export const data = [
                 "composer": [
                     "Карстен Фундаль"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Майкл Бауэр",
                     "Стин Йоханнесен"
                 ],
@@ -16502,7 +16502,7 @@ export const data = [
                 "director": [
                     "Себастьян Лелио"
                 ],
-                "scenario": [
+                "writer": [
                     "Себастьян Лелио",
                     "Гонсало Маса",
                     "Элизео Альтунага"
@@ -16520,12 +16520,12 @@ export const data = [
                     "Нани Гарсия",
                     "Мэтью Херберт"
                 ],
-                "artist": [
+                "design": [
                     "Эстефания Ларраин",
                     "Мюриэль Парра",
                     "Tatiana Maulen"
                 ],
-                "installation": [
+                "editor": [
                     "Соледад Сальфате"
                 ],
                 "worldPremiere": "12 февраля 2017",
@@ -16581,7 +16581,7 @@ export const data = [
                 "director": [
                     "Зиад Дуэри"
                 ],
-                "scenario": [
+                "writer": [
                     "Зиад Дуэри",
                     "Джоэль Тума"
                 ],
@@ -16597,11 +16597,11 @@ export const data = [
                 "composer": [
                     "Эрик Невё"
                 ],
-                "artist": [
+                "design": [
                     "Хуссейн Байдун",
                     "Лара Мэй Хамис"
                 ],
-                "installation": [
+                "editor": [
                     "Доминик Маркомб"
                 ],
                 "worldPremiere": "31 августа 2017",
@@ -16648,7 +16648,7 @@ export const data = [
                 "director": [
                     "Андрей Звягинцев"
                 ],
-                "scenario": [
+                "writer": [
                     "Олег Негин",
                     "Андрей Звягинцев"
                 ],
@@ -16664,10 +16664,10 @@ export const data = [
                 "composer": [
                     "Евгений Гальперин"
                 ],
-                "artist": [
+                "design": [
                     "Андрей Понкратов"
                 ],
-                "installation": [
+                "editor": [
                     "Анна Масс"
                 ],
                 "worldPremiere": "18 мая 2017",
@@ -16717,7 +16717,7 @@ export const data = [
                 "director": [
                     "Рубен Эстлунд"
                 ],
-                "scenario": [
+                "writer": [
                     "Рубен Эстлунд"
                 ],
                 "producer": [
@@ -16732,11 +16732,11 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Йозефин Асберг",
                     "Софи Крунегард"
                 ],
-                "installation": [
+                "editor": [
                     "Якоб Секер Шульзингер",
                     "Рубен Эстлунд"
                 ],
@@ -16784,7 +16784,7 @@ export const data = [
                 "director": [
                     "Ильдико Эньеди"
                 ],
-                "scenario": [
+                "writer": [
                     "Ильдико Эньеди"
                 ],
                 "producer": [
@@ -16799,11 +16799,11 @@ export const data = [
                 "composer": [
                     "Адам Балаж"
                 ],
-                "artist": [
+                "design": [
                     "Имола Ланг",
                     "Юдит Шинкович"
                 ],
-                "installation": [
+                "editor": [
                     "Карой Салаи"
                 ],
                 "worldPremiere": "10 февраля 2017",
@@ -16860,7 +16860,7 @@ export const data = [
                     "Ли Анкрич",
                     "Эдриан Молина"
                 ],
-                "scenario": [
+                "writer": [
                     "Ли Анкрич",
                     "Джейсон Кац",
                     "Мэттью Олдрич",
@@ -16877,13 +16877,13 @@ export const data = [
                 "composer": [
                     "Майкл Джаккино"
                 ],
-                "artist": [
+                "design": [
                     "Харли Джессуп",
                     "Берт Берри",
                     "Тим Эватт",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Стив Блум",
                     "Ли Анкрич"
                 ],
@@ -16940,7 +16940,7 @@ export const data = [
                 "director": [
                     "Нора Туми"
                 ],
-                "scenario": [
+                "writer": [
                     "Анита Дорон",
                     "Дебора Эллис"
                 ],
@@ -16957,10 +16957,10 @@ export const data = [
                     "Джефф Дэнна",
                     "Майкл Дэнна"
                 ],
-                "artist": [
+                "design": [
                     "Ciaran Duffy"
                 ],
-                "installation": [
+                "editor": [
                     "Дарра Бирн"
                 ],
                 "worldPremiere": "8 сентября 2017",
@@ -17020,7 +17020,7 @@ export const data = [
                     "Дорота Кобела",
                     "Хью Уэлшман"
                 ],
-                "scenario": [
+                "writer": [
                     "Дорота Кобела",
                     "Хью Уэлшман",
                     "Яцек Денел"
@@ -17038,13 +17038,13 @@ export const data = [
                 "composer": [
                     "Клинт Мэнселл"
                 ],
-                "artist": [
+                "design": [
                     "Мэттью Баттон",
                     "Пётр Доминяк",
                     "Мария Дюффек",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Дорота Кобела",
                     "Юстина Вершинска"
                 ],
@@ -17095,7 +17095,7 @@ export const data = [
                 "director": [
                     "Карлос Салдана"
                 ],
-                "scenario": [
+                "writer": [
                     "Роберт Л. Бейрд",
                     "Тим Федерле",
                     "Брэд Коуплэнд",
@@ -17113,10 +17113,10 @@ export const data = [
                 "composer": [
                     "Джон Пауэлл"
                 ],
-                "artist": [
+                "design": [
                     "Томас Кардон"
                 ],
-                "installation": [
+                "editor": [
                     "Гарри Хитнер"
                 ],
                 "worldPremiere": "11 ноября 2017",
@@ -17163,7 +17163,7 @@ export const data = [
                 "director": [
                     "Том МакГрат"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл МакКаллерс",
                     "Марла Фрэйзи"
                 ],
@@ -17179,10 +17179,10 @@ export const data = [
                     "Стив Маццаро",
                     "Ханс Циммер"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Джеймс"
                 ],
-                "installation": [
+                "editor": [
                     "Джеймс Райан"
                 ],
                 "worldPremiere": "12 марта 2017",
@@ -17214,7 +17214,7 @@ export const data = [
             "director": [
                 "Гленн Уайсс"
             ],
-            "scenario": [
+            "writer": [
                 "Джон Мэкс",
                 "Дэйв Бун",
                 "Кэрол Лейфер",
@@ -17232,13 +17232,13 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Дерек МакЛейн",
                 "Алана Биллингсли",
                 "Кристен Мерлино",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Рэй Артис",
                 "Джейсон Бельский",
                 "Caleb Kadletz",
@@ -17296,7 +17296,7 @@ export const data = [
                 "director": [
                     "Питер Фаррелли"
                 ],
-                "scenario": [
+                "writer": [
                     "Ник Валлелонга",
                     "Брайан Хэйес Карри",
                     "Питер Фаррелли"
@@ -17313,13 +17313,13 @@ export const data = [
                 "composer": [
                     "Крис Бауэрс"
                 ],
-                "artist": [
+                "design": [
                     "Тим Галвин",
                     "Скотт Плоше",
                     "Бетси Хайман",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Патрик Дж. Дон Вито"
                 ],
                 "worldPremiere": "11 сентября 2018",
@@ -17366,7 +17366,7 @@ export const data = [
                 "director": [
                     "Брайан Сингер"
                 ],
-                "scenario": [
+                "writer": [
                     "Энтони МакКартен",
                     "Питер Морган"
                 ],
@@ -17382,13 +17382,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Аарон Хэй",
                     "Рэйчел Олтон",
                     "Софи Бриджман",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джон Оттмен"
                 ],
                 "worldPremiere": "23 октября 2018",
@@ -17437,7 +17437,7 @@ export const data = [
                 "director": [
                     "Альфонсо Куарон"
                 ],
-                "scenario": [
+                "writer": [
                     "Альфонсо Куарон"
                 ],
                 "producer": [
@@ -17452,13 +17452,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Эухенио Кабальеро",
                     "Карлос Бенассини",
                     "Carlos Gamboa",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Альфонсо Куарон",
                     "Адам Гоф"
                 ],
@@ -17507,7 +17507,7 @@ export const data = [
                 "director": [
                     "Брэдли Купер"
                 ],
-                "scenario": [
+                "writer": [
                     "Эрик Рот",
                     "Брэдли Купер",
                     "Уилл Феттерс",
@@ -17525,13 +17525,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Карен Мерфи",
                     "Мэттью Хоран",
                     "Брэдли Рубин",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джей Кэссиди"
                 ],
                 "worldPremiere": "31 августа 2018",
@@ -17586,7 +17586,7 @@ export const data = [
                 "director": [
                     "Брайан Сингер"
                 ],
-                "scenario": [
+                "writer": [
                     "Энтони МакКартен",
                     "Питер Морган"
                 ],
@@ -17602,13 +17602,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Аарон Хэй",
                     "Рэйчел Олтон",
                     "Софи Бриджман",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джон Оттмен"
                 ],
                 "worldPremiere": "23 октября 2018",
@@ -17652,7 +17652,7 @@ export const data = [
                 "director": [
                     "Райан Куглер"
                 ],
-                "scenario": [
+                "writer": [
                     "Райан Куглер",
                     "Джо Роберт Коул",
                     "Стэн Ли",
@@ -17670,13 +17670,13 @@ export const data = [
                 "composer": [
                     "Людвиг Горанссон"
                 ],
-                "artist": [
+                "design": [
                     "Ханна Бичлер",
                     "Джейсон Т. Кларк",
                     "Джозеф Хиура",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Дэбби Берман",
                     "Майкл П. Шовер"
                 ],
@@ -17724,7 +17724,7 @@ export const data = [
                 "director": [
                     "Адам Маккей"
                 ],
-                "scenario": [
+                "writer": [
                     "Адам Маккей"
                 ],
                 "producer": [
@@ -17739,13 +17739,13 @@ export const data = [
                 "composer": [
                     "Николас Брителл"
                 ],
-                "artist": [
+                "design": [
                     "Патрис Верметт",
                     "Дэвид Мейер",
                     "Брэд Рикер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Хэнк Коруин"
                 ],
                 "worldPremiere": "12 декабря 2018",
@@ -17802,7 +17802,7 @@ export const data = [
                 "director": [
                     "Йоргос Лантимос"
                 ],
-                "scenario": [
+                "writer": [
                     "Дебора Дэвис",
                     "Тони Макнамара"
                 ],
@@ -17818,13 +17818,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Фиона Кромби",
                     "Кэролайн Барклай",
                     "Сара Бик",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Йоргос Мавропсаридис"
                 ],
                 "worldPremiere": "30 августа 2018",
@@ -17878,7 +17878,7 @@ export const data = [
                 "director": [
                     "Спайк Ли"
                 ],
-                "scenario": [
+                "writer": [
                     "Чарли Вачтел",
                     "Дэвид Рабиновиц",
                     "Кевин Уиллмотт",
@@ -17896,13 +17896,13 @@ export const data = [
                 "composer": [
                     "Теренс Блэнчард"
                 ],
-                "artist": [
+                "design": [
                     "Курт Бич",
                     "Марси Мадд",
                     "Марси Роджерс",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Бэрри Александер Браун"
                 ],
                 "worldPremiere": "14 мая 2018",
@@ -17952,7 +17952,7 @@ export const data = [
                 "director": [
                     "Пол Шредер"
                 ],
-                "scenario": [
+                "writer": [
                     "Пол Шредер"
                 ],
                 "producer": [
@@ -17967,13 +17967,13 @@ export const data = [
                 "composer": [
                     "Брайан Уильямс"
                 ],
-                "artist": [
+                "design": [
                     "Грэйс Юн",
                     "Рафаэль Сорсио",
                     "Ольга Милл",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Бенжамин Родригес мл."
                 ],
                 "worldPremiere": "31 августа 2017",
@@ -18021,7 +18021,7 @@ export const data = [
                     "Итан Коэн",
                     "Джоэл Коэн"
                 ],
-                "scenario": [
+                "writer": [
                     "Джоэл Коэн",
                     "Итан Коэн",
                     "Джек Лондон",
@@ -18039,13 +18039,13 @@ export const data = [
                 "composer": [
                     "Картер Бёруэлл"
                 ],
-                "artist": [
+                "design": [
                     "Джесс Гончор",
                     "Стив Кристенсен",
                     "Крис Фармер",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Итан Коэн",
                     "Джоэл Коэн"
                 ],
@@ -18087,7 +18087,7 @@ export const data = [
                 "director": [
                     "Барри Дженкинс"
                 ],
-                "scenario": [
+                "writer": [
                     "Барри Дженкинс",
                     "Джеймс Болдуин"
                 ],
@@ -18103,13 +18103,13 @@ export const data = [
                 "composer": [
                     "Николас Брителл"
                 ],
-                "artist": [
+                "design": [
                     "Марк Фридберг",
                     "Роберт Пизоча",
                     "Оливер Ривас Мадера",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Джои МакМиллон",
                     "Нат Сандерс"
                 ],
@@ -18157,7 +18157,7 @@ export const data = [
                 "director": [
                     "Мариэль Хеллер"
                 ],
-                "scenario": [
+                "writer": [
                     "Николь Холофсенер",
                     "Джефф Уитти"
                 ],
@@ -18173,13 +18173,13 @@ export const data = [
                 "composer": [
                     "Нэйт Хеллер"
                 ],
-                "artist": [
+                "design": [
                     "Стивен Х. Картер",
                     "Марси Мадд",
                     "Арджун Басин",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Энн Маккейб"
                 ],
                 "worldPremiere": "1 сентября 2018",
@@ -18228,7 +18228,7 @@ export const data = [
                 "director": [
                     "Луиз Багнэлл"
                 ],
-                "scenario": [
+                "writer": [
                     "Луиз Багнэлл"
                 ],
                 "producer": [
@@ -18238,8 +18238,8 @@ export const data = [
                 "composer": [
                     "Colm Mac Con Iomaire"
                 ],
-                "artist": [],
-                "installation": [
+                "design": [],
+                "editor": [
                     "Алан Слэттери"
                 ],
                 "worldPremiere": "15 июля 2017",
@@ -18288,7 +18288,7 @@ export const data = [
             "director": [
                 "Тревор Хименес"
             ],
-            "scenario": [
+            "writer": [
                 "Тревор Хименес"
             ],
             "producer": [
@@ -18299,10 +18299,10 @@ export const data = [
             "composer": [
                 "Эндрю Вернон"
             ],
-            "artist": [
+            "design": [
                 "Chris Sasaki"
             ],
-            "installation": [
+            "editor": [
                 "Тревор Хименес"
             ],
             "worldPremiere": "18 октября 2017",
@@ -18351,7 +18351,7 @@ export const data = [
             "director": [
                 "Доми Ши"
             ],
-            "scenario": [
+            "writer": [
                 "Доми Ши"
             ],
             "producer": [
@@ -18366,11 +18366,11 @@ export const data = [
             "composer": [
                 "Тоби Чу"
             ],
-            "artist": [
+            "design": [
                 "Рона Лю",
                 "Дон Шэнк"
             ],
-            "installation": [
+            "editor": [
                 "Кэтерин Рингголд"
             ],
             "worldPremiere": "21 апреля 2018",
@@ -18417,7 +18417,7 @@ export const data = [
                 "Дэвид Файн",
                 "Элисон Сноуден"
             ],
-            "scenario": [
+            "writer": [
                 "Элисон Сноуден",
                 "Дэвид Файн"
             ],
@@ -18428,8 +18428,8 @@ export const data = [
             "composer": [
                 "Джудит Грубер-Стицер"
             ],
-            "artist": [],
-            "installation": [],
+            "design": [],
+            "editor": [],
             "worldPremiere": "11 июня 2018",
             "ratingAgeLimits": "",
             "ratingMpaa": "",
@@ -18480,7 +18480,7 @@ export const data = [
                 "Эндрю Чесворт",
                 "Бобби Понтильяс"
             ],
-            "scenario": [
+            "writer": [
                 "Бобби Понтильяс",
                 "Трент Корри",
                 "Чжан Шаофу",
@@ -18496,10 +18496,10 @@ export const data = [
             "composer": [
                 "Стив Хорнер"
             ],
-            "artist": [
+            "design": [
                 "Бобби Понтильяс"
             ],
-            "installation": [
+            "editor": [
                 "Эндрю Чесворт",
                 "Чжан Шаофу"
             ],
@@ -18544,7 +18544,7 @@ export const data = [
                 "director": [
                     "Гай Наттив"
                 ],
-                "scenario": [
+                "writer": [
                     "Гай Наттив",
                     "Шэрон Маймон"
                 ],
@@ -18560,12 +18560,12 @@ export const data = [
                 "composer": [
                     "Брайан МакОмбер"
                 ],
-                "artist": [
+                "design": [
                     "Jason Thirlaway",
                     "Оливия Майлз",
                     "Sean McDermott"
                 ],
-                "installation": [
+                "editor": [
                     "Yuval Orr"
                 ],
                 "worldPremiere": "12 октября 2018",
@@ -18615,7 +18615,7 @@ export const data = [
                 "director": [
                     "Винсент Лэмб"
                 ],
-                "scenario": [
+                "writer": [
                     "Винсент Лэмб"
                 ],
                 "producer": [
@@ -18630,12 +18630,12 @@ export const data = [
                 "composer": [
                     "Filip Sijanec"
                 ],
-                "artist": [
+                "design": [
                     "Стивен Кингстон",
                     "Джеймс Доннелли",
                     "Белль Фиппс"
                 ],
-                "installation": [
+                "editor": [
                     "Винсент Лэмб"
                 ],
                 "worldPremiere": "30 мая 2018",
@@ -18676,7 +18676,7 @@ export const data = [
                 "director": [
                     "Родриго Сорогойен"
                 ],
-                "scenario": [
+                "writer": [
                     "Родриго Сорогойен"
                 ],
                 "producer": [
@@ -18691,10 +18691,10 @@ export const data = [
                 "composer": [
                     "Оливье Арсон"
                 ],
-                "artist": [
+                "design": [
                     "Лорена Пуэрто"
                 ],
-                "installation": [
+                "editor": [
                     "Альберто дель Кампо"
                 ],
                 "worldPremiere": "17 марта 2017",
@@ -18735,7 +18735,7 @@ export const data = [
                 "director": [
                     "Джереми Комте"
                 ],
-                "scenario": [
+                "writer": [
                     "Джереми Комте"
                 ],
                 "producer": [
@@ -18748,10 +18748,10 @@ export const data = [
                 "composer": [
                     "Брайан Д’Оливейра"
                 ],
-                "artist": [
+                "design": [
                     "Рене Сотель"
                 ],
-                "installation": [
+                "editor": [
                     "Джереми Комте"
                 ],
                 "worldPremiere": "19 января 2018",
@@ -18792,7 +18792,7 @@ export const data = [
                 "director": [
                     "Марианн Фарли"
                 ],
-                "scenario": [
+                "writer": [
                     "Марианн Фарли"
                 ],
                 "producer": [
@@ -18805,10 +18805,10 @@ export const data = [
                 "composer": [
                     "Julien Knafo"
                 ],
-                "artist": [
+                "design": [
                     "Мелани МакНиколл"
                 ],
-                "installation": [
+                "editor": [
                     "Мэтью Беланже"
                 ],
                 "worldPremiere": "12 ноября 2017",
@@ -18849,7 +18849,7 @@ export const data = [
                 "director": [
                     "Райка Зехтабчи"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -18867,10 +18867,10 @@ export const data = [
                     "Giosuè Greco",
                     "Дэн Ромер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Сэм А. Дэвис"
                 ],
                 "worldPremiere": "5 апреля 2018",
@@ -18914,7 +18914,7 @@ export const data = [
                 "director": [
                     "Маршалл Карри"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -18928,10 +18928,10 @@ export const data = [
                 "composer": [
                     "Джеймс Бакстер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Маршалл Карри"
                 ],
                 "worldPremiere": "26 января 2018",
@@ -18973,7 +18973,7 @@ export const data = [
                     "Роб Эпштейн",
                     "Джеффри Фридман"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -18990,10 +18990,10 @@ export const data = [
                     "Т. Гриффин",
                     "Máté Papp"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Роб Эпштейн",
                     "Джеффри Фридман"
                 ],
@@ -19035,7 +19035,7 @@ export const data = [
                 "director": [
                     "Эд Перкинс"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -19050,11 +19050,11 @@ export const data = [
                 "composer": [
                     "Том Барнс"
                 ],
-                "artist": [
+                "design": [
                     "Гай Томпсон",
                     "Шэрон Лонг"
                 ],
-                "installation": [
+                "editor": [
                     "Эд Перкинс"
                 ],
                 "worldPremiere": "1 мая 2018",
@@ -19095,7 +19095,7 @@ export const data = [
                 "director": [
                     "Скай Фицджералд"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -19110,10 +19110,10 @@ export const data = [
                 "composer": [
                     "Уильям Кэмпбелл"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дэн Садовски"
                 ],
                 "worldPremiere": "1 августа 2018",
@@ -19158,7 +19158,7 @@ export const data = [
                     "Джимми Чин",
                     "Элизабет Чай Васархели"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -19175,10 +19175,10 @@ export const data = [
                 "composer": [
                     "Марко Белтрами"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Боб Эйзенхардт"
                 ],
                 "worldPremiere": "31 августа 2018",
@@ -19219,7 +19219,7 @@ export const data = [
                 "director": [
                     "Лю Бин"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -19235,10 +19235,10 @@ export const data = [
                     "Нэйтан Халперн",
                     "Крис Руджеро"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джошуа Олтмэн",
                     "Лю Бин"
                 ],
@@ -19295,7 +19295,7 @@ export const data = [
                 "director": [
                     "Талал Дерки"
                 ],
-                "scenario": [
+                "writer": [
                     "Талал Дерки",
                     "Abd-Elhamed Emad Taha"
                 ],
@@ -19311,10 +19311,10 @@ export const data = [
                 "composer": [
                     "Карим Себастьян Элиас"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Анна Фабини",
                     "Abd-Elhamed Emad Taha"
                 ],
@@ -19353,7 +19353,7 @@ export const data = [
                 "director": [
                     "RaMell Ross"
                 ],
-                "scenario": [
+                "writer": [
                     "Maya Krinsky",
                     "RaMell Ross"
                 ],
@@ -19371,10 +19371,10 @@ export const data = [
                     "Forest Kelley",
                     "Алекс Сомерс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "RaMell Ross"
                 ],
                 "worldPremiere": "19 января 2018",
@@ -19416,7 +19416,7 @@ export const data = [
                     "Джули Коэн",
                     "Бетси Уэст"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -19432,10 +19432,10 @@ export const data = [
                     "Мириам Катлер",
                     "John Samels"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Карла Гутьеррес"
                 ],
                 "worldPremiere": "21 января 2018",
@@ -19488,7 +19488,7 @@ export const data = [
                 "director": [
                     "Надин Лабаки"
                 ],
-                "scenario": [
+                "writer": [
                     "Надин Лабаки",
                     "Джихад Ходжели",
                     "Мишель Кесервани",
@@ -19506,11 +19506,11 @@ export const data = [
                 "composer": [
                     "Халед Музаннар"
                 ],
-                "artist": [
+                "design": [
                     "Хуссейн Байдун",
                     "Зейна Сааб де Мелеро"
                 ],
-                "installation": [
+                "editor": [
                     "Константин Бок",
                     "Лор Гердетт"
                 ],
@@ -19564,7 +19564,7 @@ export const data = [
                 "director": [
                     "Флориан Хенкель фон Доннерсмарк"
                 ],
-                "scenario": [
+                "writer": [
                     "Флориан Хенкель фон Доннерсмарк"
                 ],
                 "producer": [
@@ -19579,13 +19579,13 @@ export const data = [
                 "composer": [
                     "Макс Рихтер"
                 ],
-                "artist": [
+                "design": [
                     "Силке Бур",
                     "Тересия Анна Фикус",
                     "Маркус Нордеманн",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Патриция Роммель",
                     "Патрик Томас Смит"
                 ],
@@ -19639,7 +19639,7 @@ export const data = [
                 "director": [
                     "Павел Павликовский"
                 ],
-                "scenario": [
+                "writer": [
                     "Януш Гловацкий",
                     "Петр Борковски",
                     "Павел Павликовский"
@@ -19656,13 +19656,13 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Бенуа Бару",
                     "Марсель Славиньский",
                     "Катажина Собанска-Стрзалковска",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Ярослав Камински"
                 ],
                 "worldPremiere": "10 мая 2018",
@@ -19700,7 +19700,7 @@ export const data = [
                 "director": [
                     "Хирокадзу Корээда"
                 ],
-                "scenario": [
+                "writer": [
                     "Хирокадзу Корээда"
                 ],
                 "producer": [
@@ -19715,12 +19715,12 @@ export const data = [
                 "composer": [
                     "Харуоми Хосоно"
                 ],
-                "artist": [
+                "design": [
                     "Кэйко Мицумацу",
                     "Кадзуко Куросава",
                     "Акико Мацуба"
                 ],
-                "installation": [
+                "editor": [
                     "Хирокадзу Корээда"
                 ],
                 "worldPremiere": "13 мая 2018",
@@ -19781,7 +19781,7 @@ export const data = [
                     "Питер Рэмзи",
                     "Родни Ротман"
                 ],
-                "scenario": [
+                "writer": [
                     "Родни Ротман",
                     "Фил Лорд"
                 ],
@@ -19797,12 +19797,12 @@ export const data = [
                 "composer": [
                     "Дэниэл Пембертон"
                 ],
-                "artist": [
+                "design": [
                     "Джастин Томпсон",
                     "Дин Гордон",
                     "Патрик О’Кифи"
                 ],
-                "installation": [
+                "editor": [
                     "Роберт Фишер мл."
                 ],
                 "worldPremiere": "12 декабря 2018",
@@ -19852,7 +19852,7 @@ export const data = [
                 "director": [
                     "Мамору Хосода"
                 ],
-                "scenario": [
+                "writer": [
                     "Мамору Хосода"
                 ],
                 "producer": [
@@ -19867,13 +19867,13 @@ export const data = [
                 "composer": [
                     "Масакацу Такаги"
                 ],
-                "artist": [
+                "design": [
                     "Даисукэ Ига",
                     "Анри Дзёдзё",
                     "Ёситака Камэда",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Сигэру Нисияма"
                 ],
                 "worldPremiere": "16 мая 2018",
@@ -19927,7 +19927,7 @@ export const data = [
                     "Фил Джонстон",
                     "Рич Мур"
                 ],
-                "scenario": [
+                "writer": [
                     "Фил Джонстон",
                     "Памела Рибон",
                     "Рич Мур",
@@ -19945,12 +19945,12 @@ export const data = [
                 "composer": [
                     "Генри Джекман"
                 ],
-                "artist": [
+                "design": [
                     "Кори Лофтис",
                     "Маттиас Лехнер",
                     "Эми Томпсон"
                 ],
-                "installation": [
+                "editor": [
                     "Джереми Милтон",
                     "Фабьен Роули"
                 ],
@@ -20010,7 +20010,7 @@ export const data = [
                 "director": [
                     "Уэс Андерсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Уэс Андерсон",
                     "Роман Коппола",
                     "Джейсон Шварцман",
@@ -20028,12 +20028,12 @@ export const data = [
                 "composer": [
                     "Александр Деспла"
                 ],
-                "artist": [
+                "design": [
                     "Пол Хэррод",
                     "Адам Штокхаузен",
                     "Курт Эндерле"
                 ],
-                "installation": [
+                "editor": [
                     "Эдвард Бёрш",
                     "Ральф Фостер",
                     "Эндрю Вайсблум"
@@ -20091,7 +20091,7 @@ export const data = [
                 "director": [
                     "Брэд Бёрд"
                 ],
-                "scenario": [
+                "writer": [
                     "Брэд Бёрд"
                 ],
                 "producer": [
@@ -20105,12 +20105,12 @@ export const data = [
                 "composer": [
                     "Майкл Джаккино"
                 ],
-                "artist": [
+                "design": [
                     "Ральф Эгглстон",
                     "Джош Холтсклоу",
                     "Дианна Марсильезе"
                 ],
-                "installation": [
+                "editor": [
                     "Стефен Шаффер"
                 ],
                 "worldPremiere": "5 июня 2018",
@@ -20145,7 +20145,7 @@ export const data = [
             "director": [
                 "Гленн Уайсс"
             ],
-            "scenario": [
+            "writer": [
                 "Джон Мэкс",
                 "Митчелл Маршанд",
                 "Майк Рейсс",
@@ -20163,13 +20163,13 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Дэвид Коринс",
                 "Алана Биллингсли",
                 "Марго Уилкокс",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Рэй Артис",
                 "Caleb Kadletz",
                 "Тим Шульц"
@@ -20227,7 +20227,7 @@ export const data = [
             "director": [
                 "Пон Джун-хо"
             ],
-            "scenario": [
+            "writer": [
                 "Пон Джун-хо",
                 "Хан Джин-вон"
             ],
@@ -20243,11 +20243,11 @@ export const data = [
             "composer": [
                 "Чон Джэ-иль"
             ],
-            "artist": [
+            "design": [
                 "Ли Ха-джун",
                 "Чхве Сэ-ён"
             ],
-            "installation": [
+            "editor": [
                 "Ян Джин-мо"
             ],
             "worldPremiere": "21 мая 2019",
@@ -20294,7 +20294,7 @@ export const data = [
             "director": [
                 "Джеймс Мэнголд"
             ],
-            "scenario": [
+            "writer": [
                 "Джез Баттеруорт",
                 "Джон-Генри Баттеруорт",
                 "Джейсон Келлер"
@@ -20312,13 +20312,13 @@ export const data = [
                 "Марко Белтрами",
                 "Бак Сандерс"
             ],
-            "artist": [
+            "design": [
                 "Франсуа Одуи",
                 "Густаф Аспегрен",
                 "Джордан Феррер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Эндрю Баклэнд",
                 "Майкл МакКаскер",
                 "Дирк Уэстервелт"
@@ -20368,7 +20368,7 @@ export const data = [
             "director": [
                 "Ноа Баумбак"
             ],
-            "scenario": [
+            "writer": [
                 "Ноа Баумбак"
             ],
             "producer": [
@@ -20383,13 +20383,13 @@ export const data = [
             "composer": [
                 "Рэнди Ньюман"
             ],
-            "artist": [
+            "design": [
                 "Джейд Хили",
                 "Эндрю Халл",
                 "Марк Бриджес",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Дженнифер Лэйм"
             ],
             "worldPremiere": "29 августа 2019",
@@ -20437,7 +20437,7 @@ export const data = [
             "director": [
                 "Мартин Скорсезе"
             ],
-            "scenario": [
+            "writer": [
                 "Стивен Зеллиан",
                 "Чарльз Брандт"
             ],
@@ -20453,13 +20453,13 @@ export const data = [
             "composer": [
                 "Робби Робертсон"
             ],
-            "artist": [
+            "design": [
                 "Боб Шоу",
                 "Лора Боллинджер",
                 "Дж. Марк Хэррингтон",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Тельма Скунмейкер"
             ],
             "worldPremiere": "27 сентября 2019",
@@ -20504,7 +20504,7 @@ export const data = [
             "director": [
                 "Грета Гервиг"
             ],
-            "scenario": [
+            "writer": [
                 "Грета Гервиг",
                 "Луиза Мэй Олкотт"
             ],
@@ -20520,13 +20520,13 @@ export const data = [
             "composer": [
                 "Александр Деспла"
             ],
-            "artist": [
+            "design": [
                 "Джесс Гончор",
                 "Шон Фолкнер",
                 "Крис Фармер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Ник Хюи"
             ],
             "worldPremiere": "7 декабря 2019",
@@ -20580,7 +20580,7 @@ export const data = [
             "director": [
                 "Тодд Филлипс"
             ],
-            "scenario": [
+            "writer": [
                 "Тодд Филлипс",
                 "Скотт Сильвер",
                 "Боб Кейн",
@@ -20598,13 +20598,13 @@ export const data = [
             "composer": [
                 "Хильдур Гуднадоуттир"
             ],
-            "artist": [
+            "design": [
                 "Марк Фридберг",
                 "Лора Боллинджер",
                 "Марк Бриджес",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Джефф Грот"
             ],
             "worldPremiere": "31 августа 2019",
@@ -20664,7 +20664,7 @@ export const data = [
             "director": [
                 "Сэм Мендес"
             ],
-            "scenario": [
+            "writer": [
                 "Сэм Мендес",
                 "Кристи Уилсон-Кернс"
             ],
@@ -20680,13 +20680,13 @@ export const data = [
             "composer": [
                 "Томас Ньюман"
             ],
-            "artist": [
+            "design": [
                 "Деннис Гасснер",
                 "Саймон Элсли",
                 "Илэйн Кусмишко",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Ли Смит"
             ],
             "worldPremiere": "4 декабря 2019",
@@ -20743,7 +20743,7 @@ export const data = [
             "director": [
                 "Тайка Вайтити"
             ],
-            "scenario": [
+            "writer": [
                 "Тайка Вайтити",
                 "Кристин Люненс"
             ],
@@ -20759,13 +20759,13 @@ export const data = [
             "composer": [
                 "Майкл Джаккино"
             ],
-            "artist": [
+            "design": [
                 "Ра Винсент",
                 "Радек Ханэк",
                 "Онджей Липенски",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Том Иглз"
             ],
             "worldPremiere": "8 сентября 2019",
@@ -20816,7 +20816,7 @@ export const data = [
             "director": [
                 "Квентин Тарантино"
             ],
-            "scenario": [
+            "writer": [
                 "Квентин Тарантино"
             ],
             "producer": [
@@ -20831,13 +20831,13 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Барбара Линг",
                 "Тристан Пэрис Борн",
                 "Джон Декстер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Фред Раскин"
             ],
             "worldPremiere": "21 мая 2019",
@@ -20884,7 +20884,7 @@ export const data = [
             "director": [
                 "Райан Джонсон"
             ],
-            "scenario": [
+            "writer": [
                 "Райан Джонсон"
             ],
             "producer": [
@@ -20899,13 +20899,13 @@ export const data = [
             "composer": [
                 "Нэйтан Джонсон"
             ],
-            "artist": [
+            "design": [
                 "Дэвид Крэнк",
                 "Джереми Вудворд",
                 "Дженни Иген",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Боб Дюксе"
             ],
             "worldPremiere": "7 сентября 2019",
@@ -20958,7 +20958,7 @@ export const data = [
             "director": [
                 "Фернанду Мейреллиш"
             ],
-            "scenario": [
+            "writer": [
                 "Энтони МакКартен"
             ],
             "producer": [
@@ -20973,13 +20973,13 @@ export const data = [
             "composer": [
                 "Брайс Десснер"
             ],
-            "artist": [
+            "design": [
                 "Марк Тилдесли",
                 "Мерседес Альфонсин",
                 "Matías Martínez",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Фернандо Стац"
             ],
             "worldPremiere": "31 августа 2019",
@@ -21018,7 +21018,7 @@ export const data = [
                 "Стивен Богнар",
                 "Джулия Райхерт"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -21036,10 +21036,10 @@ export const data = [
             "composer": [
                 "Чад Кэннон"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Линдсей Уц"
             ],
             "worldPremiere": "25 января 2019",
@@ -21098,7 +21098,7 @@ export const data = [
             "director": [
                 "Ферас Файяд"
             ],
-            "scenario": [
+            "writer": [
                 "Алисар Хасан",
                 "Ферас Файяд"
             ],
@@ -21117,10 +21117,10 @@ export const data = [
             "composer": [
                 "Мэтью Херберт"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Денниз Голь Бертелсен",
                 "Пер К. Кьеркегор"
             ],
@@ -21172,7 +21172,7 @@ export const data = [
                 "Ваад Аль-Катиб",
                 "Эдвард Уоттс"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -21187,10 +21187,10 @@ export const data = [
             "composer": [
                 "Наинита Десай"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Хлоя Лэмбурн",
                 "Саймон Макмахон"
             ],
@@ -21237,7 +21237,7 @@ export const data = [
                 "Тамара Котевска",
                 "Любомир Стефанов"
             ],
-            "scenario": [
+            "writer": [
                 "Тамара Котевска",
                 "Любомир Стефанов"
             ],
@@ -21254,10 +21254,10 @@ export const data = [
             "composer": [
                 "Foltin"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Атанас Георгиев"
             ],
             "worldPremiere": "28 января 2019",
@@ -21298,7 +21298,7 @@ export const data = [
             "director": [
                 "Петра Коста"
             ],
-            "scenario": [
+            "writer": [
                 "Петра Коста",
                 "Кароль Пирес",
                 "Дэвид Баркер",
@@ -21322,10 +21322,10 @@ export const data = [
                 "Жильберто Монте",
                 "..."
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Джоао Атала",
                 "Дэвид Баркер",
                 "Тина Баз",
@@ -21372,7 +21372,7 @@ export const data = [
             "director": [
                 "Кэрол Дусингер"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -21387,10 +21387,10 @@ export const data = [
             "composer": [
                 "Саша Гордон"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Мэри Манхардт"
             ],
             "worldPremiere": "28 апреля 2019",
@@ -21434,7 +21434,7 @@ export const data = [
             "director": [
                 "Ли Сын-джун"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -21452,10 +21452,10 @@ export const data = [
             "composer": [
                 "Хван Мён-су"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Тодд Чандлер",
                 "Ли Сын-джун"
             ],
@@ -21501,7 +21501,7 @@ export const data = [
                 "John Haptas",
                 "Кристин Самуэльсон"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -21516,10 +21516,10 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "John Haptas",
                 "Кристин Самуэльсон"
             ],
@@ -21561,7 +21561,7 @@ export const data = [
             "director": [
                 "Лаура Никс"
             ],
-            "scenario": [
+            "writer": [
                 "Лаура Никс"
             ],
             "producer": [
@@ -21576,10 +21576,10 @@ export const data = [
             "composer": [
                 "Лаура Карпман"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Пол Александр Ютилайнен"
             ],
             "worldPremiere": "25 апреля 2019",
@@ -21624,7 +21624,7 @@ export const data = [
                 "Сами Кхан",
                 "Смрити Мундра"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -21640,10 +21640,10 @@ export const data = [
             "composer": [
                 "Аманда Делорес Патриша Джонс"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Файзал Азам"
             ],
             "worldPremiere": "20 февраля 2019",
@@ -21693,7 +21693,7 @@ export const data = [
             "director": [
                 "Джош Кули"
             ],
-            "scenario": [
+            "writer": [
                 "Джон Лассетер",
                 "Эндрю Стэнтон",
                 "Джош Кули",
@@ -21712,13 +21712,13 @@ export const data = [
             "composer": [
                 "Рэнди Ньюман"
             ],
-            "artist": [
+            "design": [
                 "Боб Поли",
                 "Крэйг Фостер",
                 "Daniel Holland",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Эксел Геддес"
             ],
             "worldPremiere": "11 июня 2019",
@@ -21781,7 +21781,7 @@ export const data = [
                 "Серхио Паблос",
                 "Карлос Мартинес Лопес"
             ],
-            "scenario": [
+            "writer": [
                 "Джим Махони",
                 "Зэк Льюис",
                 "Серхио Паблос"
@@ -21798,11 +21798,11 @@ export const data = [
             "composer": [
                 "Альфонсо Гонсалес Агиляр"
             ],
-            "artist": [
+            "design": [
                 "Шимон Бернацки",
                 "Марчин Якубовски"
             ],
-            "installation": [
+            "editor": [
                 "Пабло Реверт"
             ],
             "worldPremiere": "8 ноября 2019",
@@ -21849,7 +21849,7 @@ export const data = [
             "director": [
                 "Жереми Клапен"
             ],
-            "scenario": [
+            "writer": [
                 "Жереми Клапен",
                 "Гийом Лоран"
             ],
@@ -21864,13 +21864,13 @@ export const data = [
             "composer": [
                 "Дан Леви"
             ],
-            "artist": [
+            "design": [
                 "Jocelyn Charles",
                 "Jérôme Florencie",
                 "Magellan Jeoffrey",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Бенжамен Массубр"
             ],
             "worldPremiere": "17 мая 2019",
@@ -21929,7 +21929,7 @@ export const data = [
             "director": [
                 "Дин ДеБлуа"
             ],
-            "scenario": [
+            "writer": [
                 "Дин ДеБлуа",
                 "Крессида Коуэлл"
             ],
@@ -21945,10 +21945,10 @@ export const data = [
             "composer": [
                 "Джон Пауэлл"
             ],
-            "artist": [
+            "design": [
                 "Пьер-Оливье Винсент"
             ],
-            "installation": [
+            "editor": [
                 "Джон К. Карр"
             ],
             "worldPremiere": "3 января 2019",
@@ -22001,7 +22001,7 @@ export const data = [
             "director": [
                 "Крис Батлер"
             ],
-            "scenario": [
+            "writer": [
                 "Крис Батлер"
             ],
             "producer": [
@@ -22016,13 +22016,13 @@ export const data = [
             "composer": [
                 "Картер Бёруэлл"
             ],
-            "artist": [
+            "design": [
                 "Нельсон Лоури",
                 "Фил Бразертон",
                 "Роберт ДеСью",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Стивен Перкинс"
             ],
             "worldPremiere": "5 апреля 2019",
@@ -22068,7 +22068,7 @@ export const data = [
             "director": [
             "Росана Салливан"
             ],
-            "scenario": [
+            "writer": [
             "Росана Салливан"
             ],
             "producer": [
@@ -22082,10 +22082,10 @@ export const data = [
             "composer": [
             "Эндрю Хименез"
             ],
-            "artist": [
+            "design": [
             "Тим Эватт"
             ],
-            "installation": [
+            "editor": [
             "Кэти Шефер"
             ],
             "worldPremiere": "18 февраля 2019",
@@ -22131,7 +22131,7 @@ export const data = [
             "director": [
             "Брюно Колле"
             ],
-            "scenario": [
+            "writer": [
             "Брюно Колле"
             ],
             "producer": [
@@ -22143,8 +22143,8 @@ export const data = [
             "composer": [
             "Николас Мартин"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
             "Жан-Мари Ле Рест"
             ],
             "worldPremiere": "11 июня 2019",
@@ -22184,7 +22184,7 @@ export const data = [
             "director": [
             "Сун Сыцы"
             ],
-            "scenario": [
+            "writer": [
             "Сун Сыцы"
             ],
             "producer": [
@@ -22196,10 +22196,10 @@ export const data = [
             "composer": [
             "Карен Танака"
             ],
-            "artist": [
+            "design": [
             "Сун Сыцы"
             ],
-            "installation": [
+            "editor": [
             "Сун Сыцы"
             ],
             "worldPremiere": "15 июня 2018",
@@ -22248,7 +22248,7 @@ export const data = [
             "director": [
             "Дарья Кащеева"
             ],
-            "scenario": [
+            "writer": [
             "Дарья Кащеева"
             ],
             "producer": [
@@ -22262,8 +22262,8 @@ export const data = [
             "composer": [
             "Петр Врба"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
             "Александр Кащеев"
             ],
             "worldPremiere": "9 августа 2019",
@@ -22314,7 +22314,7 @@ export const data = [
             "Эверетт Доунинг мл.",
             "Брюс В. Смит"
             ],
-            "scenario": [
+            "writer": [
             "Мэттью Черри"
             ],
             "producer": [
@@ -22328,8 +22328,8 @@ export const data = [
             "Дэниэл Д. Кроуфорд",
             "Пол Монси"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
             "Ник Манц",
             "Илья Оуэнс",
             "К. Брайс Рэндл"
@@ -22372,7 +22372,7 @@ export const data = [
             "director": [
                 "Маршалл Карри"
             ],
-            "scenario": [
+            "writer": [
                 "Маршалл Карри",
                 "Дайан Вайперт"
             ],
@@ -22388,12 +22388,12 @@ export const data = [
             "composer": [
                 "Джеймс Бакстер"
             ],
-            "artist": [
+            "design": [
                 "Джозеф Полисек",
                 "Жослин Пирс",
                 "Kris Stanley"
             ],
-            "installation": [
+            "editor": [
                 "Маршалл Карри"
             ],
             "worldPremiere": "26 апреля 2019",
@@ -22449,7 +22449,7 @@ export const data = [
             "director": [
                 "Мерьям Жубер"
             ],
-            "scenario": [
+            "writer": [
                 "Мерьям Жубер"
             ],
             "producer": [
@@ -22464,10 +22464,10 @@ export const data = [
             "composer": [
                 "Питер Венн"
             ],
-            "artist": [
+            "design": [
                 "Валери-Джинн Мэтью"
             ],
-            "installation": [
+            "editor": [
                 "Анук Дешенс"
             ],
             "worldPremiere": "7 сентября 2018",
@@ -22508,7 +22508,7 @@ export const data = [
             "director": [
                 "Брайан Бакли"
             ],
-            "scenario": [
+            "writer": [
                 "Брайан Бакли"
             ],
             "producer": [
@@ -22523,12 +22523,12 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Николас Скабини",
                 "Алехандра Карлос М.",
                 "Алехандра Дуризотти"
             ],
-            "installation": [
+            "editor": [
                 "Крис Франклин"
             ],
             "worldPremiere": "20 сентября 2019",
@@ -22572,7 +22572,7 @@ export const data = [
             "director": [
                 "Дэльфин Жирар"
             ],
-            "scenario": [
+            "writer": [
                 "Дэльфин Жирар"
             ],
             "producer": [
@@ -22586,12 +22586,12 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Alice De Vestele",
                 "Ив Мартин",
                 "Элен Онон"
             ],
-            "installation": [
+            "editor": [
                 "Дамиен Кейю"
             ],
             "worldPremiere": "1 октября 2018",
@@ -22641,7 +22641,7 @@ export const data = [
             "director": [
                 "Ив Пиа"
             ],
-            "scenario": [
+            "writer": [
                 "Ив Пиа"
             ],
             "producer": [
@@ -22656,10 +22656,10 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Амель Резги"
             ],
-            "installation": [
+            "editor": [
                 "Жером Брео"
             ],
             "worldPremiere": "24 октября 2018",
@@ -22700,7 +22700,7 @@ export const data = [
             "director": [
                 "Педро Альмодовар"
             ],
-            "scenario": [
+            "writer": [
                 "Педро Альмодовар"
             ],
             "producer": [
@@ -22715,13 +22715,13 @@ export const data = [
             "composer": [
                 "Альберто Иглесиас"
             ],
-            "artist": [
+            "design": [
                 "Анчон Гомес",
                 "Мария Клара Нотари",
                 "Паола Торрес",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Тереса Фонт"
             ],
             "worldPremiere": "13 марта 2019",
@@ -22762,7 +22762,7 @@ export const data = [
             "director": [
                 "Ян Комаса"
             ],
-            "scenario": [
+            "writer": [
                 "Mateusz Pacewicz"
             ],
             "producer": [
@@ -22778,12 +22778,12 @@ export const data = [
                 "Евгений Гальперин",
                 "Саша Гальперин"
             ],
-            "artist": [
+            "design": [
                 "Марек Заверуха",
                 "Дорота Рокепло",
                 "Анджей Горнисевич"
             ],
-            "installation": [
+            "editor": [
                 "Пшемыслав Хрусцелевский"
             ],
             "worldPremiere": "2 сентября 2019",
@@ -22824,7 +22824,7 @@ export const data = [
             "director": [
                 "Ладж Ли"
             ],
-            "scenario": [
+            "writer": [
                 "Ладж Ли",
                 "Джордано Гедерлини",
                 "Алексис Маненти"
@@ -22841,11 +22841,11 @@ export const data = [
             "composer": [
                 "Pink Noise"
             ],
-            "artist": [
+            "design": [
                 "Марин Гальяно",
                 "Карим Лагати"
             ],
-            "installation": [
+            "editor": [
                 "Флора Вольпельер"
             ],
             "worldPremiere": "15 мая 2019",
@@ -22880,7 +22880,7 @@ export const data = [
         "director": [
             "Гленн Уайсс"
         ],
-        "scenario": [
+        "writer": [
             "Джон Мэкс",
             "Эмберия Аллен",
             "Джон Хоффман",
@@ -22898,13 +22898,13 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             "Джейсон Шервуд",
             "Алана Биллингсли",
             "Марго Уилкокс",
             "..."
         ],
-        "installation": [
+        "editor": [
             "Джон М. Кокс",
             "Тим Перникиаро",
             "Тим Шульц"
@@ -22955,7 +22955,7 @@ export const data = [
             "director": [
                 "Хлоя Чжао"
             ],
-            "scenario": [
+            "writer": [
                 "Хлоя Чжао",
                 "Джессика Брудер"
             ],
@@ -22971,12 +22971,12 @@ export const data = [
             "composer": [
                 "Людовико Эйнауди"
             ],
-            "artist": [
+            "design": [
                 "Джошуа Джеймс Ричардс",
                 "Элизабет Годар",
                 "Ханна Петерсон"
             ],
-            "installation": [
+            "editor": [
                 "Хлоя Чжао"
             ],
             "worldPremiere": "11 сентября 2020",
@@ -23024,7 +23024,7 @@ export const data = [
             "director": [
                 "Дариус Мардер"
             ],
-            "scenario": [
+            "writer": [
                 "Абрахам Мардер",
                 "Дариус Мардер",
                 "Дерек Сиенфрэнс"
@@ -23042,13 +23042,13 @@ export const data = [
                 "Николас Бекер",
                 "Абрахам Мардер"
             ],
-            "artist": [
+            "design": [
                 "Джереми Вудворд",
                 "Герт Стас",
                 "Меган Старк Эванс",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Миккел И.Г. Нилсен"
             ],
             "worldPremiere": "6 сентября 2019",
@@ -23089,7 +23089,7 @@ export const data = [
             "director": [
                 "Дэвид Финчер"
             ],
-            "scenario": [
+            "writer": [
                 "Джек Финчер"
             ],
             "producer": [
@@ -23105,13 +23105,13 @@ export const data = [
                 "Трент Резнор",
                 "Аттикус Росс"
             ],
-            "artist": [
+            "design": [
                 "Дональд Грэм Берт",
                 "Крис Крейн",
                 "Джек Такер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Кирк Бакстер"
             ],
             "worldPremiere": "13 ноября 2020",
@@ -23159,7 +23159,7 @@ export const data = [
             "director": [
                 "Флориан Зеллер"
             ],
-            "scenario": [
+            "writer": [
                 "Кристофер Хэмптон",
                 "Флориан Зеллер"
             ],
@@ -23175,13 +23175,13 @@ export const data = [
             "composer": [
                 "Людовико Эйнауди"
             ],
-            "artist": [
+            "design": [
                 "Питер Френсис",
                 "Аманда Леггатт",
                 "Астрид Зибен",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Йоргос Лампринос"
             ],
             "worldPremiere": "27 января 2020",
@@ -23232,7 +23232,7 @@ export const data = [
             "director": [
                 "Эмиральд Феннел"
             ],
-            "scenario": [
+            "writer": [
                 "Эмиральд Феннел"
             ],
             "producer": [
@@ -23247,13 +23247,13 @@ export const data = [
             "composer": [
                 "Энтони Б. Уиллис"
             ],
-            "artist": [
+            "design": [
                 "Майкл Перри",
                 "Лиз Клочковски",
                 "Нэнси Стейнер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Фредерик Тораваль"
             ],
             "worldPremiere": "25 января 2020",
@@ -23304,7 +23304,7 @@ export const data = [
             "director": [
                 "Шака Кинг"
             ],
-            "scenario": [
+            "writer": [
                 "Уилл Берсон",
                 "Шака Кинг",
                 "Кеннет Лукас",
@@ -23323,13 +23323,13 @@ export const data = [
                 "Craig Harris",
                 "Марк Айшем"
             ],
-            "artist": [
+            "design": [
                 "Сэм Лисенко",
                 "Джереми Вулси",
                 "Чарлиз Антониетта Джонс",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Кристан Спрэг"
             ],
             "worldPremiere": "1 февраля 2021",
@@ -23371,7 +23371,7 @@ export const data = [
             "director": [
                 "Ли Айзек Чун"
             ],
-            "scenario": [
+            "writer": [
                 "Ли Айзек Чун"
             ],
             "producer": [
@@ -23386,13 +23386,13 @@ export const data = [
             "composer": [
                 "Эмиль Моссери"
             ],
-            "artist": [
+            "design": [
                 "Ли Ён-ок",
                 "В. Хейли Хо",
                 "Джошуа Сэмпсон",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Гарри Юн"
             ],
             "worldPremiere": "26 января 2020",
@@ -23449,7 +23449,7 @@ export const data = [
             "director": [
                 "Аарон Соркин"
             ],
-            "scenario": [
+            "writer": [
                 "Аарон Соркин"
             ],
             "producer": [
@@ -23464,13 +23464,13 @@ export const data = [
             "composer": [
                 "Дэниэл Пембертон"
             ],
-            "artist": [
+            "design": [
                 "Шэйн Валентино",
                 "Ник Франконе",
                 "Джулия Хейманс",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Алан Баумгартен"
             ],
             "worldPremiere": "25 сентября 2020",
@@ -23514,7 +23514,7 @@ export const data = [
             "director": [
                 "Рамин Бахрани"
             ],
-            "scenario": [
+            "writer": [
                 "Рамин Бахрани",
                 "Аравинд Адига"
             ],
@@ -23531,13 +23531,13 @@ export const data = [
                 "Дэнни Бенси",
                 "Сондер Юрриаанс"
             ],
-            "artist": [
+            "design": [
                 "Чад Кит",
                 "Ясмин Сетхи",
                 "Тия Теджпал",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Рамин Бахрани",
                 "Тим Стрито"
             ],
@@ -23582,7 +23582,7 @@ export const data = [
             "director": [
                 "Джейсон Уолинер"
             ],
-            "scenario": [
+            "writer": [
                 "Питер Бейнхэм",
                 "Эрика Ривинойя",
                 "Дэн Мазер",
@@ -23600,13 +23600,13 @@ export const data = [
             "composer": [
                 "Эрран Барон Коэн"
             ],
-            "artist": [
+            "design": [
                 "Дэвид Матурана",
                 "Врачу Эдуард Дэниэл",
                 "Джон Лавин",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Крэйг Элперт",
                 "Майкл Джиамбра",
                 "Джеймс Томас"
@@ -23646,7 +23646,7 @@ export const data = [
             "director": [
                 "Реджина Кинг"
             ],
-            "scenario": [
+            "writer": [
                 "Кемп Пауэрс"
             ],
             "producer": [
@@ -23661,13 +23661,13 @@ export const data = [
             "composer": [
                 "Теренс Блэнчард"
             ],
-            "artist": [
+            "design": [
                 "Пейдж Бакнер",
                 "Барри Робисон",
                 "Марк Зюльзке",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Тарик Анвар"
             ],
             "worldPremiere": "7 сентября 2020",
@@ -23706,7 +23706,7 @@ export const data = [
                 "Пиппа Эрлих",
                 "Джеймс Рид"
             ],
-            "scenario": [
+            "writer": [
                 "Пиппа Эрлих",
                 "Джеймс Рид"
             ],
@@ -23722,10 +23722,10 @@ export const data = [
             "composer": [
                 "Кевин Смутс"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Пиппа Эрлих",
                 "Джинкс Годфри",
                 "Дэн Швальм"
@@ -23777,7 +23777,7 @@ export const data = [
             "director": [
                 "Мэйти Альберди"
             ],
-            "scenario": [
+            "writer": [
                 "Мэйти Альберди"
             ],
             "producer": [
@@ -23792,10 +23792,10 @@ export const data = [
             "composer": [
                 "Винсент ван Вармердам"
             ],
-            "artist": [
+            "design": [
                 "Каталина Девия"
             ],
-            "installation": [
+            "editor": [
                 "Каролина Сиракян"
             ],
             "worldPremiere": "25 января 2020",
@@ -23846,7 +23846,7 @@ export const data = [
             "director": [
                 "Александр Нанэу"
             ],
-            "scenario": [
+            "writer": [
                 "Александр Нанэу",
                 "Antoaneta Opris"
             ],
@@ -23862,10 +23862,10 @@ export const data = [
             "composer": [
                 "Каян Баяни"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Дана Бунеску",
                 "Джордж Крегг",
                 "Ана Гарсиа",
@@ -23909,7 +23909,7 @@ export const data = [
             "director": [
                 "Гаррет Брэдли"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -23927,10 +23927,10 @@ export const data = [
                 "Эдвин Монтгомери",
                 "Джемисон Шоу"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Гэбриел Родс"
             ],
             "worldPremiere": "25 января 2020",
@@ -23972,7 +23972,7 @@ export const data = [
                 "Джеймс Лебрехт",
                 "Николь Ньюнэм"
             ],
-            "scenario": [
+            "writer": [
                 "Джеймс Лебрехт",
                 "Николь Ньюнэм",
                 "Дэвид Рэдклифф"
@@ -23989,10 +23989,10 @@ export const data = [
             "composer": [
                 "Бэр Маккрири"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Эндрю Герш",
                 "Мэри Лэмпсон",
                 "Эйлин Мейер"
@@ -24035,7 +24035,7 @@ export const data = [
             "director": [
                 "Энтони Джаккино"
             ],
-            "scenario": [
+            "writer": [
                 "Энтони Джаккино"
             ],
             "producer": [
@@ -24049,10 +24049,10 @@ export const data = [
             "composer": [
                 "Нами Мелумад"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Аарон Мэтьюз"
             ],
             "worldPremiere": "16 февраля 2020",
@@ -24103,7 +24103,7 @@ export const data = [
                 "Крис Бауэрс",
                 "Бен Праудфут"
             ],
-            "scenario": [
+            "writer": [
                 "Бен Праудфут"
             ],
             "producer": [
@@ -24119,10 +24119,10 @@ export const data = [
             "composer": [
                 "Крис Бауэрс"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Лукас Донг"
             ],
             "worldPremiere": "24 ноября 2020",
@@ -24166,7 +24166,7 @@ export const data = [
             "director": [
                 "Андерс Хаммер"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -24179,10 +24179,10 @@ export const data = [
             "composer": [
                 "Мартин Хорнтвет"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Андерс Хаммер",
                 "Mackenzie Lukenbill",
                 "Билл Росс IV"
@@ -24231,7 +24231,7 @@ export const data = [
             "director": [
                 "София Нали Эллисон"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -24246,10 +24246,10 @@ export const data = [
             "composer": [
                 "Минна Чои"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "София Нали Эллисон"
             ],
             "worldPremiere": "28 апреля 2019",
@@ -24293,7 +24293,7 @@ export const data = [
             "director": [
                 "Скай Фицджералд"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -24308,10 +24308,10 @@ export const data = [
             "composer": [
                 "Уильям Кэмпбелл"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Дэн Садовски"
             ],
             "worldPremiere": "11 ноября 2020",
@@ -24365,7 +24365,7 @@ export const data = [
                 "Пит Доктер",
                 "Кемп Пауэрс"
             ],
-            "scenario": [
+            "writer": [
                 "Пит Доктер",
                 "Майк Джонс",
                 "Кемп Пауэрс"
@@ -24384,13 +24384,13 @@ export const data = [
                 "Трент Резнор",
                 "Аттикус Росс"
             ],
-            "artist": [
+            "design": [
                 "Стив Пилчер",
                 "Пауль Абадилья",
                 "Берт Берри",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Кевин Нолтинг"
             ],
             "worldPremiere": "11 октября 2020",
@@ -24447,7 +24447,7 @@ export const data = [
                 "Уилл Бечер",
                 "Ричард Фелан"
             ],
-            "scenario": [
+            "writer": [
                 "Марк Бертон",
                 "Джон Браун",
                 "Ричард Старзак",
@@ -24465,12 +24465,12 @@ export const data = [
             "composer": [
                 "Том Хоу"
             ],
-            "artist": [
+            "design": [
                 "Мэтт Перри",
                 "Ричард Эдмундс",
                 "Мэтт Сандерс"
             ],
-            "installation": [
+            "editor": [
                 "Сим Эван-Джонс"
             ],
             "worldPremiere": "26 сентября 2019",
@@ -24530,7 +24530,7 @@ export const data = [
                 "Глен Кин",
                 "Джон Карс"
             ],
-            "scenario": [
+            "writer": [
                 "Одри Уэллс",
                 "Дженнифер Йи МакДевитт",
                 "Элис Ву"
@@ -24547,11 +24547,11 @@ export const data = [
             "composer": [
                 "Стивен Прайс"
             ],
-            "artist": [
+            "design": [
                 "Селин Десрумо",
                 "Го Пэй"
             ],
-            "installation": [
+            "editor": [
                 "Эди Итиока"
             ],
             "worldPremiere": "16 октября 2020",
@@ -24607,7 +24607,7 @@ export const data = [
             "director": [
                 "Дэн Скэнлон"
             ],
-            "scenario": [
+            "writer": [
                 "Дэн Скэнлон",
                 "Кит Бьюнин",
                 "Джейсон Хэдли"
@@ -24626,13 +24626,13 @@ export const data = [
                 "Джефф Дэнна",
                 "Майкл Дэнна"
             ],
-            "artist": [
+            "design": [
                 "Ной Клочек",
                 "Берт Берри",
                 "Пол Конрад",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Катрин Эппл"
             ],
             "worldPremiere": "7 января 2020",
@@ -24701,7 +24701,7 @@ export const data = [
                 "Томм Мур",
                 "Росс Стюарт"
             ],
-            "scenario": [
+            "writer": [
                 "Уилл Коллинз",
                 "Томм Мур",
                 "Росс Стюарт",
@@ -24719,12 +24719,12 @@ export const data = [
             "composer": [
                 "Бруно Куле"
             ],
-            "artist": [
+            "design": [
                 "Томм Мур",
                 "Мария Парейя",
                 "Росс Стюарт"
             ],
-            "installation": [
+            "editor": [
                 "Дарра Бирн",
                 "Ричи Коуди",
                 "Даррен Т. Холмс"
@@ -24769,7 +24769,7 @@ export const data = [
             "director": [
                 "Адриен Мериго"
             ],
-            "scenario": [
+            "writer": [
                 "Адриен Мериго",
                 "Николя Плескоф"
             ],
@@ -24784,8 +24784,8 @@ export const data = [
                 "Тео Мериго",
                 "Ле Квон Нинх"
             ],
-            "artist": [],
-            "installation": [],
+            "design": [],
+            "editor": [],
             "worldPremiere": "19 января 2020",
             "ratingAgeLimits": "",
             "ratingMpaa": "",
@@ -24827,7 +24827,7 @@ export const data = [
                 "Майкл Говье",
                 "Уилл МакКормак"
             ],
-            "scenario": [
+            "writer": [
                 "Уилл МакКормак",
                 "Майкл Говье"
             ],
@@ -24841,8 +24841,8 @@ export const data = [
             "composer": [
                 "Линдсэй Маркус"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Питер Эттинджер"
             ],
             "worldPremiere": "7 марта 2020",
@@ -24888,7 +24888,7 @@ export const data = [
             "director": [
                 "Гизли Дарри Халльдорссон"
             ],
-            "scenario": [
+            "writer": [
                 "Гизли Дарри Халльдорссон"
             ],
             "producer": [
@@ -24897,8 +24897,8 @@ export const data = [
             ],
             "operator": [],
             "composer": [],
-            "artist": [],
-            "installation": [],
+            "design": [],
+            "editor": [],
             "worldPremiere": "15 июня 2020",
             "ratingAgeLimits": "",
             "ratingMpaa": "",
@@ -24939,7 +24939,7 @@ export const data = [
             "director": [
                 "Эрик О"
             ],
-            "scenario": [],
+            "writer": [],
             "producer": [
                 "Sara K. Sampson"
             ],
@@ -24947,10 +24947,10 @@ export const data = [
             "composer": [
                 "Эндрю Вернон"
             ],
-            "artist": [
+            "design": [
                 "Qian Celine You"
             ],
-            "installation": [],
+            "editor": [],
             "worldPremiere": "23 сентября 2020",
             "ratingAgeLimits": "",
             "ratingMpaa": "",
@@ -24997,7 +24997,7 @@ export const data = [
             "director": [
                 "Мадлен Шарафьян"
             ],
-            "scenario": [
+            "writer": [
                 "Мадлен Шарафьян"
             ],
             "producer": [
@@ -25012,8 +25012,8 @@ export const data = [
             "composer": [
                 "Дэвид Лэлли"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Anna Wolitzky"
             ],
             "worldPremiere": "25 декабря 2020",
@@ -25058,7 +25058,7 @@ export const data = [
                 "Трэвон Фри",
                 "Мартин Десмонд Роу"
             ],
-            "scenario": [
+            "writer": [
                 "Трэвон Фри"
             ],
             "producer": [
@@ -25073,13 +25073,13 @@ export const data = [
             "composer": [
                 "Джеймс Пойсер"
             ],
-            "artist": [
+            "design": [
                 "Кесе Морган",
                 "Джейк Гроссман",
                 "Виниша Кидд",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Alex Odesmith"
             ],
             "worldPremiere": "20 ноября 2020",
@@ -25120,7 +25120,7 @@ export const data = [
             "director": [
                 "Даг Роланд"
             ],
-            "scenario": [
+            "writer": [
                 "Даг Роланд"
             ],
             "producer": [
@@ -25135,11 +25135,11 @@ export const data = [
             "composer": [
                 "Daniel Ryan"
             ],
-            "artist": [
+            "design": [
                 "Leticia Sampedro",
                 "Патрик Сен Жан"
             ],
-            "installation": [
+            "editor": [
                 "Даг Роланд"
             ],
             "worldPremiere": "30 января 2020",
@@ -25183,7 +25183,7 @@ export const data = [
             "director": [
                 "Farah Nabulsi"
             ],
-            "scenario": [
+            "writer": [
                 "Farah Nabulsi",
                 "Hind Shoufani"
             ],
@@ -25198,11 +25198,11 @@ export const data = [
             "composer": [
                 "Adam Benobaid"
             ],
-            "artist": [
+            "design": [
                 "Наэль Кань",
                 "Fairouze Nastas"
             ],
-            "installation": [
+            "editor": [
                 "Аннамари Ясир",
                 "Abdallah Sada",
                 "Hind Shoufani"
@@ -25245,7 +25245,7 @@ export const data = [
             "director": [
                 "Томер Шушан"
             ],
-            "scenario": [
+            "writer": [
                 "Томер Шушан"
             ],
             "producer": [
@@ -25258,10 +25258,10 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Шира Хочман"
             ],
             "worldPremiere": "12 июля 2020",
@@ -25302,7 +25302,7 @@ export const data = [
             "director": [
                 "Эльвира Линд"
             ],
-            "scenario": [
+            "writer": [
                 "Эльвира Линд"
             ],
             "producer": [
@@ -25317,13 +25317,13 @@ export const data = [
             "composer": [
                 "Paulo Stagnaro"
             ],
-            "artist": [
+            "design": [
                 "Шэрон Ломофски",
                 "Josh Blankfield",
                 "Lowri Best",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Адам Нильсен"
             ],
             "worldPremiere": "9 ноября 2020",
@@ -25370,7 +25370,7 @@ export const data = [
             "director": [
                 "Томас Винтерберг"
             ],
-            "scenario": [
+            "writer": [
                 "Томас Винтерберг",
                 "Тобиас Линдхольм"
             ],
@@ -25386,12 +25386,12 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Сабина Хвиид",
                 "Эллен Ленс",
                 "Манон Расмуссен"
             ],
-            "installation": [
+            "editor": [
                 "Янус Биллесков Янсен",
                 "Анне Эстеруд"
             ],
@@ -25472,7 +25472,7 @@ export const data = [
             "director": [
                 "Ясмила Жбанич"
             ],
-            "scenario": [
+            "writer": [
                 "Ясмила Жбанич",
                 "Хасан Нуханович"
             ],
@@ -25488,13 +25488,13 @@ export const data = [
             "composer": [
                 "Антони Лазаркевич"
             ],
-            "artist": [
+            "design": [
                 "Ханнес Сала",
                 "Желька Бурич",
                 "Сабина Энгельберг",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Ярослав Камински"
             ],
             "worldPremiere": "3 сентября 2020",
@@ -25553,7 +25553,7 @@ export const data = [
             "director": [
                 "Каутер Бен Ханья"
             ],
-            "scenario": [
+            "writer": [
                 "Каутер Бен Ханья"
             ],
             "producer": [
@@ -25568,10 +25568,10 @@ export const data = [
             "composer": [
                 "Амин Бухафа"
             ],
-            "artist": [
+            "design": [
                 "Randa Khedher"
             ],
-            "installation": [
+            "editor": [
                 "Мари-Элен Дозо"
             ],
             "worldPremiere": "4 сентября 2020",
@@ -25618,7 +25618,7 @@ export const data = [
             "director": [
                 "Дерек Цан"
             ],
-            "scenario": [
+            "writer": [
                 "Лам Вин-Сум",
                 "Ли Юйань",
                 "Сюй Имэн",
@@ -25636,12 +25636,12 @@ export const data = [
             "composer": [
                 "Varqa Buehrer"
             ],
-            "artist": [
+            "design": [
                 "Лян Хунху",
                 "Jiyu Yang",
                 "Дора Нг"
             ],
-            "installation": [
+            "editor": [
                 "Чжан Ибо"
             ],
             "worldPremiere": "25 октября 2019",
@@ -25676,7 +25676,7 @@ export const data = [
             "director": [
                 "Гленн Уайсс"
             ],
-            "scenario": [
+            "writer": [
                 "Эмберия Аллен",
                 "Дрим Хэмптон",
                 "Джон Мэкс",
@@ -25694,13 +25694,13 @@ export const data = [
             "composer": [
                 "Амир-Халиб Томпсон"
             ],
-            "artist": [
+            "design": [
                 "Дэвид Роквэлл",
                 "Алана Биллингсли",
                 "Джо Челли",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Тим Шульц"
             ],
             "worldPremiere": "25 апреля 2021",
@@ -25758,7 +25758,7 @@ export const data = [
             "director": [
                 "Шан Хейдер"
             ],
-            "scenario": [
+            "writer": [
                 "Шан Хейдер",
                 "Виктория Бедос",
                 "Станислас Карре де Мальбер",
@@ -25776,13 +25776,13 @@ export const data = [
             "composer": [
                 "Мариус Де Фриз"
             ],
-            "artist": [
+            "design": [
                 "Дайан Ледерман",
                 "Пол Ричардс",
                 "Джереми Вулси",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Жеро Бриссон"
             ],
             "worldPremiere": "29 января 2021",
@@ -25830,7 +25830,7 @@ export const data = [
             "director": [
                 "Кеннет Брана"
             ],
-            "scenario": [
+            "writer": [
                 "Кеннет Брана"
             ],
             "producer": [
@@ -25845,13 +25845,13 @@ export const data = [
             "composer": [
                 "Вэн Моррисон"
             ],
-            "artist": [
+            "design": [
                 "Джим Клэй",
                 "Доминик Мастерс",
                 "Стивен Суэйн",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Уна Ни Гонила"
             ],
             "worldPremiere": "2 сентября 2021",
@@ -25905,7 +25905,7 @@ export const data = [
             "director": [
                 "Джейн Кэмпион"
             ],
-            "scenario": [
+            "writer": [
                 "Джейн Кэмпион",
                 "Томас Сэвидж"
             ],
@@ -25921,13 +25921,13 @@ export const data = [
             "composer": [
                 "Джонни Гринвуд"
             ],
-            "artist": [
+            "design": [
                 "Грант Мейджор",
                 "Мэтт Остин",
                 "Ник Коннор",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Питер Скиберрас"
             ],
             "worldPremiere": "2 сентября 2021",
@@ -25978,7 +25978,7 @@ export const data = [
             "director": [
                 "Адам Маккей"
             ],
-            "scenario": [
+            "writer": [
                 "Адам Маккей",
                 "Дэвид Сирота"
             ],
@@ -25994,13 +25994,13 @@ export const data = [
             "composer": [
                 "Николас Брителл"
             ],
-            "artist": [
+            "design": [
                 "Клэйтон Хартли",
                 "Джаред Патрик Гербиг",
                 "Эллиотт Глик",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Хэнк Коруин"
             ],
             "worldPremiere": "5 декабря 2021",
@@ -26048,7 +26048,7 @@ export const data = [
             "director": [
                 "Рейнальдо Маркус Грин"
             ],
-            "scenario": [
+            "writer": [
                 "Зак Бэйлин"
             ],
             "producer": [
@@ -26063,13 +26063,13 @@ export const data = [
             "composer": [
                 "Крис Бауэрс"
             ],
-            "artist": [
+            "design": [
                 "Уильям Арнольд",
                 "Винн Томас",
                 "Кристофер Браун",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Памела Мартин"
             ],
             "worldPremiere": "2 сентября 2021",
@@ -26119,7 +26119,7 @@ export const data = [
             "director": [
                 "Гильермо дель Торо"
             ],
-            "scenario": [
+            "writer": [
                 "Гильермо дель Торо",
                 "Ким Морган",
                 "Уильям Линдсэй Грешам"
@@ -26136,13 +26136,13 @@ export const data = [
             "composer": [
                 "Нэйтан Джонсон"
             ],
-            "artist": [
+            "design": [
                 "Тамара Деверелл",
                 "Брандт Гордон",
                 "Луис Секейра",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Кэм Маклохлин"
             ],
             "worldPremiere": "1 декабря 2021",
@@ -26192,7 +26192,7 @@ export const data = [
             "director": [
                 "Стивен Спилберг"
             ],
-            "scenario": [
+            "writer": [
                 "Тони Кушнер",
                 "Артур Лорентс"
             ],
@@ -26208,13 +26208,13 @@ export const data = [
             "composer": [
                 "Леонард Бернстайн"
             ],
-            "artist": [
+            "design": [
                 "Адам Штокхаузен",
                 "Райан Хек",
                 "Дебора Дженсен",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Сара Брошар",
                 "Майкл Кан"
             ],
@@ -26272,7 +26272,7 @@ export const data = [
             "director": [
                 "Дени Вильнёв"
             ],
-            "scenario": [
+            "writer": [
                 "Джон Спэйтс",
                 "Дени Вильнёв",
                 "Эрик Рот",
@@ -26290,13 +26290,13 @@ export const data = [
             "composer": [
                 "Ханс Циммер"
             ],
-            "artist": [
+            "design": [
                 "Патрис Верметт",
                 "Том Браун",
                 "Дэвид Доран",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Джо Уокер"
             ],
             "worldPremiere": "3 сентября 2021",
@@ -26347,7 +26347,7 @@ export const data = [
             "director": [
                 "Пол Томас Андерсон"
             ],
-            "scenario": [
+            "writer": [
                 "Пол Томас Андерсон"
             ],
             "producer": [
@@ -26363,13 +26363,13 @@ export const data = [
             "composer": [
                 "Джонни Гринвуд"
             ],
-            "artist": [
+            "design": [
                 "Флоренция Мартин",
                 "Саманта Инглендер",
                 "Марк Бриджес",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Эндрю Юргенсен"
             ],
             "worldPremiere": "20 ноября 2021",
@@ -26415,7 +26415,7 @@ export const data = [
             "director": [
                 "Рюсукэ Хамагути"
             ],
-            "scenario": [
+            "writer": [
                 "Рюсукэ Хамагути",
                 "Такамаса Оэ",
                 "Харуки Мураками"
@@ -26432,13 +26432,13 @@ export const data = [
             "composer": [
                 "Эико Исибаси"
             ],
-            "artist": [
+            "design": [
                 "Со Хён-сон",
                 "Кэнасаки Дзё",
                 "Харуки Кокэцу",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Адзуса Ямадзаки"
             ],
             "worldPremiere": "11 июля 2021",
@@ -26495,7 +26495,7 @@ export const data = [
             "director": [
                 "Йоаким Триер"
             ],
-            "scenario": [
+            "writer": [
                 "Эскиль Вогт",
                 "Йоаким Триер"
             ],
@@ -26511,12 +26511,12 @@ export const data = [
             "composer": [
                 "Ола Флёттум"
             ],
-            "artist": [
+            "design": [
                 "Роджер Розенберг",
                 "Мирьям Веске",
                 "Эллен Дэли Истехеде"
             ],
-            "installation": [
+            "editor": [
                 "Оливье Бугге Кутте"
             ],
             "worldPremiere": "8 июля 2021",
@@ -26563,7 +26563,7 @@ export const data = [
             "director": [
                 "Мэгги Джилленхол"
             ],
-            "scenario": [
+            "writer": [
                 "Мэгги Джилленхол",
                 "Элена Ферранте"
             ],
@@ -26579,13 +26579,13 @@ export const data = [
             "composer": [
                 "Дикон Хинчлифф"
             ],
-            "artist": [
+            "design": [
                 "Инбал Вейнберг",
                 "Моника Саллустио",
                 "Эдвард К. Гиббон",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Аффонсо Гонсалвес"
             ],
             "worldPremiere": "2 сентября 2021",
@@ -26626,7 +26626,7 @@ export const data = [
             "director": [
                 "Амир-Халиб Томпсон"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -26641,11 +26641,11 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Lauren Nikrooz",
                 "Mark Thompson"
             ],
-            "installation": [
+            "editor": [
                 "Джошуа Л. Пирсон"
             ],
             "worldPremiere": "28 января 2021",
@@ -26683,7 +26683,7 @@ export const data = [
             "director": [
                 "Джессика Кингдон"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -26699,10 +26699,10 @@ export const data = [
             "composer": [
                 "Дэн Дикон"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Джессика Кингдон"
             ],
             "worldPremiere": "12 июня 2021",
@@ -26740,7 +26740,7 @@ export const data = [
             "director": [
                 "—"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -26756,10 +26756,10 @@ export const data = [
                 "Ишан Чхабра",
                 "Tajdar Junaid"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Анна Фабини"
             ],
             "worldPremiere": "30 января 2021",
@@ -26847,7 +26847,7 @@ export const data = [
             "director": [
                 "Йонас Поэр Расмуссен"
             ],
-            "scenario": [
+            "writer": [
                 "Йонас Поэр Расмуссен",
                 "Эмин Наваби"
             ],
@@ -26863,10 +26863,10 @@ export const data = [
             "composer": [
                 "Уно Хелмерссон"
             ],
-            "artist": [
+            "design": [
                 "Джесс Николлс"
             ],
-            "installation": [
+            "editor": [
                 "Янус Биллесков Янсен"
             ],
             "worldPremiere": "28 января 2021",
@@ -26905,7 +26905,7 @@ export const data = [
                 "Трэйси Карри",
                 "Стэнли Нельсон"
             ],
-            "scenario": [
+            "writer": [
                 "Стэнли Нельсон"
             ],
             "producer": [
@@ -26923,10 +26923,10 @@ export const data = [
             "composer": [
                 "Том Филлипс"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Jaclyn Lee",
                 "Aljernon Tunsil"
             ],
@@ -26974,7 +26974,7 @@ export const data = [
             "director": [
                 "Бен Праудфут"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -26989,10 +26989,10 @@ export const data = [
             "composer": [
                 "Nicholas Jacobson-Larson"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Stephanie Owens",
                 "Бен Праудфут"
             ],
@@ -27037,7 +27037,7 @@ export const data = [
             "director": [
                 "Мэттью Огенс"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -27052,10 +27052,10 @@ export const data = [
             "composer": [
                 "Джексон Гринберг"
             ],
-            "artist": [
+            "design": [
                 "Брэндон Кэрролл"
             ],
-            "installation": [
+            "editor": [
                 "Дэррин Робертс"
             ],
             "worldPremiere": "29 апреля 2021",
@@ -27099,7 +27099,7 @@ export const data = [
             "director": [
                 "Джей Розенблатт"
             ],
-            "scenario": [
+            "writer": [
                 "Джей Розенблатт"
             ],
             "producer": [
@@ -27116,10 +27116,10 @@ export const data = [
             "composer": [
                 "Erik Ian Walker"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 ""
             ],
             "worldPremiere": "28 января 2021",
@@ -27161,7 +27161,7 @@ export const data = [
                 "Элизабет Мирзаи",
                 "Гулистан Мирзаи"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -27176,10 +27176,10 @@ export const data = [
             "composer": [
                 "Qais Essar"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Мелани Аннан",
                 "Кристоф Вермке"
             ],
@@ -27222,7 +27222,7 @@ export const data = [
                 "Педро Коз",
                 "Джон Шенк"
             ],
-            "scenario": [
+            "writer": [
                 "—"
             ],
             "producer": [
@@ -27237,10 +27237,10 @@ export const data = [
             "composer": [
                 "Джил Талми"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 "Дон Бернье",
                 "Педро Коз"
             ],
@@ -27293,7 +27293,7 @@ export const data = [
                 "Байрон Ховард",
                 "Чариз Кастро Смит"
             ],
-            "scenario": [
+            "writer": [
                 "Чариз Кастро Смит",
                 "Джаред Буш",
                 "Байрон Ховард",
@@ -27313,13 +27313,13 @@ export const data = [
             "composer": [
                 "Джермейн Франко"
             ],
-            "artist": [
+            "design": [
                 "Лорелей Бове",
                 "Иэн Гудинг",
                 "Камилль Андре",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Джереми Милтон"
             ],
             "worldPremiere": "3 ноября 2021",
@@ -27378,7 +27378,7 @@ export const data = [
             "director": [
                 "Энрико Касароса"
             ],
-            "scenario": [
+            "writer": [
                 "Майк Джонс",
                 "Энрико Касароса",
                 "Джесси Эндрюс",
@@ -27397,13 +27397,13 @@ export const data = [
             "composer": [
                 "Дэн Ромер"
             ],
-            "artist": [
+            "design": [
                 "Даниэла Стрижлева",
                 "Пауль Абадилья",
                 "Дженнифер Чан",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Катрин Эппл",
                 "Джейсон Худак"
             ],
@@ -27461,7 +27461,7 @@ export const data = [
                 "Майкл Рианда",
                 "Джефф Роу"
             ],
-            "scenario": [
+            "writer": [
                 "Майкл Рианда",
                 "Джефф Роу",
                 "Петер Силадьи",
@@ -27479,11 +27479,11 @@ export const data = [
             "composer": [
                 "Марк Мазерсбо"
             ],
-            "artist": [
+            "design": [
                 "Линдси Оливарес",
                 "Тоби Уилсон"
             ],
-            "installation": [
+            "editor": [
                 "Грег Левитан"
             ],
             "worldPremiere": "22 апреля 2021",
@@ -27542,7 +27542,7 @@ export const data = [
                 "Пол Бриггс",
                 "..."
             ],
-            "scenario": [
+            "writer": [
                 "Ки Нгуйен",
                 "Адель Лим",
                 "Пол Бриггс",
@@ -27560,13 +27560,13 @@ export const data = [
             "composer": [
                 "Джеймс Ньютон Ховард"
             ],
-            "artist": [
+            "design": [
                 "Хелен Минцзюэ Чэнь",
                 "Пол А. Феликс",
                 "Кори Лофтис",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Фабьен Роули",
                 "Шеннон Стейн"
             ],
@@ -27616,7 +27616,7 @@ export const data = [
             "director": [
                 "Джоанна Куинн"
             ],
-            "scenario": [
+            "writer": [
                 "Лес Миллс"
             ],
             "producer": [
@@ -27627,8 +27627,8 @@ export const data = [
             "composer": [
                 "Бенжамин Тэлботт"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Mia Rose Goddard"
             ],
             "worldPremiere": "29 января 2021",
@@ -27668,7 +27668,7 @@ export const data = [
             "director": [
                 "Антон Дьяков"
             ],
-            "scenario": [
+            "writer": [
                 "Антон Дьяков",
                 "Андрей Васильев"
             ],
@@ -27678,8 +27678,8 @@ export const data = [
             ],
             "operator": [],
             "composer": [],
-            "artist": [],
-            "installation": [],
+            "design": [],
+            "editor": [],
             "worldPremiere": "14 июня 2021",
             "ratingAgeLimits": "",
             "ratingMpaa": "",
@@ -27726,7 +27726,7 @@ export const data = [
             "director": [
                 "Уго Коваррубьяс"
             ],
-            "scenario": [
+            "writer": [
                 "Уго Коваррубьяс",
                 "Martín Erazo"
             ],
@@ -27740,10 +27740,10 @@ export const data = [
             "composer": [
                 "Анхела Акуна"
             ],
-            "artist": [
+            "design": [
                 "Cecilia Toro"
             ],
-            "installation": [
+            "editor": [
                 "Уго Коваррубьяс"
             ],
             "worldPremiere": "14 июня 2021",
@@ -27792,7 +27792,7 @@ export const data = [
             "director": [
                 "Альберто Мьельго"
             ],
-            "scenario": [
+            "writer": [
                 "Альберто Мьельго"
             ],
             "producer": [
@@ -27803,8 +27803,8 @@ export const data = [
             ],
             "operator": [],
             "composer": [],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Альберто Мьельго"
             ],
             "worldPremiere": "13 июля 2021",
@@ -27857,7 +27857,7 @@ export const data = [
                 "Дэн Оджари",
                 "Майкл Плиз"
             ],
-            "scenario": [
+            "writer": [
                 "Дэн Оджари",
                 "Майкл Плиз",
                 "Сэм Моррисон"
@@ -27875,12 +27875,12 @@ export const data = [
                 "Бенедикт Плиз",
                 "Бет Портер"
             ],
-            "artist": [
+            "design": [
                 "Matt Forsythe",
                 "Ричард Эдмундс",
                 "Саймон Фаррелл"
             ],
-            "installation": [
+            "editor": [
                 "Крис Морелл"
             ],
             "worldPremiere": "9 октября 2021",
@@ -27933,7 +27933,7 @@ export const data = [
             "director": [
                 "Энейл Кария"
             ],
-            "scenario": [
+            "writer": [
                 "Энейл Кария",
                 "Риз Ахмед"
             ],
@@ -27949,11 +27949,11 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Рут Кроуфорд",
                 "Холли Ребекка"
             ],
-            "installation": [
+            "editor": [
                 "Аманда Джеймс"
             ],
             "worldPremiere": "5 марта 2020",
@@ -27994,7 +27994,7 @@ export const data = [
             "director": [
                 "Maria Brendle"
             ],
-            "scenario": [
+            "writer": [
                 "Maria Brendle"
             ],
             "producer": [
@@ -28009,11 +28009,11 @@ export const data = [
             "composer": [
                 "Мартин Скальски"
             ],
-            "artist": [
+            "design": [
                 "Элчибек Шаменов",
                 "Fatima Kacyvova"
             ],
-            "installation": [
+            "editor": [
                 "Лука Цубербюлер"
             ],
             "worldPremiere": "6 августа 2020",
@@ -28057,7 +28057,7 @@ export const data = [
             "director": [
                 "Кристен Давила"
             ],
-            "scenario": [
+            "writer": [
                 "Кристен Давила",
                 "Омер Левин Менексе"
             ],
@@ -28073,11 +28073,11 @@ export const data = [
             "composer": [
                 "Дэвид Боман"
             ],
-            "artist": [
+            "design": [
                 "Alexah Acuña",
                 "Aytana Ramirez"
             ],
-            "installation": [
+            "editor": [
                 "Brian Paison"
             ],
             "worldPremiere": "25 сентября 2020",
@@ -28118,7 +28118,7 @@ export const data = [
             "director": [
                 "Тадеуш Лысяк"
             ],
-            "scenario": [
+            "writer": [
                 "Тадеуш Лысяк"
             ],
             "producer": [
@@ -28133,11 +28133,11 @@ export const data = [
             "composer": [
                 "Ян Круликовски"
             ],
-            "artist": [
+            "design": [
                 "Агата Витчак",
                 "Julia Koscienska"
             ],
-            "installation": [
+            "editor": [
                 "Мариуш Гос"
             ],
             "worldPremiere": "2 июня 2020",
@@ -28178,7 +28178,7 @@ export const data = [
             "director": [
                 "Мартин Странге-Хансен"
             ],
-            "scenario": [
+            "writer": [
                 "Мартин Странге-Хансен"
             ],
             "producer": [
@@ -28192,11 +28192,11 @@ export const data = [
             "composer": [
                 "Суне Кёльстер"
             ],
-            "artist": [
+            "design": [
                 "Anne-Marie Bjerre Koch",
                 "Maria Kai Nielsen"
             ],
-            "installation": [
+            "editor": [
                 "Thomas Engell"
             ],
             "worldPremiere": "10 июля 2021",
@@ -28237,7 +28237,7 @@ export const data = [
             "director": [
                 "Pawo Choyning Dorji"
             ],
-            "scenario": [
+            "writer": [
                 "Pawo Choyning Dorji"
             ],
             "producer": [
@@ -28252,11 +28252,11 @@ export const data = [
             "composer": [
                 "—"
             ],
-            "artist": [
+            "design": [
                 "Цхеринг Дорджи",
                 "Pema Wangyel"
             ],
-            "installation": [
+            "editor": [
                 "Гу Сяоюнь"
             ],
             "worldPremiere": "5 октября 2019",
@@ -28297,7 +28297,7 @@ export const data = [
             "director": [
                 "Паоло Соррентино"
             ],
-            "scenario": [
+            "writer": [
                 "Паоло Соррентино"
             ],
             "producer": [
@@ -28312,13 +28312,13 @@ export const data = [
             "composer": [
                 "Леле Маркителли"
             ],
-            "artist": [
+            "design": [
                 "Кармине Джуарино",
                 "Саверио Саммали",
                 "Мариано Туфано",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Кристьяно Травальоли"
             ],
             "worldPremiere": "2 сентября 2021",
@@ -28354,7 +28354,7 @@ export const data = [
                 "Гленн Уайсс",
                 "Трой Миллер"
             ],
-            "scenario": [
+            "writer": [
                 "Джон Мэкс",
                 "Дэйв Бун",
                 "Дэна Эгил",
@@ -28372,13 +28372,13 @@ export const data = [
             "composer": [
                 "Донате Уинслоу"
             ],
-            "artist": [
+            "design": [
                 "Дэвид Коринс",
                 "Марк Аллен",
                 "Алана Биллингсли",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Джон М. Кокс",
                 "Джон Ноулз",
                 "Тим Перникиаро",
@@ -28435,7 +28435,7 @@ export const data = [
                 "Дэн Кван",
                 "Дэниэл Шайнерт"
             ],
-            "scenario": [
+            "writer": [
                 "Дэн Кван",
                 "Дэниэл Шайнерт"
             ],
@@ -28451,13 +28451,13 @@ export const data = [
             "composer": [
                 "Сон Люкс"
             ],
-            "artist": [
+            "design": [
                 "Джейсон Кисвардей",
                 "Амелия Брук",
                 "Ширли Курата",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Пол Роджерс"
             ],
             "worldPremiere": "11 марта 2022",
@@ -28513,7 +28513,7 @@ export const data = [
             "director": [
                 "Эдвард Бергер"
             ],
-            "scenario": [
+            "writer": [
                 "Эдвард Бергер",
                 "Лесли Патерсон",
                 "Иэн Стокелл",
@@ -28531,13 +28531,13 @@ export const data = [
             "composer": [
                 "Фолькер Бертельман"
             ],
-            "artist": [
+            "design": [
                 "Кристиан М. Гольдбек",
                 "Патрик Херцберг",
                 "Индржих Кочи",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Свен Будельман"
             ],
             "worldPremiere": "12 сентября 2022",
@@ -28591,7 +28591,7 @@ export const data = [
             "director": [
                 "Баз Лурман"
             ],
-            "scenario": [
+            "writer": [
                 "Сэм Бромелл",
                 "Крэйг Пирс",
                 "Баз Лурман",
@@ -28609,13 +28609,13 @@ export const data = [
             "composer": [
                 "Эллиотт Вилер"
             ],
-            "artist": [
+            "design": [
                 "Катрин Мартин",
                 "Карен Мерфи",
                 "Дэмиен Дрю",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Джонатан Редмонд",
                 "Мэтт Вилла"
             ],
@@ -28662,7 +28662,7 @@ export const data = [
             "director": [
                 "Мартин Макдона"
             ],
-            "scenario": [
+            "writer": [
                 "Мартин Макдона"
             ],
             "producer": [
@@ -28677,13 +28677,13 @@ export const data = [
             "composer": [
                 "Картер Бёруэлл"
             ],
-            "artist": [
+            "design": [
                 "Марк Тилдесли",
                 "Тим Дивайн",
                 "Кристин Фицджералд",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Миккел И.Г. Нилсен"
             ],
             "worldPremiere": "5 сентября 2022",
@@ -28727,7 +28727,7 @@ export const data = [
             "director": [
                 "Джозеф Косински"
             ],
-            "scenario": [
+            "writer": [
                 "Эрен Крюгер",
                 "Эрик Уоррен Сингер",
                 "Кристофер Маккуорри",
@@ -28747,13 +28747,13 @@ export const data = [
                 "Леди Гага",
                 "Ханс Циммер"
             ],
-            "artist": [
+            "design": [
                 "Джереми Хиндл",
                 "А. Тодд Холлэнд",
                 "Дэвид Мейер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Эдди Хэмилтон"
             ],
             "worldPremiere": "18 мая 2022",
@@ -28797,7 +28797,7 @@ export const data = [
             "director": [
                 "Тодд Филд"
             ],
-            "scenario": [
+            "writer": [
                 "Тодд Филд"
             ],
             "producer": [
@@ -28812,13 +28812,13 @@ export const data = [
             "composer": [
                 "Хильдур Гуднадоуттир"
             ],
-            "artist": [
+            "design": [
                 "Марко Биттнер Россер",
                 "Штеффен Гайтнер",
                 "Патрик Херцберг",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Моника Вилли"
             ],
             "worldPremiere": "1 сентября 2022",
@@ -28868,7 +28868,7 @@ export const data = [
             "director": [
                 "Джеймс Кэмерон"
             ],
-            "scenario": [
+            "writer": [
                 "Джеймс Кэмерон",
                 "Рик Джаффа",
                 "Аманда Сильвер",
@@ -28886,13 +28886,13 @@ export const data = [
             "composer": [
                 "Саймон Франглен"
             ],
-            "artist": [
+            "design": [
                 "Дилан Коул",
                 "Бен Проктер",
                 "Greg Allison",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Дэвид Бреннер",
                 "Джеймс Кэмерон",
                 "Джон Рефуа",
@@ -28935,7 +28935,7 @@ export const data = [
             "director": [
                 "Стивен Спилберг"
             ],
-            "scenario": [
+            "writer": [
                 "Стивен Спилберг",
                 "Тони Кушнер"
             ],
@@ -28951,13 +28951,13 @@ export const data = [
             "composer": [
                 "Джон Уильямс"
             ],
-            "artist": [
+            "design": [
                 "Рик Картер",
                 "Энди Брумелл",
                 "Эндрю Макс Кан",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Сара Брошар",
                 "Майкл Кан"
             ],
@@ -29029,7 +29029,7 @@ export const data = [
             "director": [
                 "Рубен Эстлунд"
             ],
-            "scenario": [
+            "writer": [
                 "Рубен Эстлунд"
             ],
             "producer": [
@@ -29044,12 +29044,12 @@ export const data = [
             "composer": [
                 "-"
             ],
-            "artist": [
+            "design": [
                 "Йозефин Асберг",
                 "Дафна Кутра",
                 "Софи Крунегард"
             ],
-            "installation": [
+            "editor": [
                 "Микель Си Карлссон",
                 "Рубен Эстлунд"
             ],
@@ -29091,7 +29091,7 @@ export const data = [
             "director": [
                 "Сара Полли"
             ],
-            "scenario": [
+            "writer": [
                 "Сара Полли",
                 "Мириам Тейвз"
             ],
@@ -29107,13 +29107,13 @@ export const data = [
             "composer": [
                 "Хильдур Гуднадоуттир"
             ],
-            "artist": [
+            "design": [
                 "Питер Коско",
                 "Андреа Кристоф",
                 "Куита Альфред",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Кристофер Дональдсон",
                 "Рослин Каллу"
             ],
@@ -29161,7 +29161,7 @@ export const data = [
             "director": [
                 "Оливер Херманус"
             ],
-            "scenario": [
+            "writer": [
                 "Кадзуо Исигуро",
                 "Акира Куросава",
                 "Синобу Хасимото",
@@ -29179,13 +29179,13 @@ export const data = [
             "composer": [
                 "Эмили Левинази-Фаррух"
             ],
-            "artist": [
+            "design": [
                 "Хелен Скотт",
                 "Адам Маршалл",
                 "Tim Robinson-Boulton",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Крис Уайатт"
             ],
             "worldPremiere": "21 января 2022",
@@ -29228,7 +29228,7 @@ export const data = [
             "director": [
                 "Райан Джонсон"
             ],
-            "scenario": [
+            "writer": [
                 "Райан Джонсон"
             ],
             "producer": [
@@ -29243,13 +29243,13 @@ export const data = [
             "composer": [
                 "Нэйтан Джонсон"
             ],
-            "artist": [
+            "design": [
                 "Рик Хайнрихс",
                 "Бранимир Бабич",
                 "Эндрю Беннетт",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Боб Дюксе"
             ],
             "worldPremiere": "13 сентября 2022",
@@ -29292,7 +29292,7 @@ export const data = [
             "director": [
                 "Дэниэл Роэр"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -29310,8 +29310,8 @@ export const data = [
                 "Мариус Де Фриз",
                 "Мэтт Робертсон"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Майя Хоук",
                 "Лэнгдон Пейдж"
             ],
@@ -29361,7 +29361,7 @@ export const data = [
             "director": [
                 "Симон Леренг Вильмонт"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -29376,8 +29376,8 @@ export const data = [
             "composer": [
                 "Уно Хелмерссон"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Михаэль Оглунд"
             ],
             "worldPremiere": "23 января 2022",
@@ -29414,7 +29414,7 @@ export const data = [
             "director": [
                 "Лора Пойтрас"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -29429,8 +29429,8 @@ export const data = [
             "composer": [
                 "Soundwalk Collective"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Джо Бини",
                 "Эми Фут",
                 "Брайан А. Кейтс"
@@ -29475,7 +29475,7 @@ export const data = [
             "director": [
                 "Шаунак Сен"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -29492,8 +29492,8 @@ export const data = [
             "composer": [
                 "Роджер Гоула Сарда"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Шарлотта Мунх Бенгтсен"
             ],
             "worldPremiere": "21 января 2022",
@@ -29536,7 +29536,7 @@ export const data = [
             "director": [
                 "Сара Доса"
             ],
-            "scenario": [
+            "writer": [
                 "Сара Доса",
                 "Эрин Каспер",
                 "Жослин Шапу",
@@ -29557,8 +29557,8 @@ export const data = [
             "composer": [
                 "Николя Годен"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Эрин Каспер",
                 "Жослин Шапу"
             ],
@@ -29599,7 +29599,7 @@ export const data = [
             "director": [
                 "Картики Гонсалвес"
             ],
-            "scenario": [
+            "writer": [
                 "Картики Гонсалвес",
                 "Priscilla Gonsalves",
                 "Гарима Пура Патияалви"
@@ -29619,8 +29619,8 @@ export const data = [
             "composer": [
                 "Свен Фолконер"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Дуглас Блаш",
                 "Санчари Дасмоллик"
             ],
@@ -29665,7 +29665,7 @@ export const data = [
                 "Максим Арбугаев",
                 "Евгения Арбугаева"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -29676,8 +29676,8 @@ export const data = [
             "composer": [
                 "-"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Евгения Арбугаева",
                 "Джошуа Чэдвик"
             ],
@@ -29718,7 +29718,7 @@ export const data = [
             "director": [
                 "Джошуа Сэфтел"
             ],
-            "scenario": [
+            "writer": [
                 "Tanzir Islam Britto"
             ],
             "producer": [
@@ -29733,8 +29733,8 @@ export const data = [
             "composer": [
                 "Эзинма"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Джереми Медофф"
             ],
             "worldPremiere": "11 июня 2022",
@@ -29778,7 +29778,7 @@ export const data = [
                 "Энн Альверг",
                 "Дебра Макклатчи"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -29793,10 +29793,10 @@ export const data = [
                 "Роберт Пишиор",
                 "Крис Руджеро"
             ],
-            "artist": [
+            "design": [
                 "Мэтт Эллер"
             ],
-            "installation": [
+            "editor": [
                 "Энн Альверг"
             ],
             "worldPremiere": "17 января 2022",
@@ -29836,7 +29836,7 @@ export const data = [
             "director": [
                 "Джей Розенблатт"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -29850,8 +29850,8 @@ export const data = [
             "composer": [
                 "-"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Джей Розенблатт"
             ],
             "worldPremiere": "17 января 2022",
@@ -29911,7 +29911,7 @@ export const data = [
                 "Гильермо дель Торо",
                 "Марк Густафсон"
             ],
-            "scenario": [
+            "writer": [
                 "Патрик МакХэйл",
                 "Гильермо дель Торо",
                 "Карло Коллоди",
@@ -29929,13 +29929,13 @@ export const data = [
             "composer": [
                 "Александр Деспла"
             ],
-            "artist": [
+            "design": [
                 "Гай Дэвис",
                 "Курт Эндерле",
                 "Роберт ДеСью",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Холли Клейн",
                 "Кен Шретцман"
             ],
@@ -29987,7 +29987,7 @@ export const data = [
                 "Джоэль Кроуфорд",
                 "Хануэль Меркадо"
             ],
-            "scenario": [
+            "writer": [
                 "Пол Фишер",
                 "Томми Свердлоу",
                 "Том Уилер",
@@ -30002,11 +30002,11 @@ export const data = [
             "composer": [
                 "Эйтор Перейра"
             ],
-            "artist": [
+            "design": [
                 "Нэйт Рэгг",
                 "Джозеф Файнсильвер"
             ],
-            "installation": [
+            "editor": [
                 "Джеймс Райан"
             ],
             "worldPremiere": "7 декабря 2022",
@@ -30062,7 +30062,7 @@ export const data = [
             "director": [
                 "Доми Ши"
             ],
-            "scenario": [
+            "writer": [
                 "Доми Ши",
                 "Джулия Чо",
                 "Сара Штрейхер"
@@ -30080,13 +30080,13 @@ export const data = [
             "composer": [
                 "Людвиг Горанссон"
             ],
-            "artist": [
+            "design": [
                 "Рона Лю",
                 "Джейсон Димер",
                 "Карлос Леон",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Стив Блум",
                 "Николас С. Смит"
             ],
@@ -30137,7 +30137,7 @@ export const data = [
             "director": [
                 "Дин Флейшер-Кэмп"
             ],
-            "scenario": [
+            "writer": [
                 "Дин Флейшер-Кэмп",
                 "Дженни Слейт",
                 "Ник Пейли",
@@ -30156,13 +30156,13 @@ export const data = [
             "composer": [
                 "Disasterpeace"
             ],
-            "artist": [
+            "design": [
                 "Лиз Тункел",
                 "Джейк Тремблэ",
                 "Jamie Catino",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Дин Флейшер-Кэмп",
                 "Ник Пейли"
             ],
@@ -30213,7 +30213,7 @@ export const data = [
             "director": [
                 "Крис Уильямс"
             ],
-            "scenario": [
+            "writer": [
                 "Нил Бенжамин",
                 "Крис Уильямс",
                 "Sam Stratton",
@@ -30229,12 +30229,12 @@ export const data = [
             "composer": [
                 "Марк Манчина"
             ],
-            "artist": [
+            "design": [
                 "Маттиас Лехнер",
                 "Woonyoung Jung",
                 "Мишель Клэптон"
             ],
-            "installation": [
+            "editor": [
                 "Джойс Аррастья"
             ],
             "worldPremiere": "15 июня 2022",
@@ -30285,7 +30285,7 @@ export const data = [
                 "Питер Бэйнтон",
                 "Чарли Маккизи"
             ],
-            "scenario": [
+            "writer": [
                 "Джон Крокер",
                 "Чарли Маккизи"
             ],
@@ -30299,10 +30299,10 @@ export const data = [
             "composer": [
                 "Изобель Уоллер-Бридж"
             ],
-            "artist": [
+            "design": [
                 "Майк Маккэйн"
             ],
-            "installation": [
+            "editor": [
                 "Дэниэл Бадин"
             ],
             "worldPremiere": "23 сентября 2022",
@@ -30347,7 +30347,7 @@ export const data = [
             "director": [
                 "Лахлан Пендрагон"
             ],
-            "scenario": [
+            "writer": [
                 "Лахлан Пендрагон"
             ],
             "producer": [
@@ -30357,8 +30357,8 @@ export const data = [
             "composer": [
                 "Envato Market"
             ],
-            "artist": "",
-            "installation": "",
+            "design": "",
+            "editor": "",
             "worldPremiere": "7 июня 2022",
             "video": "",
             "nomination": [
@@ -30404,7 +30404,7 @@ export const data = [
             "director": [
                 "Сара Гуннарсдоуттир"
             ],
-            "scenario": [
+            "writer": [
                 "Памела Рибон"
             ],
             "producer": [
@@ -30418,8 +30418,8 @@ export const data = [
             "composer": [
                 "Адам Блау"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Сара Гуннарсдоуттир"
             ],
             "worldPremiere": "13 марта 2022",
@@ -30459,7 +30459,7 @@ export const data = [
                 "Аманда Форбис",
                 "Венди Тилби"
             ],
-            "scenario": [
+            "writer": [
                 "Аманда Форбис",
                 "Венди Тилби"
             ],
@@ -30470,8 +30470,8 @@ export const data = [
             "composer": [
                 "Луиджи Аллемано"
             ],
-            "artist": "",
-            "installation": "",
+            "design": "",
+            "editor": "",
             "worldPremiere": "13 июня 2022",
             "video": "",
             "nomination": [
@@ -30520,7 +30520,7 @@ export const data = [
             "director": [
                 "Жоау Гонсалес"
             ],
-            "scenario": [
+            "writer": [
                 "Жоау Гонсалес"
             ],
             "producer": [
@@ -30533,10 +30533,10 @@ export const data = [
             "composer": [
                 "Жоау Гонсалес"
             ],
-            "artist": [
+            "design": [
                 "Жоау Гонсалес"
             ],
-            "installation": [
+            "editor": [
                 "Жоау Гонсалес"
             ],
             "worldPremiere": "24 мая 2022",
@@ -30579,7 +30579,7 @@ export const data = [
                 "Том Беркли",
                 "Росс Уайт"
             ],
-            "scenario": [
+            "writer": [
                 "Том Беркли",
                 "Росс Уайт"
             ],
@@ -30595,10 +30595,10 @@ export const data = [
             "composer": [
                 "Энтони Ив"
             ],
-            "artist": [
+            "design": [
                 "Наташа Муди"
             ],
-            "installation": [
+            "editor": [
                 "Стивен Пол Данн"
             ],
             "worldPremiere": "4 марта 2022",
@@ -30637,7 +30637,7 @@ export const data = [
             "director": [
                 "Эйрик Твейтен"
             ],
-            "scenario": [
+            "writer": [
                 "Эйрик Твейтен"
             ],
             "producer": [
@@ -30650,8 +30650,8 @@ export const data = [
             "composer": [
                 "Мортен Рогнског"
             ],
-            "artist": "",
-            "installation": [
+            "design": "",
+            "editor": [
                 "Геир Фьерместад Роландсен"
             ],
             "worldPremiere": "12 июня 2020",
@@ -30690,7 +30690,7 @@ export const data = [
             "director": [
                 "Аличе Рорвахер"
             ],
-            "scenario": [
+            "writer": [
                 "Аличе Рорвахер",
                 "Кармела Ковино",
                 "Эльза Моранте"
@@ -30707,13 +30707,13 @@ export const data = [
             "composer": [
                 "Cleaning Women"
             ],
-            "artist": [
+            "design": [
                 "Эмита Фригато",
                 "Рашель Мелиадо",
                 "Лоредана Бушеми",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Карлотта Кристиани"
             ],
             "worldPremiere": "27 мая 2022",
@@ -30756,7 +30756,7 @@ export const data = [
                 "Андерс Вальтер Хансен",
                 "Пипалук К. Йёргенсен"
             ],
-            "scenario": [
+            "writer": [
                 "Андерс Вальтер Хансен",
                 "Мортен Дюрр",
                 "Ларс Хорнеман"
@@ -30773,10 +30773,10 @@ export const data = [
             "composer": [
                 "Расмус Уолтер Хансен"
             ],
-            "artist": [
+            "design": [
                 "Paarma Brandt"
             ],
-            "installation": [
+            "editor": [
                 "Ларс Уиссинг"
             ],
             "worldPremiere": "22 января 2023",
@@ -30815,7 +30815,7 @@ export const data = [
             "director": [
                 "Сайрус Нешвад"
             ],
-            "scenario": [
+            "writer": [
                 "Гийом Левиль",
                 "Сайрус Нешвад"
             ],
@@ -30831,10 +30831,10 @@ export const data = [
             "composer": [
                 "Каян Баяни"
             ],
-            "artist": [
+            "design": [
                 "Клара Велле"
             ],
-            "installation": [
+            "editor": [
                 "Yves D'Orme",
                 "Феликс Соргер"
             ],
@@ -30877,7 +30877,7 @@ export const data = [
             "director": [
                 "Лукас Донт"
             ],
-            "scenario": [
+            "writer": [
                 "Лукас Донт",
                 "Анджело Тессенс"
             ],
@@ -30893,12 +30893,12 @@ export const data = [
             "composer": [
                 "Валентин Хаджадж"
             ],
-            "artist": [
+            "design": [
                 "Ив Мартин",
                 "Ману Фершюрен",
                 "Lukas Tanghe"
             ],
-            "installation": [
+            "editor": [
                 "Ален Дессоваж"
             ],
             "worldPremiere": "26 мая 2022",
@@ -30934,7 +30934,7 @@ export const data = [
             "director": [
                 "Колм Барейд"
             ],
-            "scenario": [
+            "writer": [
                 "Колм Барейд",
                 "Клер Кигэн"
             ],
@@ -30950,13 +30950,13 @@ export const data = [
             "composer": [
                 "Стивен Ренникс"
             ],
-            "artist": [
+            "design": [
                 "Эмма Лауни",
                 "Нилл Триси",
                 "Луиз Келли",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Джон Мерфи"
             ],
             "worldPremiere": "11 февраля 2022",
@@ -31004,7 +31004,7 @@ export const data = [
             "director": [
                 "Сантьяго Митре"
             ],
-            "scenario": [
+            "writer": [
                 "Сантьяго Митре",
                 "Мариано Льинас",
                 "Мартин Мореги"
@@ -31021,11 +31021,11 @@ export const data = [
             "composer": [
                 "Педро Осуна"
             ],
-            "artist": [
+            "design": [
                 "Микаэла Сайе",
                 "Моника Тоски"
             ],
-            "installation": [
+            "editor": [
                 "Андрес Пепе Эстрада"
             ],
             "worldPremiere": "3 сентября 2022",
@@ -31064,7 +31064,7 @@ export const data = [
             "director": [
                 "Ежи Сколимовский"
             ],
-            "scenario": [
+            "writer": [
                 "Эва Пясковская",
                 "Ежи Сколимовский"
             ],
@@ -31080,13 +31080,13 @@ export const data = [
             "composer": [
                 "Павел Мыкетын"
             ],
-            "artist": [
+            "design": [
                 "Роберта Амодио",
                 "Мирослав Концевич",
                 "Катажина Левинска",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Агнешка Глиньская"
             ],
             "worldPremiere": "19 мая 2022",
@@ -31120,7 +31120,7 @@ export const data = [
             "director": [
             "Гленн Уайсс"
             ],
-            "scenario": [
+            "writer": [
             "Джэми Абрахамс",
             "Тони Барбиери",
             "Джонатан Байнс",
@@ -31136,13 +31136,13 @@ export const data = [
             "composer": [
             "-"
             ],
-            "artist": [
+            "design": [
             "Алана Биллингсли",
             "Мисти Бакли",
             "Джон Зуикер",
             "..."
             ],
-            "installation": [
+            "editor": [
             "Джон М. Кокс",
             "Bill Miller",
             "Аарон Пол Роджерс",
@@ -31192,7 +31192,7 @@ export const data = [
             "director": [
                 "Кристофер Нолан"
             ],
-            "scenario": [
+            "writer": [
                 "Кристофер Нолан",
                 "Кай Бёрд",
                 "Мартин Шервин"
@@ -31209,13 +31209,13 @@ export const data = [
             "composer": [
                 "Людвиг Горанссон"
             ],
-            "artist": [
+            "design": [
                 "Рут Де Йонг",
                 "Джейк Кавалло",
                 "Саманта Инглендер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Дженнифер Лэйм"
             ],
             "worldPremiere": "19 июля 2023",
@@ -31259,7 +31259,7 @@ export const data = [
             "director": [
                 "Корд Джефферсон"
             ],
-            "scenario": [
+            "writer": [
                 "Корд Джефферсон",
                 "Персивал Эверетт"
             ],
@@ -31275,13 +31275,13 @@ export const data = [
             "composer": [
                 "Лаура Карпман"
             ],
-            "artist": [
+            "design": [
                 "Джонатан Гуггенхейм",
                 "Maddy Young",
                 "Руди Мэнс",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Хильда Расула"
             ],
             "worldPremiere": "8 сентября 2023",
@@ -31331,7 +31331,7 @@ export const data = [
             "director": [
                 "Грета Гервиг"
             ],
-            "scenario": [
+            "writer": [
                 "Грета Гервиг",
                 "Ноа Баумбак"
             ],
@@ -31348,13 +31348,13 @@ export const data = [
                 "Марк Ронсон",
                 "Эндрю В. Блейкмор"
             ],
-            "artist": [
+            "design": [
                 "Сара Гринвуд",
                 "Эндрю Макс Кан",
                 "Дин Клегг",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Ник Хюи"
             ],
             "worldPremiere": "18 июля 2023",
@@ -31407,7 +31407,7 @@ export const data = [
             "director": [
                 "Брэдли Купер"
             ],
-            "scenario": [
+            "writer": [
                 "Брэдли Купер",
                 "Джош Сингер"
             ],
@@ -31423,13 +31423,13 @@ export const data = [
             "composer": [
                 "Леонард Бернстайн"
             ],
-            "artist": [
+            "design": [
                 "Кевин Томпсон",
                 "Эндрю Эклэнд-Сноу",
                 "Райан Хек",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Мишель Тесоро"
             ],
             "worldPremiere": "2 сентября 2023",
@@ -31473,7 +31473,7 @@ export const data = [
             "director": [
                 "Селин Сон"
             ],
-            "scenario": [
+            "writer": [
                 "Селин Сон"
             ],
             "producer": [
@@ -31489,13 +31489,13 @@ export const data = [
                 "Кристофер Беар",
                 "Дэниэл Россен"
             ],
-            "artist": [
+            "design": [
                 "Грэйс Юн",
                 "Алан Ламперт",
                 "Катина Данабассис",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Кит Фраэс"
             ],
             "worldPremiere": "21 января 2023",
@@ -31539,7 +31539,7 @@ export const data = [
             "director": [
                 "Александр Пэйн"
             ],
-            "scenario": [
+            "writer": [
                 "Дэвид Хемингсон"
             ],
             "producer": [
@@ -31554,13 +31554,13 @@ export const data = [
             "composer": [
                 "Марк Ортон"
             ],
-            "artist": [
+            "design": [
                 "Райан Варрен Смит",
                 "Джереми Вулси",
                 "Венди Чак",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Кевин Тент"
             ],
             "worldPremiere": "31 августа 2023",
@@ -31604,7 +31604,7 @@ export const data = [
             "director": [
                 "Жюстин Трие"
             ],
-            "scenario": [
+            "writer": [
                 "Жюстин Трие",
                 "Артур Харари"
             ],
@@ -31619,12 +31619,12 @@ export const data = [
             "composer": [
                 "-"
             ],
-            "artist": [
+            "design": [
                 "Эммануэль Дюпле",
                 "Изабель Паннетье",
                 "Сесиль Делю"
             ],
-            "installation": [
+            "editor": [
                 "Лорен Сенешаль"
             ],
             "worldPremiere": "21 мая 2023",
@@ -31667,7 +31667,7 @@ export const data = [
             "director": [
                 "Мартин Скорсезе"
             ],
-            "scenario": [
+            "writer": [
                 "Эрик Рот",
                 "Мартин Скорсезе",
                 "Дэвид Гранн"
@@ -31684,13 +31684,13 @@ export const data = [
             "composer": [
                 "Робби Робертсон"
             ],
-            "artist": [
+            "design": [
                 "Джек Фиск",
                 "Спенсер Дэвисон",
                 "Майкл Динер",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Тельма Скунмейкер"
             ],
             "worldPremiere": "20 мая 2023",
@@ -31746,7 +31746,7 @@ export const data = [
             "director": [
                 "Йоргос Лантимос"
             ],
-            "scenario": [
+            "writer": [
                 "Тони Макнамара",
                 "Аласдер Грей"
             ],
@@ -31762,13 +31762,13 @@ export const data = [
             "composer": [
                 "Джерскин Фендрикс"
             ],
-            "artist": [
+            "design": [
                 "Шона Хит",
                 "Джеймс Прайс",
                 "Ренато Чех",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Йоргос Мавропсаридис"
             ],
             "worldPremiere": "1 сентября 2023",
@@ -31826,7 +31826,7 @@ export const data = [
             "director": [
                 "Джонатан Глейзер"
             ],
-            "scenario": [
+            "writer": [
                 "Джонатан Глейзер",
                 "Мартин Эмис"
             ],
@@ -31842,13 +31842,13 @@ export const data = [
             "composer": [
                 "Мика Ливай"
             ],
-            "artist": [
+            "design": [
                 "Крис Одди",
                 "Dominika Kobylinska",
                 "Joanna Kus",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Пол Уоттс"
             ],
             "worldPremiere": "19 мая 2023",
@@ -31885,7 +31885,7 @@ export const data = [
             "director": [
                 "Тодд Хейнс"
             ],
-            "scenario": [
+            "writer": [
                 "Сами Берч",
                 "Алекс Механик"
             ],
@@ -31901,13 +31901,13 @@ export const data = [
             "composer": [
                 "Марсело Зарвос"
             ],
-            "artist": [
+            "design": [
                 "Сэм Лисенко",
                 "Эрик Дин",
                 "Эйприл Напье",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Аффонсо Гонсалвес"
             ],
             "worldPremiere": "20 мая 2023",
@@ -31956,7 +31956,7 @@ export const data = [
             "director": [
                 "Хаяо Миядзаки"
             ],
-            "scenario": [
+            "writer": [
                 "Хаяо Миядзаки"
             ],
             "producer": [
@@ -31971,12 +31971,12 @@ export const data = [
             "composer": [
                 "Дзё Хисаиси"
             ],
-            "artist": [
+            "design": [
                 "Ёдзи Такэсигэ",
                 "Нобору Ёсида",
                 "Такэси Хонда"
             ],
-            "installation": [
+            "editor": [
                 "Риэ Мацубара",
                 "Такэси Сэяма",
                 "Аканэ Сираиси"
@@ -32030,7 +32030,7 @@ export const data = [
             "director": [
                 "Питер Сон"
             ],
-            "scenario": [
+            "writer": [
                 "Джон Хоберг",
                 "Кэт Ликкел",
                 "Бренда Хсю",
@@ -32049,13 +32049,13 @@ export const data = [
             "composer": [
                 "Томас Ньюман"
             ],
-            "artist": [
+            "design": [
                 "Дон Шэнк",
                 "Дженнифер Чан",
                 "Daniel Holland",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Стефен Шаффер"
             ],
             "worldPremiere": "27 мая 2023",
@@ -32104,7 +32104,7 @@ export const data = [
             "director": [
                 "Пабло Берхер"
             ],
-            "scenario": [
+            "writer": [
                 "Пабло Берхер",
                 "Сара Варон"
             ],
@@ -32118,10 +32118,10 @@ export const data = [
             "composer": [
                 "Альфонсо Вилаллонга"
             ],
-            "artist": [
+            "design": [
                 "Хосе Луис Агреда"
             ],
-            "installation": [
+            "editor": [
                 "Фернандо Франко"
             ],
             "worldPremiere": "20 мая 2023",
@@ -32189,7 +32189,7 @@ export const data = [
                 "Ник Бруно",
                 "Трой Квон"
             ],
-            "scenario": [
+            "writer": [
                 "Роберт Л. Бейрд",
                 "Ллойд Тейлор",
                 "Памела Рибон",
@@ -32205,11 +32205,11 @@ export const data = [
             "composer": [
                 "Кристоф Бек"
             ],
-            "artist": [
+            "design": [
                 "Aidan Sugano",
                 "Джефф Терли"
             ],
-            "installation": [
+            "editor": [
                 "Эрин Крэкел",
                 "Рэнди Трагер"
             ],
@@ -32261,7 +32261,7 @@ export const data = [
                 "Кемп Пауэрс",
                 "Джастин Томпсон"
             ],
-            "scenario": [
+            "writer": [
                 "Фил Лорд",
                 "Кристофер Миллер",
                 "Дэйв Каллахэм"
@@ -32276,12 +32276,12 @@ export const data = [
             "composer": [
                 "Дэниэл Пембертон"
             ],
-            "artist": [
+            "design": [
                 "Патрик О’Кифи",
                 "Дин Гордон",
                 "Бруклин Эль-Омар"
             ],
-            "installation": [
+            "editor": [
                 "Майкл Эндрюс"
             ],
             "worldPremiere": "31 мая 2023",
@@ -32321,7 +32321,7 @@ export const data = [
             "director": [
                 "Stéphanie Clément"
             ],
-            "scenario": [
+            "writer": [
                 "Marc Rius"
             ],
             "producer": [
@@ -32332,8 +32332,8 @@ export const data = [
             "composer": [
                 "Оливье Милитон"
             ],
-            "artist": [],
-            "installation": [],
+            "design": [],
+            "editor": [],
             "worldPremiere": "24 апреля 2022",
             "ratingAgeLimits": "",
             "ratingMpaa": "",
@@ -32374,7 +32374,7 @@ export const data = [
             "director": [
                 "Tal Kantor"
             ],
-            "scenario": [
+            "writer": [
                 "Tal Kantor"
             ],
             "producer": [
@@ -32388,8 +32388,8 @@ export const data = [
             "composer": [
                 "Пьер Оберкампф"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Efrat Berger"
             ],
             "worldPremiere": "28 апреля 2022",
@@ -32433,7 +32433,7 @@ export const data = [
                 "Джаред Хесс",
                 "Джеруша Хесс"
             ],
-            "scenario": [
+            "writer": [
                 "Крис Боуман",
                 "Хаббел Палмер"
             ],
@@ -32447,8 +32447,8 @@ export const data = [
             "composer": [
                 "John Hancock"
             ],
-            "artist": [],
-            "installation": [],
+            "design": [],
+            "editor": [],
             "worldPremiere": "13 августа 2022",
             "ratingAgeLimits": "",
             "ratingMpaa": "",
@@ -32486,7 +32486,7 @@ export const data = [
             "director": [
                 "Yegane Moghaddam"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -32497,10 +32497,10 @@ export const data = [
                 "Maryanne Tedstone",
                 "Michael Tedstone"
             ],
-            "artist": [
+            "design": [
                 ""
             ],
-            "installation": [
+            "editor": [
                 ""
             ],
             "worldPremiere": "6 мая 2023",
@@ -32543,7 +32543,7 @@ export const data = [
             "director": [
                 "Дэйв Маллинз"
             ],
-            "scenario": [
+            "writer": [
                 "Дэйв Маллинз",
                 "Шон Леннон"
             ],
@@ -32560,10 +32560,10 @@ export const data = [
             "composer": [
                 "Томас Ньюман"
             ],
-            "artist": [
+            "design": [
                 "Zac Retz"
             ],
-            "installation": [
+            "editor": [
                 "Джон К. Карр"
             ],
             "worldPremiere": "21 сентября 2023",
@@ -32612,7 +32612,7 @@ export const data = [
             "director": [
                 "Уэс Андерсон"
             ],
-            "scenario": [
+            "writer": [
                 "Роальд Даль",
                 "Уэс Андерсон"
             ],
@@ -32628,13 +32628,13 @@ export const data = [
             "composer": [
                 "-"
             ],
-            "artist": [
+            "design": [
                 "Адам Штокхаузен",
                 "Ричард Харди",
                 "Claire Peerless",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Барни Пиллинг",
                 "Эндрю Вайсблум"
             ],
@@ -32675,7 +32675,7 @@ export const data = [
             "director": [
                 "Vincent René-Lortie"
             ],
-            "scenario": [
+            "writer": [
                 "Vincent René-Lortie"
             ],
             "producer": [
@@ -32687,11 +32687,11 @@ export const data = [
             "composer": [
                 "Simon P. Castonguay"
             ],
-            "artist": [
+            "design": [
                 "Geneviève Boiteau",
                 "Andrée-Jade Hélie"
             ],
-            "installation": [
+            "editor": [
                 "Thomas Bellefleur"
             ],
             "worldPremiere": "10 октября 2022",
@@ -32731,7 +32731,7 @@ export const data = [
             "director": [
                 "Назрин Чадхури"
             ],
-            "scenario": [
+            "writer": [
                 "Назрин Чадхури"
             ],
             "producer": [
@@ -32746,13 +32746,13 @@ export const data = [
             "composer": [
                 "Питер Карр"
             ],
-            "artist": [
+            "design": [
                 "Эмма Ко",
                 "Джо Катсарас",
                 "Ребекка Килинг",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Jayed Turan Khan",
                 "Филлип Дж. МакЛафлин"
             ],
@@ -32793,7 +32793,7 @@ export const data = [
             "director": [
                 "Lasse Lyskjær Noer"
             ],
-            "scenario": [
+            "writer": [
                 "Lasse Lyskjær Noer"
             ],
             "producer": [
@@ -32808,10 +32808,10 @@ export const data = [
             "composer": [
                 "Mathias Gaarde Mikkelsen"
             ],
-            "artist": [
+            "design": [
                 "Joan Høstrup"
             ],
-            "installation": [
+            "editor": [
                 "Simon Dræby Carstens"
             ],
             "worldPremiere": "1 сентября 2022",
@@ -32851,7 +32851,7 @@ export const data = [
             "director": [
                 "Misan Harriman"
             ],
-            "scenario": [
+            "writer": [
                 "John Julius Schwabach",
                 "Misan Harriman"
             ],
@@ -32867,12 +32867,12 @@ export const data = [
             "composer": [
                 "Francesco Le Metre"
             ],
-            "artist": [
+            "design": [
                 "Элизабет Эль-Кади",
                 "Джексон Притчард",
                 "Натали Кэролайн Уилкинс"
             ],
-            "installation": [
+            "editor": [
                 "Aggela Despotidou"
             ],
             "worldPremiere": "10 августа 2023",
@@ -32915,7 +32915,7 @@ export const data = [
             "director": [
                 "Маттео Гарроне"
             ],
-            "scenario": [
+            "writer": [
                 "Маттео Гарроне",
                 "Массимо Чеккерини",
                 "Массимо Гаудиозо",
@@ -32933,13 +32933,13 @@ export const data = [
             "composer": [
                 "Андреа Фарри"
             ],
-            "artist": [
+            "design": [
                 "Димитри Капуани",
                 "Стефано Кьяммитти",
                 "Хинд Газали",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Марко Сполетини"
             ],
             "worldPremiere": "6 сентября 2023",
@@ -32982,7 +32982,7 @@ export const data = [
             "director": [
                 "Хуан Антонио Байона"
             ],
-            "scenario": [
+            "writer": [
                 "Хуан Антонио Байона",
                 "Бернат Вилаплана",
                 "Хайми Маркес",
@@ -33000,13 +33000,13 @@ export const data = [
             "composer": [
                 "Майкл Джаккино"
             ],
-            "artist": [
+            "design": [
                 "Ален Байне",
                 "Эухенио Кабальеро",
                 "Виржини Бурден",
                 "..."
             ],
-            "installation": [
+            "editor": [
                 "Андрес Джил",
                 "Хауме Марти"
             ],
@@ -33047,7 +33047,7 @@ export const data = [
             "director": [
                 "Вим Вендерс"
             ],
-            "scenario": [
+            "writer": [
                 "Вим Вендерс",
                 "Такума Такасаки"
             ],
@@ -33063,11 +33063,11 @@ export const data = [
             "composer": [
                 "-"
             ],
-            "artist": [
+            "design": [
                 "Товако Кувадзима",
                 "Даисукэ Ига"
             ],
-            "installation": [
+            "editor": [
                 "Тони Фрошхаммер"
             ],
             "worldPremiere": "25 мая 2023",
@@ -33107,7 +33107,7 @@ export const data = [
             "director": [
                 "Илькер Чатак"
             ],
-            "scenario": [
+            "writer": [
                 "Йоханнес Дункер",
                 "Илькер Чатак"
             ],
@@ -33120,10 +33120,10 @@ export const data = [
             "composer": [
                 "Марвин Миллер"
             ],
-            "artist": [
+            "design": [
                 "Кристиан Рор"
             ],
-            "installation": [
+            "editor": [
                 "Gesa Jäger"
             ],
             "worldPremiere": "18 февраля 2023",
@@ -33167,7 +33167,7 @@ export const data = [
                 "Крис Бауэрс",
                 "Бен Праудфут"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -33182,8 +33182,8 @@ export const data = [
             "composer": [
                 "Katya Richardson"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Ник Гарнхэм Райт"
             ],
             "worldPremiere": "2 сентября 2023",
@@ -33225,7 +33225,7 @@ export const data = [
                 "Триш Адлесик",
                 "Nazenet Habtezghi"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -33240,8 +33240,8 @@ export const data = [
             "composer": [
                 "-"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Глэдис Мерфи"
             ],
             "worldPremiere": "30 сентября 2023",
@@ -33281,7 +33281,7 @@ export const data = [
             "director": [
                 "С. Лео Цзян"
             ],
-            "scenario": [
+            "writer": [
                 "С. Лео Цзян",
                 "Дэвид Тиг"
             ],
@@ -33298,8 +33298,8 @@ export const data = [
             "composer": [
                 "-"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "С. Лео Цзян"
             ],
             "worldPremiere": "29 сентября 2023",
@@ -33345,7 +33345,7 @@ export const data = [
             "director": [
                 "Шон Ван"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -33359,8 +33359,8 @@ export const data = [
             "composer": [
                 "Giosuè Greco"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Шон Ван"
             ],
             "worldPremiere": "12 марта 2023",
@@ -33401,7 +33401,7 @@ export const data = [
                 "Джон Хоффман",
                 "Кристин Тернер"
             ],
-            "scenario": [
+            "writer": [
                 "-"
             ],
             "producer": [
@@ -33416,8 +33416,8 @@ export const data = [
             "composer": [
                 "Йонник Бонтем"
             ],
-            "artist": [],
-            "installation": [
+            "design": [],
+            "editor": [
                 "Virginie Danglades",
                 "Эндрю Сэундерсон"
             ],
@@ -33454,7 +33454,7 @@ export const data = [
             "Хамиш Хэмилтон",
             "Энди Фишер"
             ],
-            "scenario": [
+            "writer": [
             "Джэми Абрахамс",
             "Рори Альбанезе",
             "Эмберия Аллен",
@@ -33470,13 +33470,13 @@ export const data = [
             "composer": [
             "-"
             ],
-            "artist": [
+            "design": [
             "Алана Биллингсли",
             "Мисти Бакли",
             "Марго Уилкокс",
             "..."
             ],
-            "installation": [],
+            "editor": [],
             "worldPremiere": "10 марта 2024",
             "video": "https://www.kinopoisk.ru/film/5458837/"
         }

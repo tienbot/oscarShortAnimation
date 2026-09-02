@@ -37,7 +37,7 @@ export const data = [
                 "director": [
                     "Берт Джиллетт"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -49,10 +49,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "9 декабря 1931",
@@ -101,7 +101,7 @@ export const data = [
                 "director": [
                     "Рудольф Айсинг"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -115,10 +115,10 @@ export const data = [
                 "composer": [
                     "Фрэнк Марсалес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "14 мая 1932",
@@ -170,7 +170,7 @@ export const data = [
                 "director": [
                     "Берт Джиллетт"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -182,10 +182,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "30 июля 1932",
@@ -239,7 +239,7 @@ export const data = [
                 "director": [
                     "Дэвид Хэнд"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -251,10 +251,10 @@ export const data = [
                 "composer": [
                     "Фрэнк Черчилль"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "7 января 1933",
@@ -303,7 +303,7 @@ export const data = [
                 "director": [
                     "Берт Джиллетт"
                 ],
-                "scenario": [
+                "writer": [
                     "Пинто Колвиг",
                     "Albert Hunter",
                     "Boris V. Morkovin",
@@ -318,10 +318,10 @@ export const data = [
                 "composer": [
                     "Фрэнк Черчилль"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Boris V. Morkovin"
                 ],
                 "worldPremiere": "27 мая 1933",
@@ -371,7 +371,7 @@ export const data = [
                     "Уолтер Лэнц",
                     "Уильям Нолан"
                 ],
-                "scenario": [
+                "writer": [
                     "Лестер Кляйн",
                     "Уолтер Лэнц",
                     "Мануэль Морено"
@@ -385,10 +385,10 @@ export const data = [
                 "composer": [
                     "Джеймс Дитрих"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "27 ноября 1933",
@@ -443,7 +443,7 @@ export const data = [
                     "Уолтер Лэнц",
                     "Мануэль Морено"
                 ],
-                "scenario": [
+                "writer": [
                     "Мануэль Морено",
                     "Уолтер Лэнц",
                     "Виктор МакЛеод"
@@ -457,10 +457,10 @@ export const data = [
                 "composer": [
                     "Джеймс Дитрих"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "1 октября 1934",
@@ -509,7 +509,7 @@ export const data = [
                 "director": [
                     "Сид Маркус"
                 ],
-                "scenario": [
+                "writer": [
                     "Сид Маркус"
                 ],
                 "producer": [
@@ -521,10 +521,10 @@ export const data = [
                 "composer": [
                     "Joe DeNat"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "9 ноября 1934",
@@ -570,7 +570,7 @@ export const data = [
                 "director": [
                     "Уилфред Джексон"
                 ],
-                "scenario": [
+                "writer": [
                     "Эзоп",
                     "Ларри Клеммонс"
                 ],
@@ -583,10 +583,10 @@ export const data = [
                 "composer": [
                     "Фрэнк Черчилль"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "5 января 1935",
@@ -640,7 +640,7 @@ export const data = [
                 "director": [
                     "Рудольф Айсинг"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -653,10 +653,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "30 марта 1935",
@@ -708,7 +708,7 @@ export const data = [
                 "director": [
                     "Дэвид Хэнд"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Коттрелл",
                     "Джо Грант",
                     "Боб Кувахара"
@@ -722,10 +722,10 @@ export const data = [
                 "composer": [
                     "Фрэнк Черчилль"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "26 июня 1935",
@@ -771,7 +771,7 @@ export const data = [
                 "director": [
                     "Дэвид Хэнд"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -783,10 +783,10 @@ export const data = [
                 "composer": [
                     "Фрэнк Черчилль"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "26 октября 1935",
@@ -834,7 +834,7 @@ export const data = [
                 "director": [
                     "Хью Харман"
                 ],
-                "scenario": [
+                "writer": [
                     "Норм Блэкберн",
                     "Jonathan Caldwell"
                 ],
@@ -849,10 +849,10 @@ export const data = [
                     "Скотт Бредли",
                     "Барон Кийес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "7 марта 1936",
@@ -898,7 +898,7 @@ export const data = [
                 "director": [
                     "Уилфред Джексон"
                 ],
-                "scenario": [
+                "writer": [
                     "Дик Рикард"
                 ],
                 "producer": [
@@ -910,10 +910,10 @@ export const data = [
                 "composer": [
                     "Ли Харлайн"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "31 октября 1936",
@@ -969,7 +969,7 @@ export const data = [
                     "Дэйв Фляйшер",
                     "Уиллард Боуски"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -983,10 +983,10 @@ export const data = [
                     "Боб Ротберг",
                     "Сэмми Тимберг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "27 ноября 1936",
@@ -1031,7 +1031,7 @@ export const data = [
                 "director": [
                     "Дэйв Фляйшер"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -1043,10 +1043,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "29 октября 1937",
@@ -1096,7 +1096,7 @@ export const data = [
                     "Артур Дэвис",
                     "Сид Маркус"
                 ],
-                "scenario": [
+                "writer": [
                     "Ханс Кристиан Андерсен",
                     "Артур Дэвис",
                     "Кэл Ховард",
@@ -1111,10 +1111,10 @@ export const data = [
                 "composer": [
                     "Joe DeNat"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "5 ноября 1937",
@@ -1163,7 +1163,7 @@ export const data = [
                 "director": [
                     "Уилфред Джексон"
                 ],
-                "scenario": [
+                "writer": [
                     "Дик Рикард"
                 ],
                 "producer": [
@@ -1175,10 +1175,10 @@ export const data = [
                 "composer": [
                     "Ли Харлайн"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "5 ноября 1937",
@@ -1226,7 +1226,7 @@ export const data = [
                 "director": [
                     "Дэйв Фляйшер"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -1238,10 +1238,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "24 июня 1938",
@@ -1287,7 +1287,7 @@ export const data = [
                 "director": [
                     "Джек Кинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Карл Баркс",
                     "Гарри Ривз"
                 ],
@@ -1300,10 +1300,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "8 июля 1938",
@@ -1349,7 +1349,7 @@ export const data = [
                 "director": [
                     "Билл Робертс"
                 ],
-                "scenario": [
+                "writer": [
                     "Фрэнк Тэшлин",
                     "Джек Кинни"
                 ],
@@ -1362,10 +1362,10 @@ export const data = [
                 "composer": [
                     "Альберт Хэй Мэлотт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "23 сентября 1938",
@@ -1411,7 +1411,7 @@ export const data = [
                 "director": [
                     "Дик Рикард"
                 ],
-                "scenario": [
+                "writer": [
                     "Роберт Лосон",
                     "Манро Лиф",
                     "Вернон Сталлингс"
@@ -1425,10 +1425,10 @@ export const data = [
                 "composer": [
                     "Альберт Хэй Мэлотт"
                 ],
-                "artist": [
+                "design": [
                     "Кен Андерсон"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "25 ноября 1938",
@@ -1474,7 +1474,7 @@ export const data = [
                 "director": [
                     "Уилфред Джексон"
                 ],
-                "scenario": [
+                "writer": [
                     "Сильвия Холлэнд",
                     "Кларенс Нэш",
                     "Дик Рикард",
@@ -1489,10 +1489,10 @@ export const data = [
                 "composer": [
                     "Эдвард Х. Пламб"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "23 декабря 1938",
@@ -1545,7 +1545,7 @@ export const data = [
                     "Клайд Джероними",
                     "Хэмилтон Ласк"
                 ],
-                "scenario": [
+                "writer": [
                     "Ханс Кристиан Андерсен",
                     "Вернон Сталлингс"
                 ],
@@ -1558,10 +1558,10 @@ export const data = [
                 "composer": [
                     "Альберт Хэй Мэлотт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "7 апреля 1939",
@@ -1607,7 +1607,7 @@ export const data = [
                 "director": [
                     "Клайд Джероними"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -1619,10 +1619,10 @@ export const data = [
                 "composer": [
                     "Пол Дж. Смит"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "21 июля 1939",
@@ -1668,7 +1668,7 @@ export const data = [
                 "director": [
                     "Текс Эйвери"
                 ],
-                "scenario": [
+                "writer": [
                     "Джек Миллер"
                 ],
                 "producer": [
@@ -1680,10 +1680,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "26 августа 1939",
@@ -1726,7 +1726,7 @@ export const data = [
                 "director": [
                     "Хью Харман"
                 ],
-                "scenario": [
+                "writer": [
                     "Джек Косгрифф",
                     "Хью Харман",
                     "Khat Harman",
@@ -1743,10 +1743,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "9 декабря 1939",
@@ -1798,7 +1798,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Gus Arriola",
                     "Джозеф Барбера"
                 ],
@@ -1812,10 +1812,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Fred McAlpin"
                 ],
                 "worldPremiere": "10 февраля 1940",
@@ -1864,7 +1864,7 @@ export const data = [
                 "director": [
                     "Рудольф Айсинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Maurice Day"
                 ],
                 "producer": [
@@ -1878,10 +1878,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "22 июня 1940",
@@ -1927,7 +1927,7 @@ export const data = [
                 "director": [
                     "Текс Эйвери"
                 ],
-                "scenario": [
+                "writer": [
                     "Рич Хоган"
                 ],
                 "producer": [
@@ -1939,10 +1939,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "27 июля 1940",
@@ -1993,7 +1993,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл Мальтезе"
                 ],
                 "producer": [
@@ -2005,10 +2005,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "7 июня 1941",
@@ -2054,7 +2054,7 @@ export const data = [
                 "director": [
                     "Джек Кинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Карл Баркс",
                     "Джек Ханна"
                 ],
@@ -2067,10 +2067,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "1 августа 1941",
@@ -2116,7 +2116,7 @@ export const data = [
                 "director": [
                     "Уолтер Лэнц"
                 ],
-                "scenario": [
+                "writer": [
                     "Бен Хардвей",
                     "Лоуелл Эллиот"
                 ],
@@ -2130,10 +2130,10 @@ export const data = [
                     "Хью Принц",
                     "Даррелл Калкер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "1 сентября 1941",
@@ -2182,7 +2182,7 @@ export const data = [
                 "director": [
                     "Клайд Джероними"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -2194,10 +2194,10 @@ export const data = [
                 "composer": [
                     "Ли Харлайн"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "3 октября 1941",
@@ -2247,7 +2247,7 @@ export const data = [
                     "Дэйв Фляйшер",
                     "Стив Муффати"
                 ],
-                "scenario": [
+                "writer": [
                     "Джерри Сигел",
                     "Джо Шустер",
                     "Джей Мортон",
@@ -2263,10 +2263,10 @@ export const data = [
                     "Уинстон Шарплс",
                     "Сэмми Тимберг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "26 сентября 1941",
@@ -2312,7 +2312,7 @@ export const data = [
                 "director": [
                     "Рудольф Айсинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Рудольф Айсинг"
                 ],
                 "producer": [
@@ -2326,10 +2326,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "1 ноября 1941",
@@ -2369,7 +2369,7 @@ export const data = [
                 "director": [
                     "Пол Феннел"
                 ],
-                "scenario": [
+                "writer": [
                     "Пол Феннел"
                 ],
                 "producer": [
@@ -2381,10 +2381,10 @@ export const data = [
                 "composer": [
                     "Кларенс Вилер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "7 ноября 1941",
@@ -2438,7 +2438,7 @@ export const data = [
                     "Уильям Ханна",
                     "Рудольф Айсинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Джозеф Барбера",
                     "Gus Arriola"
                 ],
@@ -2453,10 +2453,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "6 декабря 1941",
@@ -2505,7 +2505,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл Мальтезе"
                 ],
                 "producer": [
@@ -2517,10 +2517,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "6 декабря 1941",
@@ -2566,7 +2566,7 @@ export const data = [
                 "director": [
                     "Джордж Пэл"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -2578,10 +2578,10 @@ export const data = [
                 "composer": [
                     "Eddison von Ottenfeld"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "26 декабря 1941",
@@ -2632,7 +2632,7 @@ export const data = [
                 "director": [
                     "Джордж Пэл"
                 ],
-                "scenario": [
+                "writer": [
                     "Сесил Бирд",
                     "Джек Миллер",
                     "Джордж Пэл"
@@ -2646,10 +2646,10 @@ export const data = [
                 "composer": [
                     "Eddison von Ottenfeld"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "26 июня 1942",
@@ -2698,7 +2698,7 @@ export const data = [
                 "director": [
                     "Алекс Лови"
                 ],
-                "scenario": [
+                "writer": [
                     "Бен Хардвей",
                     "Чак Коуч"
                 ],
@@ -2711,10 +2711,10 @@ export const data = [
                 "composer": [
                     "Даррелл Калкер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "David Lurie"
                 ],
                 "worldPremiere": "27 июля 1942",
@@ -2754,7 +2754,7 @@ export const data = [
                 "director": [
                     "Мэнни Дэвис"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Фостер",
                     "Исэдор Клейн",
                     "Том Моррисон"
@@ -2768,10 +2768,10 @@ export const data = [
                 "composer": [
                     "Филип А. Шейб"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джордж МакЭвой"
                 ],
                 "worldPremiere": "7 августа 1942",
@@ -2820,7 +2820,7 @@ export const data = [
                 "director": [
                     "Текс Эйвери"
                 ],
-                "scenario": [
+                "writer": [
                     "Рич Хоган"
                 ],
                 "producer": [
@@ -2833,10 +2833,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Fred McAlpin"
                 ],
                 "worldPremiere": "22 августа 1942",
@@ -2886,7 +2886,7 @@ export const data = [
                     "Джек Кинни",
                     "Бен Шарпстин"
                 ],
-                "scenario": [
+                "writer": [
                     "Джо Грант",
                     "Дик Хюмер"
                 ],
@@ -2899,10 +2899,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "1 января 1943",
@@ -2951,7 +2951,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Уоррен Фостер",
                     "Майкл Мальтезе",
                     "Тед Пирс",
@@ -2966,10 +2966,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "6 февраля 1943",
@@ -3014,7 +3014,7 @@ export const data = [
                 "director": [
                     "Джордж Пэл"
                 ],
-                "scenario": [
+                "writer": [
                     "Доктор Сюсс"
                 ],
                 "producer": [
@@ -3026,10 +3026,10 @@ export const data = [
                 "composer": [
                     "Eddison von Ottenfeld"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "30 апреля 1943",
@@ -3075,7 +3075,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Тед Пирс"
                 ],
                 "producer": [
@@ -3087,10 +3087,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "15 мая 1943",
@@ -3136,7 +3136,7 @@ export const data = [
                 "director": [
                     "Алекс Лови"
                 ],
-                "scenario": [
+                "writer": [
                     "Бен Хардвей",
                     "Милт Шаффер"
                 ],
@@ -3149,10 +3149,10 @@ export const data = [
                 "composer": [
                     "Даррелл Калкер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "David Lurie"
                 ],
                 "worldPremiere": "21 мая 1943",
@@ -3202,7 +3202,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Ханна",
                     "Джозеф Барбера"
                 ],
@@ -3216,10 +3216,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "26 июня 1943",
@@ -3268,7 +3268,7 @@ export const data = [
                 "director": [
                     "Билл Робертс"
                 ],
-                "scenario": [
+                "writer": [
                     "Джо Грант",
                     "Дик Хюмер"
                 ],
@@ -3281,10 +3281,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "27 августа 1943",
@@ -3324,7 +3324,7 @@ export const data = [
                 "director": [
                     "Боб Уикершем"
                 ],
-                "scenario": [
+                "writer": [
                     "Дан Роман"
                 ],
                 "producer": [
@@ -3336,10 +3336,10 @@ export const data = [
                 "composer": [
                     "Пол Ворф"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "19 ноября 1943",
@@ -3393,7 +3393,7 @@ export const data = [
                 "director": [
                     "Фрэнк Тэшлин"
                 ],
-                "scenario": [
+                "writer": [
                     "Уоррен Фостер"
                 ],
                 "producer": [
@@ -3405,10 +3405,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "6 мая 1944",
@@ -3448,7 +3448,7 @@ export const data = [
                 "director": [
                     "Эдди Доннелли"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Фостер",
                     "Donald McKee",
                     "Том Моррисон",
@@ -3463,10 +3463,10 @@ export const data = [
                 "composer": [
                     "Филип А. Шейб"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джордж МакЭвой"
                 ],
                 "worldPremiere": "12 мая 1944",
@@ -3512,7 +3512,7 @@ export const data = [
                 "director": [
                     "Шэймус Калхейн"
                 ],
-                "scenario": [
+                "writer": [
                     "Бен Хардвей",
                     "Милт Шаффер"
                 ],
@@ -3525,10 +3525,10 @@ export const data = [
                 "composer": [
                     "Даррелл Калкер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "David Lurie",
                     "Louis Moss"
                 ],
@@ -3569,7 +3569,7 @@ export const data = [
                 "director": [
                     "Джордж Пэл"
                 ],
-                "scenario": [
+                "writer": [
                     "Доктор Сюсс"
                 ],
                 "producer": [
@@ -3581,10 +3581,10 @@ export const data = [
                 "composer": [
                     "Maurice De Packh"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "28 июля 1944",
@@ -3633,7 +3633,7 @@ export const data = [
                 "director": [
                     "Джек Кинни"
                 ],
-                "scenario": [
+                "writer": [
                     "Рекс Кокс",
                     "Гарри Ривз"
                 ],
@@ -3646,10 +3646,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "15 сентября 1944",
@@ -3696,7 +3696,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Ханна",
                     "Джозеф Барбера"
                 ],
@@ -3710,10 +3710,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "23 ноября 1944",
@@ -3753,7 +3753,7 @@ export const data = [
                 "director": [
                     "Ховард Свифт"
                 ],
-                "scenario": [
+                "writer": [
                     "Грант Симмонс"
                 ],
                 "producer": [
@@ -3765,10 +3765,10 @@ export const data = [
                 "composer": [
                     "Eddie Kilfeather"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "5 января 1945",
@@ -3819,7 +3819,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Тед Пирс"
                 ],
                 "producer": [
@@ -3831,10 +3831,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "24 марта 1945",
@@ -3874,7 +3874,7 @@ export const data = [
                 "director": [
                     "Боб Уикершем"
                 ],
-                "scenario": [
+                "writer": [
                     "Пол Ворф"
                 ],
                 "producer": [
@@ -3886,10 +3886,10 @@ export const data = [
                 "composer": [
                     "Пол Ворф"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "21 июня 1945",
@@ -3935,7 +3935,7 @@ export const data = [
                 "director": [
                     "Джек Кинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Ральф Райт"
                 ],
                 "producer": [
@@ -3947,10 +3947,10 @@ export const data = [
                 "composer": [
                     "Эдвард Х. Пламб"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "29 июня 1945",
@@ -3990,7 +3990,7 @@ export const data = [
                 "director": [
                     "Connie Rasinski"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Фостер",
                     "Том Моррисон",
                     "Пол Терри"
@@ -4004,10 +4004,10 @@ export const data = [
                 "composer": [
                     "Филип А. Шейб"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "3 августа 1945",
@@ -4053,7 +4053,7 @@ export const data = [
                 "director": [
                     "Джордж Пэл"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -4065,10 +4065,10 @@ export const data = [
                 "composer": [
                     "Кларенс Вилер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "19 октября 1945",
@@ -4115,7 +4115,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Ханна",
                     "Джозеф Барбера"
                 ],
@@ -4129,10 +4129,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "14 ноября 1945",
@@ -4181,7 +4181,7 @@ export const data = [
                 "director": [
                     "Дик Ланди"
                 ],
-                "scenario": [
+                "writer": [
                     "Бен Хардвей",
                     "Милт Шаффер"
                 ],
@@ -4194,10 +4194,10 @@ export const data = [
                 "composer": [
                     "Даррелл Калкер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -4251,7 +4251,7 @@ export const data = [
                 "director": [
                     "Дик Ланди"
                 ],
-                "scenario": [
+                "writer": [
                     "Бен Хардвей",
                     "Милт Шаффер"
                 ],
@@ -4264,10 +4264,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Louis Moss"
                 ],
                 "worldPremiere": "25 февраля 1946",
@@ -4314,7 +4314,7 @@ export const data = [
                     "Джек Ханна",
                     "Клайд Джероними"
                 ],
-                "scenario": [
+                "writer": [
                     "Гарри Ривз"
                 ],
                 "producer": [
@@ -4326,10 +4326,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "7 июня 1946",
@@ -4375,7 +4375,7 @@ export const data = [
                 "director": [
                     "Роберт МакКимсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Уоррен Фостер",
                     "Джордж Хилл"
                 ],
@@ -4388,10 +4388,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "31 августа 1946",
@@ -4431,7 +4431,7 @@ export const data = [
                 "director": [
                     "Джордж Пэл"
                 ],
-                "scenario": [
+                "writer": [
                     "Лэтэм Овенс",
                     "Роберт Монро"
                 ],
@@ -4445,10 +4445,10 @@ export const data = [
                 "composer": [
                     "Кларенс Вилер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "6 сентября 1946",
@@ -4498,7 +4498,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Ханна",
                     "Джозеф Барбера"
                 ],
@@ -4512,10 +4512,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Fred McAlpin"
                 ],
                 "worldPremiere": "26 апреля 1947",
@@ -4566,7 +4566,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Тед Пирс",
                     "Майкл Мальтезе"
                 ],
@@ -4579,10 +4579,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "3 мая 1947",
@@ -4629,7 +4629,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Роберт Льюис Стивенсон"
                 ],
                 "producer": [
@@ -4642,10 +4642,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "14 июня 1947",
@@ -4694,7 +4694,7 @@ export const data = [
                 "director": [
                     "Джордж Пэл"
                 ],
-                "scenario": [
+                "writer": [
                     "Пол Трип"
                 ],
                 "producer": [
@@ -4706,10 +4706,10 @@ export const data = [
                 "composer": [
                     "George Kleinsinger"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "11 июля 1947",
@@ -4758,7 +4758,7 @@ export const data = [
                 "director": [
                     "Джек Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Дик Кинни",
                     "Боб Норт"
                 ],
@@ -4771,10 +4771,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "28 ноября 1947",
@@ -4820,7 +4820,7 @@ export const data = [
                 "director": [
                     "Чарльз А. Николс"
                 ],
-                "scenario": [
+                "writer": [
                     "Милт Шаффер",
                     "Джек Хубер"
                 ],
@@ -4833,10 +4833,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "26 декабря 1947",
@@ -4887,7 +4887,7 @@ export const data = [
                 "director": [
                     "Чарльз А. Николс"
                 ],
-                "scenario": [
+                "writer": [
                     "Ник Джордж",
                     "Милт Шаффер",
                     "Билл Берг",
@@ -4902,10 +4902,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "3 декабря 1948",
@@ -4945,7 +4945,7 @@ export const data = [
                 "director": [
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Сол Барзмен",
                     "Фил Истмэн",
                     "Чак Джонс",
@@ -4961,10 +4961,10 @@ export const data = [
                 "composer": [
                     "Дель Кастилло"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "23 декабря 1948",
@@ -5010,7 +5010,7 @@ export const data = [
                 "director": [
                     "Джек Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Ник Джордж",
                     "Билл Берг"
                 ],
@@ -5023,10 +5023,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "24 декабря 1948",
@@ -5072,7 +5072,7 @@ export const data = [
                 "director": [
                     "Чак Джонс"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл Мальтезе"
                 ],
                 "producer": [
@@ -5084,13 +5084,13 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     "Ллойд Вон",
                     "Кен Харрис",
                     "Фил Монро",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "23 апреля 1949",
@@ -5137,7 +5137,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Ханна",
                     "Джозеф Барбера"
                 ],
@@ -5151,10 +5151,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "30 апреля 1949",
@@ -5205,7 +5205,7 @@ export const data = [
                 "director": [
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Сол Барзмен"
                 ],
                 "producer": [
@@ -5219,10 +5219,10 @@ export const data = [
                 "composer": [
                     "Дель Кастилло"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "24 марта 1949",
@@ -5269,7 +5269,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -5282,10 +5282,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "14 мая 1949",
@@ -5337,7 +5337,7 @@ export const data = [
                 "director": [
                     "Чак Джонс"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл Мальтезе"
                 ],
                 "producer": [
@@ -5349,13 +5349,13 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     "Ллойд Вон",
                     "Кен Харрис",
                     "Фил Монро",
                     "..."
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "12 ноября 1949",
@@ -5401,7 +5401,7 @@ export const data = [
                 "director": [
                     "Джек Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Гарри Ривз",
                     "Милт Банта"
                 ],
@@ -5414,10 +5414,10 @@ export const data = [
                 "composer": [
                     "Пол Дж. Смит"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "16 декабря 1949",
@@ -5463,7 +5463,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Тед Пирс"
                 ],
                 "producer": [
@@ -5475,10 +5475,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "7 октября 1950",
@@ -5530,7 +5530,7 @@ export const data = [
                     "Пит Бернесс",
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Фил Истмэн",
                     "Билл Скотт",
                     "Аль Смэлли"
@@ -5544,10 +5544,10 @@ export const data = [
                 "composer": [
                     "Хойт С. Куртин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "14 сентября 1950",
@@ -5597,7 +5597,7 @@ export const data = [
                     "Роберт Кэннон",
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Доктор Сюсс",
                     "Билл Скотт",
                     "Фил Истмэн"
@@ -5611,10 +5611,10 @@ export const data = [
                 "composer": [
                     "Гэйл Кубик"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "2 ноября 1950",
@@ -5661,7 +5661,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -5674,10 +5674,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джим Фарис"
                 ],
                 "worldPremiere": "7 апреля 1951",
@@ -5728,7 +5728,7 @@ export const data = [
                 "director": [
                     "Джек Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Билл Пит",
                     "Ральф Райт",
                     "Милт Банта"
@@ -5742,10 +5742,10 @@ export const data = [
                 "composer": [
                     "Джозеф Дубин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "8 февраля 1952",
@@ -5792,7 +5792,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Ханна",
                     "Джозеф Барбера"
                 ],
@@ -5806,10 +5806,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "15 марта 1952",
@@ -5855,7 +5855,7 @@ export const data = [
                 "director": [
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Хабли",
                     "Билл Скотт"
                 ],
@@ -5869,10 +5869,10 @@ export const data = [
                 "composer": [
                     "Фил Мур"
                 ],
-                "artist": [
+                "design": [
                     "Джон Уилсон"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -5923,7 +5923,7 @@ export const data = [
                 "director": [
                     "Пит Бернесс"
                 ],
-                "scenario": [
+                "writer": [
                     "Билл Скотт"
                 ],
                 "producer": [
@@ -5936,10 +5936,10 @@ export const data = [
                 "composer": [
                     "Бенжамин Лииз"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "18 августа 1952",
@@ -5983,7 +5983,7 @@ export const data = [
                     "Роберт Кэннон",
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Хабли",
                     "Людвиг Бемельманс"
                 ],
@@ -5997,10 +5997,10 @@ export const data = [
                 "composer": [
                     "Дэвид Рэксин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "27 ноября 1952",
@@ -6050,7 +6050,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Ханна",
                     "Джозеф Барбера"
                 ],
@@ -6064,10 +6064,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джим Фарис"
                 ],
                 "worldPremiere": "21 марта 1953",
@@ -6113,7 +6113,7 @@ export const data = [
                 "director": [
                     "Текс Эйвери"
                 ],
-                "scenario": [
+                "writer": [
                     "Хек Аллен"
                 ],
                 "producer": [
@@ -6127,10 +6127,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джим Фарис"
                 ],
                 "worldPremiere": "2 апреля 1953",
@@ -6173,7 +6173,7 @@ export const data = [
                 "director": [
                     "Колин Лоу"
                 ],
-                "scenario": [
+                "writer": [
                     "Гай Гловер"
                 ],
                 "producer": [
@@ -6185,10 +6185,10 @@ export const data = [
                 "composer": [
                     "Элдон Рэтберн"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -6233,7 +6233,7 @@ export const data = [
                 "director": [
                     "Роберт Кэннон"
                 ],
-                "scenario": [
+                "writer": [
                     "Т. Хи",
                     "Роберт Кэннон"
                 ],
@@ -6246,10 +6246,10 @@ export const data = [
                 "composer": [
                     "Джордж Брунс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "25 июня 1953",
@@ -6295,7 +6295,7 @@ export const data = [
                 "director": [
                     "Джек Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Аль Бертино",
                     "Дэвид Детидж"
                 ],
@@ -6308,10 +6308,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "23 октября 1953",
@@ -6361,7 +6361,7 @@ export const data = [
                     "Уорд Кимболл",
                     "Чарльз А. Николс"
                 ],
-                "scenario": [
+                "writer": [
                     "Дик Хюмер"
                 ],
                 "producer": [
@@ -6373,10 +6373,10 @@ export const data = [
                 "composer": [
                     "Джозеф Дубин"
                 ],
-                "artist": [
+                "design": [
                     "Кендалл О’Коннор"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "10 ноября 1953",
@@ -6422,7 +6422,7 @@ export const data = [
                 "director": [
                     "Тед Пармли"
                 ],
-                "scenario": [
+                "writer": [
                     "Эдгар Аллан По",
                     "Билл Скотт",
                     "Фред Гейбл"
@@ -6436,10 +6436,10 @@ export const data = [
                 "composer": [
                     "Борис Кременлиев"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "17 декабря 1953",
@@ -6485,7 +6485,7 @@ export const data = [
                 "director": [
                     "Чак Джонс"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл Мальтезе"
                 ],
                 "producer": [
@@ -6497,10 +6497,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "16 октября 1954",
@@ -6554,7 +6554,7 @@ export const data = [
                 "director": [
                     "Джек Кинни"
                 ],
-                "scenario": [
+                "writer": [
                     "Лео Салкин",
                     "Эллис Паркер Батлер"
                 ],
@@ -6567,10 +6567,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "21 мая 1954",
@@ -6617,7 +6617,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -6630,10 +6630,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джим Фарис"
                 ],
                 "worldPremiere": "18 декабря 1954",
@@ -6679,7 +6679,7 @@ export const data = [
                 "director": [
                     "Текс Эйвери"
                 ],
-                "scenario": [
+                "writer": [
                     "Текс Эйвери"
                 ],
                 "producer": [
@@ -6691,10 +6691,10 @@ export const data = [
                 "composer": [
                     "Кларенс Вилер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "14 февраля 1955",
@@ -6740,7 +6740,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Артур Дэвис",
                     "Уоррен Фостер"
                 ],
@@ -6753,10 +6753,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "2 апреля 1955",
@@ -6802,7 +6802,7 @@ export const data = [
                 "director": [
                     "Пит Бернесс"
                 ],
-                "scenario": [
+                "writer": [
                     "Барбара Хаммер",
                     "Тед Пирс"
                 ],
@@ -6815,10 +6815,10 @@ export const data = [
                 "composer": [
                     "Хойт С. Куртин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "13 октября 1960",
@@ -6869,7 +6869,7 @@ export const data = [
                 "director": [
                     "Джек Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Дик Шоу",
                     "Билл Берг"
                 ],
@@ -6882,10 +6882,10 @@ export const data = [
                 "composer": [
                     "Оливер Уоллес"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "14 января 1955",
@@ -6931,7 +6931,7 @@ export const data = [
                 "director": [
                     "Текс Эйвери"
                 ],
-                "scenario": [
+                "writer": [
                     "Текс Эйвери",
                     "Майкл Мальтезе"
                 ],
@@ -6944,10 +6944,10 @@ export const data = [
                 "composer": [
                     "Кларенс Вилер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "11 апреля 1955",
@@ -6996,7 +6996,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Уоррен Фостер"
                 ],
                 "producer": [
@@ -7008,10 +7008,10 @@ export const data = [
                 "composer": [
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "17 сентября 1955",
@@ -7052,7 +7052,7 @@ export const data = [
                     "Джозеф Барбера",
                     "Уильям Ханна"
                 ],
-                "scenario": [
+                "writer": [
                     "Гомер Брайтман"
                 ],
                 "producer": [
@@ -7066,10 +7066,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джим Фарис"
                 ],
                 "worldPremiere": "23 декабря 1955",
@@ -7126,7 +7126,7 @@ export const data = [
                 "director": [
                     "Роберт Кэннон"
                 ],
-                "scenario": [
+                "writer": [
                     "Т. Хи",
                     "Роберт Кэннон",
                     "Доктор Сюсс"
@@ -7140,10 +7140,10 @@ export const data = [
                 "composer": [
                     "Эрнест Голд"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "9 февраля 1956",
@@ -7183,7 +7183,7 @@ export const data = [
                 "director": [
                     "Роберт Кэннон"
                 ],
-                "scenario": [
+                "writer": [
                     "Эдвин П. Хикс",
                     "Т. Хи",
                     "Роберт Кэннон"
@@ -7197,10 +7197,10 @@ export const data = [
                 "composer": [
                     "Билли Мэй"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "31 мая 1956",
@@ -7246,7 +7246,7 @@ export const data = [
                 "director": [
                     "Пит Бернесс"
                 ],
-                "scenario": [
+                "writer": [
                     "Дик Шоу"
                 ],
                 "producer": [
@@ -7258,10 +7258,10 @@ export const data = [
                 "composer": [
                     "Дин Эллиотт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "26 июля 1956",
@@ -7312,7 +7312,7 @@ export const data = [
                 "director": [
                     "Роберт МакКимсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Тед Пирс"
                 ],
                 "producer": [
@@ -7325,10 +7325,10 @@ export const data = [
                     "Милт Франклин",
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "20 июля 1957",
@@ -7374,7 +7374,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Уоррен Фостер"
                 ],
                 "producer": [
@@ -7386,10 +7386,10 @@ export const data = [
                 "composer": [
                     "Милт Франклин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "10 августа 1957",
@@ -7442,7 +7442,7 @@ export const data = [
                     "Билл Джастис",
                     "Вольфганг Райтерман"
                 ],
-                "scenario": [
+                "writer": [
                     "Билл Пит"
                 ],
                 "producer": [
@@ -7454,10 +7454,10 @@ export const data = [
                 "composer": [
                     "Джордж Брунс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "28 августа 1957",
@@ -7503,7 +7503,7 @@ export const data = [
                 "director": [
                     "Майкл Ла"
                 ],
-                "scenario": [
+                "writer": [
                     "Гомер Брайтман"
                 ],
                 "producer": [
@@ -7516,10 +7516,10 @@ export const data = [
                 "composer": [
                     "Скотт Бредли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джим Фарис"
                 ],
                 "worldPremiere": "6 декабря 1957",
@@ -7563,7 +7563,7 @@ export const data = [
                     "Фред Криппен",
                     "Лью Келлер"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -7575,10 +7575,10 @@ export const data = [
                 "composer": [
                     "Хэмилтон Хэм"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "29 декабря 1957",
@@ -7632,7 +7632,7 @@ export const data = [
                 "director": [
                     "Лес Кларк"
                 ],
-                "scenario": [
+                "writer": [
                     "Лэнс Нолли",
                     "Тед Берман"
                 ],
@@ -7645,10 +7645,10 @@ export const data = [
                 "composer": [
                     "Джордж Брунс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "1 августа 1958",
@@ -7697,7 +7697,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Уоррен Фостер"
                 ],
                 "producer": [
@@ -7709,10 +7709,10 @@ export const data = [
                 "composer": [
                     "Милт Франклин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "23 августа 1958",
@@ -7759,7 +7759,7 @@ export const data = [
                     "Арт Бартщ",
                     "Джин Дейч"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -7771,10 +7771,10 @@ export const data = [
                 "composer": [
                     "Филип А. Шейб"
                 ],
-                "artist": [
+                "design": [
                     "Эли Бауэр"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "2 мая 1965",
@@ -7825,7 +7825,7 @@ export const data = [
                 "director": [
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Фэйт Хабли",
                     "Джон Хабли"
                 ],
@@ -7839,10 +7839,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "29 января 1959",
@@ -7888,7 +7888,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Уоррен Фостер"
                 ],
                 "producer": [
@@ -7901,10 +7901,10 @@ export const data = [
                     "Милт Франклин",
                     "Карл В. Сталлинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "4 июля 1959",
@@ -7956,7 +7956,7 @@ export const data = [
                 "director": [
                     "Билл Джастис"
                 ],
-                "scenario": [
+                "writer": [
                     "Т. Хи"
                 ],
                 "producer": [
@@ -7969,10 +7969,10 @@ export const data = [
                     "Джордж Брунс",
                     "Мэл Левен"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "10 ноября 1959",
@@ -8012,7 +8012,7 @@ export const data = [
                 "director": [
                     "Эрнест Пинтофф"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -8024,10 +8024,10 @@ export const data = [
                 "composer": [
                     "Эрнест Пинтофф"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -8081,7 +8081,7 @@ export const data = [
                     "Дэвид Хэнд",
                     "..."
                 ],
-                "scenario": [
+                "writer": [
                     "Билл Пит"
                 ],
                 "producer": [
@@ -8093,10 +8093,10 @@ export const data = [
                 "composer": [
                     "Джордж Брунс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "21 января 1960",
@@ -8142,7 +8142,7 @@ export const data = [
                 "director": [
                     "Фриц Фрилинг"
                 ],
-                "scenario": [
+                "writer": [
                     "Фриц Фрилинг",
                     "Майкл Мальтезе"
                 ],
@@ -8156,10 +8156,10 @@ export const data = [
                 "composer": [
                     "Милт Франклин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "16 июля 1960",
@@ -8199,7 +8199,7 @@ export const data = [
                 "director": [
                     "Франтишек Выстрчил"
                 ],
-                "scenario": [
+                "writer": [
                     "Франтишек Выстрчил"
                 ],
                 "producer": [
@@ -8211,10 +8211,10 @@ export const data = [
                 "composer": [
                     "Властимил Гала"
                 ],
-                "artist": [
+                "design": [
                     "Франтишек Выстрчил"
                 ],
-                "installation": [
+                "editor": [
                     "Jana Sebestíková"
                 ],
                 "worldPremiere": "21 ноября 1960",
@@ -8263,7 +8263,7 @@ export const data = [
                 "director": [
                     "Чак Джонс"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл Мальтезе"
                 ],
                 "producer": [
@@ -8275,10 +8275,10 @@ export const data = [
                 "composer": [
                     "Милт Франклин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "3 декабря 1960",
@@ -8327,7 +8327,7 @@ export const data = [
                 "director": [
                     "Джин Дейч"
                 ],
-                "scenario": [
+                "writer": [
                     "Джулс Файфер"
                 ],
                 "producer": [
@@ -8339,10 +8339,10 @@ export const data = [
                 "composer": [
                     "Штепан Коничек"
                 ],
-                "artist": [
+                "design": [
                     "Эл Козил"
                 ],
-                "installation": [
+                "editor": [
                     "Ждэнка Навратилова"
                 ],
                 "worldPremiere": "5 октября 1961",
@@ -8394,7 +8394,7 @@ export const data = [
                     "Фриц Фрилинг",
                     "Хоули Прэтт"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон В. Данн"
                 ],
                 "producer": [
@@ -8407,10 +8407,10 @@ export const data = [
                 "composer": [
                     "Милт Франклин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "19 августа 1961",
@@ -8457,7 +8457,7 @@ export const data = [
                     "Чак Джонс",
                     "Морис Ноубл"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон В. Данн",
                     "Чак Джонс"
                 ],
@@ -8471,10 +8471,10 @@ export const data = [
                 "composer": [
                     "Милт Франклин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "11 ноября 1961",
@@ -8522,7 +8522,7 @@ export const data = [
                     "Джек Ханна",
                     "Джек Кинни"
                 ],
-                "scenario": [
+                "writer": [
                     "Вэнс Джерри",
                     "Ральф Райт"
                 ],
@@ -8535,10 +8535,10 @@ export const data = [
                 "composer": [
                     "Бадди Бэйкер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "20 декабря 1961",
@@ -8586,7 +8586,7 @@ export const data = [
                     "Эйб Левитов",
                     "Морис Ноубл"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл Мальтезе",
                     "Дэвид Детидж",
                     "Чак Джонс"
@@ -8601,10 +8601,10 @@ export const data = [
                 "composer": [
                     "Милт Франклин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "30 декабря 1961",
@@ -8653,7 +8653,7 @@ export const data = [
                 "director": [
                     "Душан Вукотич"
                 ],
-                "scenario": [
+                "writer": [
                     "Рудольф Сремеч"
                 ],
                 "producer": [
@@ -8665,10 +8665,10 @@ export const data = [
                 "composer": [
                     "Томислав Симович"
                 ],
-                "artist": [
+                "design": [
                     "Звонимир Лончарич"
                 ],
-                "installation": [
+                "editor": [
                     "Теа Брансмид"
                 ],
                 "worldPremiere": "3 декабря 2010",
@@ -8713,7 +8713,7 @@ export const data = [
                 "director": [
                     "Осмонд Эванс"
                 ],
-                "scenario": [
+                "writer": [
                     "Рэй Брэдбери",
                     "Джордж Клейтон Джонсон"
                 ],
@@ -8727,10 +8727,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джо Сиракуза"
                 ],
                 "worldPremiere": "22 августа 1962",
@@ -8779,7 +8779,7 @@ export const data = [
                 "director": [
                     "Билл Джастис"
                 ],
-                "scenario": [
+                "writer": [
                     "Ксавьер Атенсио"
                 ],
                 "producer": [
@@ -8791,10 +8791,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Ксавьер Атенсио"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "19 декабря 1962",
@@ -8841,7 +8841,7 @@ export const data = [
                     "Чак Джонс",
                     "Морис Ноубл"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон В. Данн",
                     "Чак Джонс"
                 ],
@@ -8854,10 +8854,10 @@ export const data = [
                 "composer": [
                     "Уильям Лава"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Трег Браун"
                 ],
                 "worldPremiere": "27 апреля 1963",
@@ -8903,7 +8903,7 @@ export const data = [
                 "director": [
                     "Джин Дейч"
                 ],
-                "scenario": [
+                "writer": [
                     "Элис МакГрат",
                     "Крис Дженкинс"
                 ],
@@ -8916,10 +8916,10 @@ export const data = [
                 "composer": [
                     "H&S Quartet"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -8959,7 +8959,7 @@ export const data = [
                 "director": [
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Фэйт Хабли",
                     "Джон Хабли"
                 ],
@@ -8974,10 +8974,10 @@ export const data = [
                 "composer": [
                     "Дадли Мур"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -9025,7 +9025,7 @@ export const data = [
                 "director": [
                     "Эрнест Пинтофф"
                 ],
-                "scenario": [
+                "writer": [
                     "Мэл Брукс"
                 ],
                 "producer": [
@@ -9038,10 +9038,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Боб Хит"
                 ],
-                "installation": [
+                "editor": [
                     "Гарри Чанг"
                 ],
                 "worldPremiere": "20 мая 1963",
@@ -9090,7 +9090,7 @@ export const data = [
                 "director": [
                     "Джон Халас"
                 ],
-                "scenario": [
+                "writer": [
                     "Тодор Колев",
                     "Györgyei",
                     "Джой Батчелор",
@@ -9106,10 +9106,10 @@ export const data = [
                 "composer": [
                     "Джек Кинг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джек Кинг"
                 ],
                 "worldPremiere": "28 июля 1963",
@@ -9152,7 +9152,7 @@ export const data = [
                 "director": [
                     "Душан Вукотич"
                 ],
-                "scenario": [
+                "writer": [
                     "Душан Вукотич"
                 ],
                 "producer": [
@@ -9165,10 +9165,10 @@ export const data = [
                 "composer": [
                     "Томислав Симович"
                 ],
-                "artist": [
+                "design": [
                     "Звонимир Лончарич"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "19 октября 1963",
@@ -9211,7 +9211,7 @@ export const data = [
                 "director": [
                     "Джеральд Поттертон"
                 ],
-                "scenario": [
+                "writer": [
                     "Стивен Ликок"
                 ],
                 "producer": [
@@ -9224,10 +9224,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "25 сентября 1999",
@@ -9267,7 +9267,7 @@ export const data = [
                 "director": [
                     "Carmen D'Avino"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -9279,10 +9279,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -9330,7 +9330,7 @@ export const data = [
                     "Грант Манро",
                     "..."
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -9343,10 +9343,10 @@ export const data = [
                     "Морис Блэкберн",
                     "Элдон Рэтберн"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "6 августа 1964",
@@ -9393,7 +9393,7 @@ export const data = [
                     "Фриц Фрилинг",
                     "Хоули Прэтт"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон В. Данн"
                 ],
                 "producer": [
@@ -9407,10 +9407,10 @@ export const data = [
                 "composer": [
                     "Уильям Лава"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ли Гюнтер"
                 ],
                 "worldPremiere": "18 декабря 1964",
@@ -9450,7 +9450,7 @@ export const data = [
                 "director": [
                     "Джин Дейч"
                 ],
-                "scenario": [
+                "writer": [
                     "Джин Дейч"
                 ],
                 "producer": [
@@ -9463,10 +9463,10 @@ export const data = [
                     "S.H. Quintet",
                     "Karel Velebny"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -9506,7 +9506,7 @@ export const data = [
                 "director": [
                     "Джин Дейч"
                 ],
-                "scenario": [
+                "writer": [
                     "Эли Бауэр"
                 ],
                 "producer": [
@@ -9518,10 +9518,10 @@ export const data = [
                 "composer": [
                     "H&S Quartet"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -9567,7 +9567,7 @@ export const data = [
                     "Giulio Gianini",
                     "Эмануэль Лузатти"
                 ],
-                "scenario": [
+                "writer": [
                     "Giulio Gianini",
                     "Эмануэль Лузатти"
                 ],
@@ -9580,10 +9580,10 @@ export const data = [
                 "composer": [
                     "Джоаккино Россини"
                 ],
-                "artist": [
+                "design": [
                     "Эмануэль Лузатти"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "13 сентября 1964",
@@ -9633,7 +9633,7 @@ export const data = [
                     "Чак Джонс",
                     "Морис Ноубл"
                 ],
-                "scenario": [
+                "writer": [
                     "Нортон Джастер"
                 ],
                 "producer": [
@@ -9646,10 +9646,10 @@ export const data = [
                 "composer": [
                     "Юджин Поддани"
                 ],
-                "artist": [
+                "design": [
                     "Морис Ноубл"
                 ],
-                "installation": [
+                "editor": [
                     "Ловелл Норман"
                 ],
                 "worldPremiere": "15 декабря 1965",
@@ -9689,7 +9689,7 @@ export const data = [
                 "director": [
                     "Элиот Нойес"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -9701,10 +9701,10 @@ export const data = [
                 "composer": [
                     "Sammy Saltonstall"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "3 июня 1967",
@@ -9755,7 +9755,7 @@ export const data = [
                 "director": [
                     "Хоули Прэтт"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон В. Данн"
                 ],
                 "producer": [
@@ -9769,10 +9769,10 @@ export const data = [
                 "composer": [
                     "Уильям Лава"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Чак МакКанн"
                 ],
                 "worldPremiere": "25 мая 1966",
@@ -9812,7 +9812,7 @@ export const data = [
                 "director": [
                     "Carlos Marchiori"
                 ],
-                "scenario": [
+                "writer": [
                     "Гилберт Шокетт",
                     "Carlos Marchiori",
                     "Гай Гловер"
@@ -9827,10 +9827,10 @@ export const data = [
                 "composer": [
                     "Дональд Дуглас"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -9873,7 +9873,7 @@ export const data = [
                 "director": [
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Хабли",
                     "Фэйт Хабли"
                 ],
@@ -9887,10 +9887,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -9935,7 +9935,7 @@ export const data = [
                 "director": [
                     "Жан-Шарль Мюнье"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -9947,10 +9947,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -10000,7 +10000,7 @@ export const data = [
                     "Лес Дрю",
                     "Kaj Pindal"
                 ],
-                "scenario": [
+                "writer": [
                     "Kaj Pindal",
                     "Дональд Бриттейн"
                 ],
@@ -10014,10 +10014,10 @@ export const data = [
                 "composer": [
                     "Дональд Дуглас"
                 ],
-                "artist": [
+                "design": [
                     "Kaj Pindal"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -10057,7 +10057,7 @@ export const data = [
                 "director": [
                     "Фред Вульф"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10070,10 +10070,10 @@ export const data = [
                 "composer": [
                     "Шелли Манне"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Рич Харрисон"
                 ],
                 "worldPremiere": "",
@@ -10128,7 +10128,7 @@ export const data = [
                     "Вольфганг Райтерман",
                     "Бен Шарпстин"
                 ],
-                "scenario": [
+                "writer": [
                     "Ларри Клеммонс",
                     "Ральф Райт",
                     "Джулиус Свендсен",
@@ -10143,10 +10143,10 @@ export const data = [
                 "composer": [
                     "Бадди Бэйкер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Том Акоста"
                 ],
                 "worldPremiere": "20 декабря 1968",
@@ -10186,7 +10186,7 @@ export const data = [
                 "director": [
                     "Чарльз Свенсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Джованни Боккаччо",
                     "Джимми Т. Мураками",
                     "Чарльз Свенсон"
@@ -10201,10 +10201,10 @@ export const data = [
                 "composer": [
                     "Лауриндо Альмейда"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Рич Харрисон"
                 ],
                 "worldPremiere": "",
@@ -10251,7 +10251,7 @@ export const data = [
                     "Джон Хабли",
                     "Фэйт Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10264,10 +10264,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "6 июня 2002",
@@ -10310,7 +10310,7 @@ export const data = [
                 "director": [
                     "Рон Танис"
                 ],
-                "scenario": [
+                "writer": [
                     "Дон Эриоли"
                 ],
                 "producer": [
@@ -10324,10 +10324,10 @@ export const data = [
                     "Дональд Дуглас",
                     "F. Whitman Trecartin"
                 ],
-                "artist": [
+                "design": [
                     "Дон Эриоли"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -10381,7 +10381,7 @@ export const data = [
                 "director": [
                     "Уорд Кимболл"
                 ],
-                "scenario": [
+                "writer": [
                     "Тед Берман",
                     "Уорд Кимболл"
                 ],
@@ -10395,10 +10395,10 @@ export const data = [
                 "composer": [
                     "Джордж Брунс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ллойд Л. Ричардсон"
                 ],
                 "worldPremiere": "10 декабря 1969",
@@ -10438,7 +10438,7 @@ export const data = [
                 "director": [
                     "Райан Ларкин"
                 ],
-                "scenario": [
+                "writer": [
                     "Райан Ларкин"
                 ],
                 "producer": [
@@ -10452,10 +10452,10 @@ export const data = [
                     "Кристофер Наттер",
                     "Пэт Паттерсон"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "21 декабря 1969",
@@ -10495,7 +10495,7 @@ export const data = [
                 "director": [
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10508,10 +10508,10 @@ export const data = [
                 "composer": [
                     "Куинси Джонс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -10556,7 +10556,7 @@ export const data = [
                 "director": [
                     "Ли Мишкин"
                 ],
-                "scenario": [
+                "writer": [
                     "Уоррен Х. Шмидт"
                 ],
                 "producer": [
@@ -10568,10 +10568,10 @@ export const data = [
                 "composer": [
                     "Кен Хеллер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ти Босустоу",
                     "Дэннис Вайнрайх"
                 ],
@@ -10612,7 +10612,7 @@ export const data = [
                 "director": [
                     "Камерон Гесс"
                 ],
-                "scenario": [
+                "writer": [
                     "Дерек Ламб"
                 ],
                 "producer": [
@@ -10624,10 +10624,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -10668,7 +10668,7 @@ export const data = [
                     "Дэйл Кейс",
                     "Роберт Митчелл"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10681,10 +10681,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Сэм Хорта"
                 ],
                 "worldPremiere": "",
@@ -10729,7 +10729,7 @@ export const data = [
                 "director": [
                     "Питер Сэндер"
                 ],
-                "scenario": [
+                "writer": [
                     "Питер Сэндер",
                     "Оскар Уайльд"
                 ],
@@ -10744,10 +10744,10 @@ export const data = [
                 "composer": [
                     "Рон Гудвин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Кристин Лароккью"
                 ],
                 "worldPremiere": "26 ноября 1971",
@@ -10793,7 +10793,7 @@ export const data = [
                 "director": [
                     "Тед Петок"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -10805,10 +10805,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Хелен Кэри"
                 ],
                 "worldPremiere": "",
@@ -10857,7 +10857,7 @@ export const data = [
                 "director": [
                     "Майкл Миллс"
                 ],
-                "scenario": [
+                "writer": [
                     "Майкл Миллс"
                 ],
                 "producer": [
@@ -10869,10 +10869,10 @@ export const data = [
                 "composer": [
                     "Даг Рэндл"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -10917,7 +10917,7 @@ export const data = [
                 "director": [
                     "Боб Годфри"
                 ],
-                "scenario": [
+                "writer": [
                     "Стэн Хейуорд",
                     "Джон Ллойд",
                     "Ральф Эдни"
@@ -10931,10 +10931,10 @@ export const data = [
                 "composer": [
                     "Джон Хоуксворт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Тони Фиш"
                 ],
                 "worldPremiere": "19 декабря 1971",
@@ -10983,7 +10983,7 @@ export const data = [
                 "director": [
                     "Ричард Уильямс"
                 ],
-                "scenario": [
+                "writer": [
                     "Чарльз Диккенс"
                 ],
                 "producer": [
@@ -10996,10 +10996,10 @@ export const data = [
                 "composer": [
                     "Тристрам Кэри"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Майкл Крэйн",
                     "Бен Рэйнер"
                 ],
@@ -11044,7 +11044,7 @@ export const data = [
                     "Неделько Драгич",
                     "Альдо Рапарелли"
                 ],
-                "scenario": [
+                "writer": [
                     "Неделько Драгич"
                 ],
                 "producer": [
@@ -11057,10 +11057,10 @@ export const data = [
                 "composer": [
                     "Томислав Симович"
                 ],
-                "artist": [
+                "design": [
                     "Неделько Драгич"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "4 декабря 2010",
@@ -11109,7 +11109,7 @@ export const data = [
                     "Кэролайн Моурис",
                     "Фрэнк Моурис"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -11121,10 +11121,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "13 апреля 1973",
@@ -11165,7 +11165,7 @@ export const data = [
                     "Giulio Gianini",
                     "Эмануэль Лузатти"
                 ],
-                "scenario": [
+                "writer": [
                     "Giulio Gianini",
                     "Эмануэль Лузатти"
                 ],
@@ -11179,10 +11179,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "13 октября 1999",
@@ -11228,7 +11228,7 @@ export const data = [
                 "director": [
                     "Сэм Уайсс"
                 ],
-                "scenario": [
+                "writer": [
                     "Joseph C. Cavella"
                 ],
                 "producer": [
@@ -11241,10 +11241,10 @@ export const data = [
                 "composer": [
                     "Том МакИнтош"
                 ],
-                "artist": [
+                "design": [
                     "Гари Ланд"
                 ],
-                "installation": [
+                "editor": [
                     "Дон Сайкес"
                 ],
                 "worldPremiere": "",
@@ -11295,7 +11295,7 @@ export const data = [
                 "director": [
                     "Петер Фёльдеш"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -11308,10 +11308,10 @@ export const data = [
                 "composer": [
                     "Пьер Ф. Бролт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Пьер Лемелин"
                 ],
                 "worldPremiere": "19 октября 1974",
@@ -11361,7 +11361,7 @@ export const data = [
                     "Джон Лоунсбери",
                     "Вольфганг Райтерман"
                 ],
-                "scenario": [
+                "writer": [
                     "Алан Милн",
                     "Ларри Клеммонс",
                     "Тед Берман",
@@ -11376,10 +11376,10 @@ export const data = [
                 "composer": [
                     "Бадди Бэйкер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "21 октября 1974",
@@ -11423,7 +11423,7 @@ export const data = [
                     "Боб Гардинер",
                     "Уилл Винтон"
                 ],
-                "scenario": [
+                "writer": [
                     "Боб Гардинер"
                 ],
                 "producer": [
@@ -11436,10 +11436,10 @@ export const data = [
                 "composer": [
                     "Билли Скрим"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "31 октября 1974",
@@ -11480,7 +11480,7 @@ export const data = [
                     "Фэйт Хабли",
                     "Джон Хабли"
                 ],
-                "scenario": [
+                "writer": [
                     "Фэйт Хабли",
                     "Джон Хабли",
                     "Saul H. Mendlovitz"
@@ -11495,10 +11495,10 @@ export const data = [
                 "composer": [
                     "Диззи Гиллеспи"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -11541,7 +11541,7 @@ export const data = [
                 "director": [
                     "Иво Малетт"
                 ],
-                "scenario": [
+                "writer": [
                     "Элвин Брукс Уайт"
                 ],
                 "producer": [
@@ -11554,10 +11554,10 @@ export const data = [
                 "composer": [
                     "Элдон Рэтберн"
                 ],
-                "artist": [
+                "design": [
                     "Иво Малетт"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -11606,7 +11606,7 @@ export const data = [
                     "Андре Ледюк",
                     "Bernard Longpré"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -11618,10 +11618,10 @@ export const data = [
                 "composer": [
                     "Пол Кормье"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Клод Джобин"
                 ],
                 "worldPremiere": "16 октября 2004",
@@ -11664,7 +11664,7 @@ export const data = [
                 "director": [
                     "Robert Swarthe"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -11676,10 +11676,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -11725,7 +11725,7 @@ export const data = [
                 "director": [
                     "Боб Годфри"
                 ],
-                "scenario": [
+                "writer": [
                     "Ричард Тейлор",
                     "Боб Годфри",
                     "Джозеф МакГрат",
@@ -11740,10 +11740,10 @@ export const data = [
                 "composer": [
                     "Джон П. Ходж"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Тони Фиш",
                     "Питер Хирн"
                 ],
@@ -11784,7 +11784,7 @@ export const data = [
                 "director": [
                     "Марцель Янкович"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -11796,10 +11796,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Янош Ципоуэр"
                 ],
                 "worldPremiere": "",
@@ -11850,7 +11850,7 @@ export const data = [
                 "director": [
                     "Кэролайн Лиф"
                 ],
-                "scenario": [
+                "writer": [
                     "Мордехай Рихлер"
                 ],
                 "producer": [
@@ -11863,10 +11863,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Кэролайн Лиф"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "27 января 1977",
@@ -11909,7 +11909,7 @@ export const data = [
                 "director": [
                     "Манфредо Манфреди"
                 ],
-                "scenario": [
+                "writer": [
                     "Манфредо Манфреди",
                     "Альдо Рапарелли"
                 ],
@@ -11924,10 +11924,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "2 мая 2009",
@@ -11967,7 +11967,7 @@ export const data = [
                 "director": [
                     "Брюс Петти"
                 ],
-                "scenario": [
+                "writer": [
                     "Брюс Петти"
                 ],
                 "producer": [
@@ -11980,10 +11980,10 @@ export const data = [
                 "composer": [
                     "Майкл Карлос"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Peter Blaxland"
                 ],
                 "worldPremiere": "",
@@ -12030,7 +12030,7 @@ export const data = [
                     "Джон Хабли",
                     "Гарри Трюдо"
                 ],
-                "scenario": [
+                "writer": [
                     "Гарри Трюдо",
                     "Фэйт Хабли",
                     "Джон Хабли"
@@ -12046,10 +12046,10 @@ export const data = [
                 "composer": [
                     "Джеймс Аллен Брюэр"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Sara Fishko"
                 ],
                 "worldPremiere": "27 ноября 1977",
@@ -12098,7 +12098,7 @@ export const data = [
                 "director": [
                     "Ко Хоедеман"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -12111,10 +12111,10 @@ export const data = [
                 "composer": [
                     "Норман Роже"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Жак Друен"
                 ],
                 "worldPremiere": "12 декабря 1977",
@@ -12154,7 +12154,7 @@ export const data = [
                 "director": [
                     "Джимми Пикер"
                 ],
-                "scenario": [
+                "writer": [
                     "Роберт Гроссман",
                     "Джимми Пикер",
                     "Крэйг Уайтакер"
@@ -12170,10 +12170,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Роберт Гроссман"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "10 февраля 1980",
@@ -12222,7 +12222,7 @@ export const data = [
                 "director": [
                     "Ишу Патель"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -12234,10 +12234,10 @@ export const data = [
                 "composer": [
                     "Дж.П. Гхош"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -12282,7 +12282,7 @@ export const data = [
                 "director": [
                     "Уилл Винтон"
                 ],
-                "scenario": [
+                "writer": [
                     "Сьюзэн Шэдберн",
                     "Вашингтон Ирвинг"
                 ],
@@ -12297,10 +12297,10 @@ export const data = [
                     "Пол Джеймисон",
                     "Билли Скрим"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "20 ноября 1978",
@@ -12344,7 +12344,7 @@ export const data = [
                     "Юнис Макколей",
                     "Джон Уэлдон"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Уэлдон",
                     "Юнис Макколей"
                 ],
@@ -12357,10 +12357,10 @@ export const data = [
                 "composer": [
                     "Карл Ду Плесси"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "25 сентября 1999",
@@ -12400,7 +12400,7 @@ export const data = [
                 "director": [
                     "Борге Ринг"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -12412,10 +12412,10 @@ export const data = [
                 "composer": [
                     "Борге Ринг"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -12466,7 +12466,7 @@ export const data = [
                 "director": [
                     "Евгений Федоренко"
                 ],
-                "scenario": [
+                "writer": [
                     "Дерек Ламб",
                     "Бернар Карез",
                     "Raymond Pollender"
@@ -12480,10 +12480,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "24 октября 2008",
@@ -12523,7 +12523,7 @@ export const data = [
                 "director": [
                     "Пол Фирлингер"
                 ],
-                "scenario": [
+                "writer": [
                     "Джеймс Турман",
                     "Пол Фирлингер",
                     "Гарри Аллард",
@@ -12539,10 +12539,10 @@ export const data = [
                 "composer": [
                     "Ларри Голд"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -12586,7 +12586,7 @@ export const data = [
                     "Боб Годфри",
                     "Златко Гргич"
                 ],
-                "scenario": [
+                "writer": [
                     "Стефен Пенн"
                 ],
                 "producer": [
@@ -12600,10 +12600,10 @@ export const data = [
                 "composer": [
                     "Джон Хайд"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Тони Фиш",
                     "Питер Хирн"
                 ],
@@ -12652,7 +12652,7 @@ export const data = [
                 "director": [
                     "Ференц Рофус"
                 ],
-                "scenario": [
+                "writer": [
                     "Ференц Рофус"
                 ],
                 "producer": [
@@ -12664,10 +12664,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Янош Ципоуэр"
                 ],
                 "worldPremiere": "11 июня 1982",
@@ -12707,7 +12707,7 @@ export const data = [
                 "director": [
                     "Фредерик Бак"
                 ],
-                "scenario": [
+                "writer": [
                     "Фредерик Бак"
                 ],
                 "producer": [
@@ -12720,10 +12720,10 @@ export const data = [
                 "composer": [
                     "Норман Роже"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Жак Леруа"
                 ],
                 "worldPremiere": "23 июня 1988",
@@ -12763,7 +12763,7 @@ export const data = [
                 "director": [
                     "Майкл Миллс"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -12775,10 +12775,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "14 февраля 2015",
@@ -12823,7 +12823,7 @@ export const data = [
                 "director": [
                     "Уилл Винтон"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -12835,10 +12835,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "13 июля 1981",
@@ -12887,7 +12887,7 @@ export const data = [
                 "director": [
                     "Фредерик Бак"
                 ],
-                "scenario": [
+                "writer": [
                     "Фредерик Бак"
                 ],
                 "producer": [
@@ -12900,10 +12900,10 @@ export const data = [
                 "composer": [
                     "Норман Роже"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Жак Леруа"
                 ],
                 "worldPremiere": "11 июня 1988",
@@ -12946,7 +12946,7 @@ export const data = [
                 "director": [
                     "Джанет Перльман"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -12959,10 +12959,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -13007,7 +13007,7 @@ export const data = [
                 "director": [
                     "Збигнев Рыбчинский"
                 ],
-                "scenario": [
+                "writer": [
                     "Збигнев Рыбчинский"
                 ],
                 "producer": [
@@ -13019,10 +13019,10 @@ export const data = [
                 "composer": [
                     "Януш Хайдун"
                 ],
-                "artist": [
+                "design": [
                     "Збигнев Рыбчинский"
                 ],
-                "installation": [
+                "editor": [
                     "Барбара Сарноцинская"
                 ],
                 "worldPremiere": "2 июня 1981",
@@ -13062,7 +13062,7 @@ export const data = [
                 "director": [
                     "Уилл Винтон"
                 ],
-                "scenario": [
+                "writer": [
                     "Сьюзэн Шэдберн",
                     "Джон Моррисон"
                 ],
@@ -13075,10 +13075,10 @@ export const data = [
                 "composer": [
                     "Билли Скрим"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "2 января 1982",
@@ -13128,7 +13128,7 @@ export const data = [
                     "Джимми Т. Мураками",
                     "Дайян Джексон"
                 ],
-                "scenario": [
+                "writer": [
                     "Рэймонд Бриггс"
                 ],
                 "producer": [
@@ -13141,10 +13141,10 @@ export const data = [
                 "composer": [
                     "Ховард Блейк"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джон Кэри"
                 ],
                 "worldPremiere": "24 декабря 1982",
@@ -13198,7 +13198,7 @@ export const data = [
                 "director": [
                     "Барни Мэттинсон"
                 ],
-                "scenario": [
+                "writer": [
                     "Чарльз Диккенс",
                     "Барни Мэттинсон",
                     "Тони Марино",
@@ -13213,10 +13213,10 @@ export const data = [
                 "composer": [
                     "Ирвин Костал"
                 ],
-                "artist": [
+                "design": [
                     "Дон Гриффит"
                 ],
-                "installation": [
+                "editor": [
                     "Арметта Джексон-Гамлетт",
                     "Джеймс Мелтон"
                 ],
@@ -13266,7 +13266,7 @@ export const data = [
                 "director": [
                     "Джимми Пикер"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -13278,10 +13278,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -13321,7 +13321,7 @@ export const data = [
                 "director": [
                     "Кэролайн Хэйард"
                 ],
-                "scenario": [
+                "writer": [
                     "Дороти Миддлтон",
                     "Эда Годель Холлинен",
                     "Флоренс Парри Хайди"
@@ -13337,10 +13337,10 @@ export const data = [
                 "composer": [
                     "Alphonso Johnson"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Бет Шпигель"
                 ],
                 "worldPremiere": "",
@@ -13388,7 +13388,7 @@ export const data = [
                 "director": [
                     "Джон Миннис"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Миннис"
                 ],
                 "producer": [
@@ -13401,10 +13401,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "10 апреля 1984",
@@ -13444,7 +13444,7 @@ export const data = [
                 "director": [
                     "Майкл Спорн"
                 ],
-                "scenario": [
+                "writer": [
                     "Уильям Стейг"
                 ],
                 "producer": [
@@ -13458,10 +13458,10 @@ export const data = [
                 "composer": [
                     "Эрнест Труст"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Пол Гань"
                 ],
                 "worldPremiere": "9 июля 1984",
@@ -13513,7 +13513,7 @@ export const data = [
                 "director": [
                     "Ишу Патель"
                 ],
-                "scenario": [
+                "writer": [
                     "Ишу Патель",
                     "Юнис Макколей"
                 ],
@@ -13527,10 +13527,10 @@ export const data = [
                 "composer": [
                     "Георге Замфир"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "21 января 2004",
@@ -13584,7 +13584,7 @@ export const data = [
                 "director": [
                     "Борге Ринг"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -13596,10 +13596,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ханс Перк"
                 ],
                 "worldPremiere": "16 августа 1984",
@@ -13642,7 +13642,7 @@ export const data = [
                 "director": [
                     "Ричард Конди"
                 ],
-                "scenario": [
+                "writer": [
                     "Ричард Конди"
                 ],
                 "producer": [
@@ -13655,10 +13655,10 @@ export const data = [
                 "composer": [
                     "Патрик Годфри"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "4 февраля 1987",
@@ -13701,7 +13701,7 @@ export const data = [
                 "director": [
                     "Элисон Сноуден"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -13713,10 +13713,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "25 октября 2001",
@@ -13767,7 +13767,7 @@ export const data = [
                 "director": [
                     "Джон Лассетер"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Лассетер"
                 ],
                 "producer": [
@@ -13780,10 +13780,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "17 августа 1986",
@@ -13826,7 +13826,7 @@ export const data = [
                 "director": [
                     "Николь Ван Готем"
                 ],
-                "scenario": [
+                "writer": [
                     "Николь Ван Готем"
                 ],
                 "producer": [
@@ -13841,10 +13841,10 @@ export const data = [
                     "Luc Redig",
                     "Руди Ренсон"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Chris Verbiest"
                 ],
                 "worldPremiere": "",
@@ -13887,7 +13887,7 @@ export const data = [
                 "director": [
                     "Боб Стенхауз"
                 ],
-                "scenario": [
+                "writer": [
                     "Ernie Slow"
                 ],
                 "producer": [
@@ -13900,10 +13900,10 @@ export const data = [
                 "composer": [
                     "Steve Robinson"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -13954,7 +13954,7 @@ export const data = [
                 "director": [
                     "Фредерик Бак"
                 ],
-                "scenario": [
+                "writer": [
                     "Жан Робертс",
                     "Жан Жионо"
                 ],
@@ -13968,10 +13968,10 @@ export const data = [
                 "composer": [
                     "Норман Роже"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Норберт Пикеринг"
                 ],
                 "worldPremiere": "13 мая 1987",
@@ -14017,7 +14017,7 @@ export const data = [
                 "director": [
                     "Билл Плимптон"
                 ],
-                "scenario": [
+                "writer": [
                     "Морин МакЭлерон",
                     "Билл Плимптон"
                 ],
@@ -14030,10 +14030,10 @@ export const data = [
                 "composer": [
                     "Морин МакЭлерон"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Stephen Barr"
                 ],
                 "worldPremiere": "22 ноября 2000",
@@ -14080,7 +14080,7 @@ export const data = [
                     "Дэвид Файн",
                     "Элисон Сноуден"
                 ],
-                "scenario": [
+                "writer": [
                     "Элисон Сноуден",
                     "Дэвид Файн"
                 ],
@@ -14095,11 +14095,11 @@ export const data = [
                 "composer": [
                     "Патрик Годфри"
                 ],
-                "artist": [
+                "design": [
                     "Дэвид Файн",
                     "Элисон Сноуден"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "30 апреля 2004",
@@ -14147,7 +14147,7 @@ export const data = [
                 "director": [
                     "Билл Кройер"
                 ],
-                "scenario": [
+                "writer": [
                     "Билл Кройер",
                     "Рич Мур",
                     "Брайан Дженнингс"
@@ -14161,10 +14161,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "15 мая 1988",
@@ -14213,7 +14213,7 @@ export const data = [
                 "director": [
                     "Корделл Баркер"
                 ],
-                "scenario": [
+                "writer": [
                     "Корделл Баркер"
                 ],
                 "producer": [
@@ -14228,10 +14228,10 @@ export const data = [
                 "composer": [
                     "Джон Маккаллок"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "22 июня 1988",
@@ -14280,7 +14280,7 @@ export const data = [
                 "director": [
                     "Джон Лассетер"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Лассетер"
                 ],
                 "producer": [
@@ -14292,10 +14292,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "2 августа 1988",
@@ -14347,7 +14347,7 @@ export const data = [
                     "Кристоф Лауэнштайн",
                     "Вольфганг Лауэнштайн"
                 ],
-                "scenario": [
+                "writer": [
                     "Кристоф Лауэнштайн",
                     "Вольфганг Лауэнштайн"
                 ],
@@ -14360,10 +14360,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "20 мая 1989",
@@ -14403,7 +14403,7 @@ export const data = [
                 "director": [
                     "Марк Бэйкер"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Бэйкер"
                 ],
                 "producer": [
@@ -14415,10 +14415,10 @@ export const data = [
                 "composer": [
                     "Джулиан Нотт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Энни Кокур"
                 ],
                 "worldPremiere": "24 ноября 1992",
@@ -14461,7 +14461,7 @@ export const data = [
                 "director": [
                     "Александр Петров"
                 ],
-                "scenario": [
+                "writer": [
                     "Александр Петров",
                     "Андрей Платонов"
                 ],
@@ -14474,11 +14474,11 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Фёдор Хитрук",
                     "Юрий Норштейн"
                 ],
-                "installation": [
+                "editor": [
                     "Л. Пермякова"
                 ],
                 "worldPremiere": "",
@@ -14529,7 +14529,7 @@ export const data = [
                 "director": [
                     "Ник Парк"
                 ],
-                "scenario": [
+                "writer": [
                     "Ник Парк"
                 ],
                 "producer": [
@@ -14545,10 +14545,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Уильям Энналс"
                 ],
                 "worldPremiere": "15 июля 1989",
@@ -14600,7 +14600,7 @@ export const data = [
                 "director": [
                     "Ник Парк"
                 ],
-                "scenario": [
+                "writer": [
                     "Ник Парк"
                 ],
                 "producer": [
@@ -14612,10 +14612,10 @@ export const data = [
                 "composer": [
                     "Джулиан Нотт"
                 ],
-                "artist": [
+                "design": [
                     "Ник Парк"
                 ],
-                "installation": [
+                "editor": [
                     "Роб Коуплэнд"
                 ],
                 "worldPremiere": "4 ноября 1989",
@@ -14664,7 +14664,7 @@ export const data = [
                 "director": [
                     "Бруно Боццетто"
                 ],
-                "scenario": [
+                "writer": [
                     "Бруно Боццетто"
                 ],
                 "producer": [
@@ -14676,10 +14676,10 @@ export const data = [
                 "composer": [
                     "Роберто Фраттини"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Уго Микели"
                 ],
                 "worldPremiere": "30 августа 1991",
@@ -14733,7 +14733,7 @@ export const data = [
                 "director": [
                     "Кристофер Хинтон"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -14747,10 +14747,10 @@ export const data = [
                 "composer": [
                     "Вэйд Хемсворт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "28 декабря 1991",
@@ -14790,7 +14790,7 @@ export const data = [
                 "director": [
                     "Венди Тилби"
                 ],
-                "scenario": [
+                "writer": [
                     "Венди Тилби"
                 ],
                 "producer": [
@@ -14804,10 +14804,10 @@ export const data = [
                 "composer": [
                     "Крис Крилли"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "28 декабря 1991",
@@ -14853,7 +14853,7 @@ export const data = [
                 "director": [
                     "Дэниэл Гривз"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэниэл Гривз"
                 ],
                 "producer": [
@@ -14865,10 +14865,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Род Хоуик"
                 ],
                 "worldPremiere": "17 сентября 1992",
@@ -14919,7 +14919,7 @@ export const data = [
                 "director": [
                     "Пол Берри"
                 ],
-                "scenario": [
+                "writer": [
                     "Эрнст Теодор Амадей Гофман"
                 ],
                 "producer": [
@@ -14933,10 +14933,10 @@ export const data = [
                 "composer": [
                     "Колин Таунз"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Тереза Линч"
                 ],
                 "worldPremiere": "23 октября 1991",
@@ -14976,7 +14976,7 @@ export const data = [
                 "director": [
                     "Питер Лорд"
                 ],
-                "scenario": [
+                "writer": [
                     "Питер Лорд"
                 ],
                 "producer": [
@@ -14990,10 +14990,10 @@ export const data = [
                 "composer": [
                     "Стюарт Гордон"
                 ],
-                "artist": [
+                "design": [
                     "Питер Лорд"
                 ],
-                "installation": [
+                "editor": [
                     "Найджел Белл"
                 ],
                 "worldPremiere": "9 апреля 1992",
@@ -15033,7 +15033,7 @@ export const data = [
                 "director": [
                     "Барри Пурвс"
                 ],
-                "scenario": [
+                "writer": [
                     "Ernst Loub"
                 ],
                 "producer": [
@@ -15045,10 +15045,10 @@ export const data = [
                 "composer": [
                     "Найджел Хесс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "22 мая 1993",
@@ -15088,7 +15088,7 @@ export const data = [
                 "director": [
                     "Михаэла Павлатова"
                 ],
-                "scenario": [
+                "writer": [
                     "Михаэла Павлатова",
                     "Иржи Кубицек"
                 ],
@@ -15101,10 +15101,10 @@ export const data = [
                 "composer": [
                     "Зузана Наварова"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Гайа Виткова"
                 ],
                 "worldPremiere": "21 января 1994",
@@ -15144,7 +15144,7 @@ export const data = [
                 "director": [
                     "Джоан С. Грац"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -15156,10 +15156,10 @@ export const data = [
                 "composer": [
                     "Джэми Хэггерти"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -15219,7 +15219,7 @@ export const data = [
                 "director": [
                     "Ник Парк"
                 ],
-                "scenario": [
+                "writer": [
                     "Боб Бэйкер",
                     "Брайан Сибли",
                     "Ник Парк",
@@ -15238,10 +15238,10 @@ export const data = [
                 "composer": [
                     "Джулиан Нотт"
                 ],
-                "artist": [
+                "design": [
                     "Ивонн Фокс"
                 ],
-                "installation": [
+                "editor": [
                     "Хелен Гаррард"
                 ],
                 "worldPremiere": "4 сентября 1993",
@@ -15290,7 +15290,7 @@ export const data = [
                 "director": [
                     "Фредерик Бак"
                 ],
-                "scenario": [
+                "writer": [
                     "Фредерик Бак",
                     "Жан Салви",
                     "Юбер Тисон",
@@ -15308,10 +15308,10 @@ export const data = [
                     "Дени Л. Шартран",
                     "Норман Роже"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Норберт Пикеринг"
                 ],
                 "worldPremiere": "27 февраля 1994",
@@ -15351,7 +15351,7 @@ export const data = [
                 "director": [
                     "Марк Бэйкер"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Бэйкер"
                 ],
                 "producer": [
@@ -15363,10 +15363,10 @@ export const data = [
                 "composer": [
                     "Джулиан Нотт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Энни Кокур"
                 ],
                 "worldPremiere": "",
@@ -15406,7 +15406,7 @@ export const data = [
                 "director": [
                     "Боб Годфри"
                 ],
-                "scenario": [
+                "writer": [
                     "Стэн Хейуорд"
                 ],
                 "producer": [
@@ -15418,10 +15418,10 @@ export const data = [
                 "composer": [
                     "Де Вулф"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -15461,7 +15461,7 @@ export const data = [
                 "director": [
                     "Стефен Палмер"
                 ],
-                "scenario": [
+                "writer": [
                     "Стефен Палмер"
                 ],
                 "producer": [
@@ -15474,10 +15474,10 @@ export const data = [
                 "composer": [
                     "Саймон Ламброс"
                 ],
-                "artist": [
+                "design": [
                     "Стефен Палмер"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -15528,7 +15528,7 @@ export const data = [
                 "director": [
                     "Михаэль Дюдок де Вит"
                 ],
-                "scenario": [
+                "writer": [
                     "Михаэль Дюдок де Вит"
                 ],
                 "producer": [
@@ -15541,10 +15541,10 @@ export const data = [
                 "composer": [
                     "Серж Бессе"
                 ],
-                "artist": [
+                "design": [
                     "Михаэль Дюдок де Вит"
                 ],
-                "installation": [
+                "editor": [
                     "Эрве Гишар"
                 ],
                 "worldPremiere": "8 марта 1996",
@@ -15590,7 +15590,7 @@ export const data = [
                 "director": [
                     "Ванесса Шварц"
                 ],
-                "scenario": [
+                "writer": [
                     "Джеффри Льюис"
                 ],
                 "producer": [
@@ -15603,10 +15603,10 @@ export const data = [
                     "Джофф Левин",
                     "Крис Мэни"
                 ],
-                "artist": [
+                "design": [
                     "Ванесса Шварц"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "31 марта 1995",
@@ -15653,7 +15653,7 @@ export const data = [
                     "Дэвид Файн",
                     "Элисон Сноуден"
                 ],
-                "scenario": [
+                "writer": [
                     "Элисон Сноуден",
                     "Дэвид Файн"
                 ],
@@ -15669,10 +15669,10 @@ export const data = [
                 "composer": [
                     "Патрик Годфри"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "27 мая 1998",
@@ -15716,7 +15716,7 @@ export const data = [
                     "Дэвид Стоутен",
                     "Тим Уоттс"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -15729,10 +15729,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Яне Виттакер"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -15772,7 +15772,7 @@ export const data = [
                 "director": [
                     "Эрика Расселл"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -15784,10 +15784,10 @@ export const data = [
                 "composer": [
                     "Чарли Харт"
                 ],
-                "artist": [
+                "design": [
                     "Эрика Расселл"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -15844,7 +15844,7 @@ export const data = [
                 "director": [
                     "Крис Бэйли"
                 ],
-                "scenario": [
+                "writer": [
                     "Тим Хаузер"
                 ],
                 "producer": [
@@ -15858,10 +15858,10 @@ export const data = [
                 "composer": [
                     "Джон Дебни"
                 ],
-                "artist": [
+                "design": [
                     "Иэн Гудинг"
                 ],
-                "installation": [
+                "editor": [
                     "Нэнси Фрэйзен"
                 ],
                 "worldPremiere": "11 августа 1995",
@@ -15913,7 +15913,7 @@ export const data = [
                 "director": [
                     "Ник Парк"
                 ],
-                "scenario": [
+                "writer": [
                     "Боб Бэйкер",
                     "Ник Парк"
                 ],
@@ -15930,10 +15930,10 @@ export const data = [
                     "Джулиан Нотт",
                     "Энн Дадли"
                 ],
-                "artist": [
+                "design": [
                     "Фил Льюис"
                 ],
-                "installation": [
+                "editor": [
                     "Хелен Гаррард"
                 ],
                 "worldPremiere": "24 декабря 1995",
@@ -15988,7 +15988,7 @@ export const data = [
                 "director": [
                     "Джон Дилворт"
                 ],
-                "scenario": [
+                "writer": [
                     "Джон Дилворт"
                 ],
                 "producer": [
@@ -16003,10 +16003,10 @@ export const data = [
                 "composer": [
                     "Стивен А. Солтцмэн"
                 ],
-                "artist": [
+                "design": [
                     "Маргарет Фрэй"
                 ],
-                "installation": [
+                "editor": [
                     "Уильям Хохаузер"
                 ],
                 "worldPremiere": "18 февраля 1996",
@@ -16049,7 +16049,7 @@ export const data = [
                 "director": [
                     "Алексей Харитиди"
                 ],
-                "scenario": [
+                "writer": [
                     "Алексей Харитиди"
                 ],
                 "producer": [
@@ -16062,10 +16062,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     "Алексей Харитиди"
                 ],
-                "installation": [
+                "editor": [
                     "Ольга Василенко"
                 ],
                 "worldPremiere": "23 апреля 2005",
@@ -16105,7 +16105,7 @@ export const data = [
                 "director": [
                     "Крис Ландрет"
                 ],
-                "scenario": [
+                "writer": [
                     "Крис Ландрет",
                     "Робин Барджер"
                 ],
@@ -16119,10 +16119,10 @@ export const data = [
                 "composer": [
                     "Робин Барджер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джордж Левай"
                 ],
                 "worldPremiere": "31 января 2012",
@@ -16167,7 +16167,7 @@ export const data = [
                 "director": [
                     "Питер Лорд"
                 ],
-                "scenario": [
+                "writer": [
                     "Питер Лорд"
                 ],
                 "producer": [
@@ -16182,10 +16182,10 @@ export const data = [
                 "composer": [
                     "Энди Прайс"
                 ],
-                "artist": [
+                "design": [
                     "Жан Сэнгер"
                 ],
-                "installation": [
+                "editor": [
                     "Тэмсин Парри"
                 ],
                 "worldPremiere": "10 апреля 1996",
@@ -16231,7 +16231,7 @@ export const data = [
                 "director": [
                     "Ричард Конди"
                 ],
-                "scenario": [
+                "writer": [
                     "Ричард Конди"
                 ],
                 "producer": [
@@ -16244,10 +16244,10 @@ export const data = [
                 "composer": [
                     "Патрик Годфри"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "7 сентября 1996",
@@ -16293,7 +16293,7 @@ export const data = [
                 "director": [
                     "Тайрон Монтгомери"
                 ],
-                "scenario": [
+                "writer": [
                     "Томас Штельмах"
                 ],
                 "producer": [
@@ -16305,10 +16305,10 @@ export const data = [
                 "composer": [
                     "Вольфрам Спира"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "24 октября 2001",
@@ -16351,7 +16351,7 @@ export const data = [
                 "director": [
                     "Тимоти Хиттл"
                 ],
-                "scenario": [
+                "writer": [
                     "Тимоти Хиттл"
                 ],
                 "producer": [
@@ -16366,10 +16366,10 @@ export const data = [
                     "Нэйтан Штурм",
                     "..."
                 ],
-                "artist": [
+                "design": [
                     "Том Пруст"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "",
@@ -16417,7 +16417,7 @@ export const data = [
                 "director": [
                     "Джоанна Куинн"
                 ],
-                "scenario": [
+                "writer": [
                     "Джоанна Куинн",
                     "Пози Симмондс"
                 ],
@@ -16431,12 +16431,12 @@ export const data = [
                 "composer": [
                     "Дэнни Чанг"
                 ],
-                "artist": [
+                "design": [
                     "Джоанна Куинн",
                     "Sara Fairbank-Williams",
                     "Пол Осборн"
                 ],
-                "installation": [
+                "editor": [
                     "Джейн Мёрелл",
                     "Уильям Освальд"
                 ],
@@ -16489,7 +16489,7 @@ export const data = [
                 "director": [
                     "Сильвен Шомэ"
                 ],
-                "scenario": [
+                "writer": [
                     "Сильвен Шомэ",
                     "Дэвид Фридман",
                     "Алан Джилби"
@@ -16506,10 +16506,10 @@ export const data = [
                 "composer": [
                     "Жан Корти"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Чантал Кольбер",
                     "Хелен Джирард"
                 ],
@@ -16562,7 +16562,7 @@ export const data = [
                 "director": [
                     "Стив Мур"
                 ],
-                "scenario": [
+                "writer": [
                     "Дэн О’Шэннон"
                 ],
                 "producer": [
@@ -16574,10 +16574,10 @@ export const data = [
                 "composer": [
                     "Бенни Уоллес"
                 ],
-                "artist": [
+                "design": [
                     "Джон Клебер"
                 ],
-                "installation": [
+                "editor": [
                     "Коллин Халсли",
                     "Гарри Хитнер"
                 ],
@@ -16624,7 +16624,7 @@ export const data = [
                 "director": [
                     "Ян Пинкава"
                 ],
-                "scenario": [
+                "writer": [
                     "Ян Пинкава"
                 ],
                 "producer": [
@@ -16638,10 +16638,10 @@ export const data = [
                 "composer": [
                     "Гас Визо"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Джим Каллетт"
                 ],
                 "worldPremiere": "25 ноября 1997",
@@ -16684,7 +16684,7 @@ export const data = [
                 "director": [
                     "Александр Петров"
                 ],
-                "scenario": [
+                "writer": [
                     "Александр Петров",
                     "Марина Вишневецкая"
                 ],
@@ -16699,10 +16699,10 @@ export const data = [
                 "composer": [
                     "Евгения Смольянинова"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ирина Колотикова"
                 ],
                 "worldPremiere": "",
@@ -16759,7 +16759,7 @@ export const data = [
                 "director": [
                     "Крис Уэдж"
                 ],
-                "scenario": [
+                "writer": [
                     "Крис Уэдж"
                 ],
                 "producer": [
@@ -16772,10 +16772,10 @@ export const data = [
                     "Кэтлин Бреннан",
                     "Том Уэйтс"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Тим Нордквист"
                 ],
                 "worldPremiere": "2 ноября 1998",
@@ -16818,7 +16818,7 @@ export const data = [
                 "director": [
                     "Марк Осборн"
                 ],
-                "scenario": [
+                "writer": [
                     "Марк Осборн"
                 ],
                 "producer": [
@@ -16833,11 +16833,11 @@ export const data = [
                 "composer": [
                     "New Order"
                 ],
-                "artist": [
+                "design": [
                     "Рик Орнер",
                     "Николас Петерсон"
                 ],
-                "installation": [
+                "editor": [
                     "Марк Осборн"
                 ],
                 "worldPremiere": "23 ноября 1998",
@@ -16880,7 +16880,7 @@ export const data = [
                     "Дэйв Энтробус",
                     "..."
                 ],
-                "scenario": [
+                "writer": [
                     "Джеффри Чосер",
                     "Джонатан Маерсон"
                 ],
@@ -16896,12 +16896,12 @@ export const data = [
                 "composer": [
                     "Бен Парк"
                 ],
-                "artist": [
+                "design": [
                     "Джоанна Куинн",
                     "Ольга Титова",
                     "Сергей Олифиренко"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "21 декабря 1998",
@@ -16950,7 +16950,7 @@ export const data = [
                 "director": [
                     "Марк Бэйкер"
                 ],
-                "scenario": [
+                "writer": [
                     "—"
                 ],
                 "producer": [
@@ -16962,10 +16962,10 @@ export const data = [
                 "composer": [
                     "Джулиан Нотт"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Энни Кокур"
                 ],
                 "worldPremiere": "18 октября 1999",
@@ -17009,7 +17009,7 @@ export const data = [
                     "Стефан Фьелдмарк",
                     "Карстен Килерих"
                 ],
-                "scenario": [
+                "writer": [
                     "Стефан Фьелдмарк"
                 ],
                 "producer": [
@@ -17022,10 +17022,10 @@ export const data = [
                 "composer": [
                     "Сёрен Хюлльгор"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Хенрик Линдеманн"
                 ],
                 "worldPremiere": "",
@@ -17082,7 +17082,7 @@ export const data = [
                 "director": [
                     "Александр Петров"
                 ],
-                "scenario": [
+                "writer": [
                     "Александр Петров",
                     "Эрнест Хемингуэй"
                 ],
@@ -17099,10 +17099,10 @@ export const data = [
                     "Дени Л. Шартран",
                     "Норман Роже"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Дэнис Папильон"
                 ],
                 "worldPremiere": "30 июня 1999",
@@ -17158,7 +17158,7 @@ export const data = [
                     "Аманда Форбис",
                     "Венди Тилби"
                 ],
-                "scenario": [
+                "writer": [
                     "Венди Тилби"
                 ],
                 "producer": [
@@ -17171,10 +17171,10 @@ export const data = [
                 "composer": [
                     "Джудит Грубер-Стицер"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Аманда Форбис",
                     "Венди Тилби"
                 ],
@@ -17183,7 +17183,7 @@ export const data = [
                 "ratingMpaa": "",
                 "filmLength": "10 мин",
                 "description": "Короткометражка без слов повествует об одном дне из жизни свинки Руби, чья радостная суета и «поющее» настроение было прервано страшным инцидентом, после которого главная героиня пытается укрыться от чар города и пережить потрясение.",
-                "video": "https://www.kinopoisk.ru/film/50867/",
+                "video": "https://vkvideo.ru/video-120269742_456239104",
                 "webUrl": "https://www.kinopoisk.ru/film/50867/"
             },
             {
@@ -17221,7 +17221,7 @@ export const data = [
                 "director": [
                     "Питер Пик"
                 ],
-                "scenario": [
+                "writer": [
                     "Питер Пик"
                 ],
                 "producer": [
@@ -17238,10 +17238,10 @@ export const data = [
                 "composer": [
                     "Энди Прайс"
                 ],
-                "artist": [
+                "design": [
                     "Питер Пик"
                 ],
-                "installation": [
+                "editor": [
                     "Ник Аптон"
                 ],
                 "worldPremiere": "1 октября 1999",
@@ -17290,7 +17290,7 @@ export const data = [
                 "director": [
                     "Торилл Коув"
                 ],
-                "scenario": [
+                "writer": [
                     "Торилл Коув"
                 ],
                 "producer": [
@@ -17304,10 +17304,10 @@ export const data = [
                 "composer": [
                     "Кевин Дин"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "30 мая 2001",
@@ -17315,7 +17315,7 @@ export const data = [
                 "ratingMpaa": "",
                 "filmLength": "11 мин",
                 "description": "Когда-то бабушка работала при норвежском короле - она гладила его рубашки. С наступлением войны, все изменилось. Теперь ей приходилось раскладывать по полочкам форму противника. Но новая работа только вдохновляла старушку - она решила заняться изготовлением рубашек для партизан.",
-                "video": "https://www.kinopoisk.ru/film/160788/",
+                "video": "https://vkvideo.ru/video-31920686_456240711",
                 "webUrl": "https://www.kinopoisk.ru/film/160788/"
             },
             {
@@ -17353,7 +17353,7 @@ export const data = [
                 "director": [
                     "Пол Дриссен"
                 ],
-                "scenario": [
+                "writer": [
                     "Пол Дриссен"
                 ],
                 "producer": [
@@ -17366,10 +17366,10 @@ export const data = [
                 "composer": [
                     "Michiel Heeneman"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ганс ван дер Стин"
                 ],
                 "worldPremiere": "7 марта 2009",
@@ -17377,7 +17377,7 @@ export const data = [
                 "ratingMpaa": "",
                 "filmLength": "11 мин",
                 "description": "Одна из женщин вот-вот упадет с крыши, другую — переедет поезд, третья — та самая Белоснежка, которая может так и не дождаться оживляющего поцелуя.",
-                "video": "https://www.kinopoisk.ru/film/256667/",
+                "video": "https://vkvideo.ru/video140140535_456239612",
                 "webUrl": "https://www.kinopoisk.ru/film/256667/"
             },
         ]
@@ -17417,7 +17417,7 @@ export const data = [
                 "director": [
                     "Стеффен Шаффлер"
                 ],
-                "scenario": [
+                "writer": [
                     "Аннетта Шаффлер",
                     "Стеффен Шаффлер",
                     "Даниель Дефо"
@@ -17431,10 +17431,10 @@ export const data = [
                 "composer": [
                     "Кристиан Гейн"
                 ],
-                "artist": [
+                "design": [
                     "Стеффен Шаффлер"
                 ],
-                "installation": [
+                "editor": [
                     "Аннетта Шаффлер",
                     "Стеффен Шаффлер"
                 ],
@@ -17443,7 +17443,7 @@ export const data = [
                 "ratingMpaa": "",
                 "filmLength": "15 мин",
                 "description": "Эпидемия чумы в Лондоне 1665 года. Мастер по изготовлению париков, реально оценивая возможность заражения, принимает решение закрыться от всего мира в своей мастерской. Он избегает инфекции, но при этом ничем не может помочь, например, соседской девочке, которую запирают в чумном доме, поскольку её мать умерла от чумы. В конечном итоге, это добровольное заточение сводит мастера париков с ума…",
-                "video": "https://www.kinopoisk.ru/film/19015/",
+                "video": "https://vkvideo.ru/video140140535_456239611",
                 "webUrl": "https://www.kinopoisk.ru/film/19015/"
             },
             {
@@ -17481,7 +17481,7 @@ export const data = [
                 "director": [
                     "Дон Херцфельд"
                 ],
-                "scenario": [
+                "writer": [
                     "Дон Херцфельд"
                 ],
                 "producer": [
@@ -17493,10 +17493,10 @@ export const data = [
                 "composer": [
                     "—"
                 ],
-                "artist": [
+                "design": [
                     ""
                 ],
-                "installation": [
+                "editor": [
                     "Ребекка Молин"
                 ],
                 "worldPremiere": "25 июля 2000",
@@ -17504,7 +17504,7 @@ export const data = [
                 "ratingMpaa": "",
                 "filmLength": "9 мин",
                 "description": "Нарезка небольших скетчей от Дона Херцфельда, которого наняли для создания рекламных роликов.",
-                "video": "https://www.kinopoisk.ru/film/223983/",
+                "video": "https://www.youtube.com/embed/ubxRBlbC-nM?si=sjTnY_X66yDfB-_i",
                 "webUrl": "https://www.kinopoisk.ru/film/223983/"
             },
             {
@@ -17545,7 +17545,7 @@ export const data = [
                 "director": [
                     "Михаэль Дюдок де Вит"
                 ],
-                "scenario": [
+                "writer": [
                     "Михаэль Дюдок де Вит"
                 ],
                 "producer": [
@@ -17559,10 +17559,10 @@ export const data = [
                     "Дени Л. Шартран",
                     "Норман Роже"
                 ],
-                "artist": [
+                "design": [
                     "Михаэль Дюдок де Вит"
                 ],
-                "installation": [
+                "editor": [
                     ""
                 ],
                 "worldPremiere": "27 мая 2001",
@@ -17613,7 +17613,7 @@ export const data = [
         "director": [
             "Ральф Эгглстон"
         ],
-        "scenario": [
+        "writer": [
             "Ральф Эгглстон"
         ],
         "producer": [
@@ -17626,10 +17626,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Том Фриман",
             "Дженнифер Лео Русс"
         ],
@@ -17673,7 +17673,7 @@ export const data = [
         "director": [
             "Джозеф Е. Меридет"
         ],
-        "scenario": [
+        "writer": [
             "Джозеф Е. Меридет"
         ],
         "producer": [
@@ -17686,10 +17686,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             "Джозеф Е. Меридет"
         ],
-        "installation": [
+        "editor": [
             "Крис Эллиотт",
             "Майк Вебер"
         ],
@@ -17739,7 +17739,7 @@ export const data = [
         "director": [
             "Корделл Баркер"
         ],
-        "scenario": [
+        "writer": [
             "Корделл Баркер"
         ],
         "producer": [
@@ -17754,10 +17754,10 @@ export const data = [
         "composer": [
             "Люк Префонтен"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "23 сентября 2001",
@@ -17803,7 +17803,7 @@ export const data = [
         "director": [
             "Рори Робинсон"
         ],
-        "scenario": [
+        "writer": [
             "Рори Робинсон"
         ],
         "producer": [
@@ -17816,10 +17816,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Рори Робинсон"
         ],
         "worldPremiere": "11 октября 2001",
@@ -17862,7 +17862,7 @@ export const data = [
         "director": [
             "Катал Гаффни"
         ],
-        "scenario": [
+        "writer": [
             "—"
         ],
         "producer": [
@@ -17875,10 +17875,10 @@ export const data = [
         "composer": [
             "Деррен Хендли"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Дарра О’Коннелл"
         ],
         "worldPremiere": "5 июня 2002",
@@ -17926,7 +17926,7 @@ export const data = [
         "director": [
             "Томаш Багиньский"
         ],
-        "scenario": [
+        "writer": [
             "Томаш Багиньский",
             "Яцек Дукай"
         ],
@@ -17941,10 +17941,10 @@ export const data = [
         "composer": [
             "Адам Розек"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "24 марта 2002",
@@ -17994,7 +17994,7 @@ export const data = [
             "Пит Доктер",
             "Роджер Гулд"
         ],
-        "scenario": [
+        "writer": [
             "Пит Доктер",
             "Джефф Пиджон",
             "Роджер Гулд",
@@ -18010,10 +18010,10 @@ export const data = [
         "composer": [
             "Рэнди Ньюман"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Роберт Грэмджонс"
         ],
         "worldPremiere": "24 мая 2002",
@@ -18065,7 +18065,7 @@ export const data = [
         "director": [
             "Эрик Армстронг"
         ],
-        "scenario": [
+        "writer": [
             "Джефф Уолвертон"
         ],
         "producer": [
@@ -18077,10 +18077,10 @@ export const data = [
         "composer": [
             "Чэнс Томас"
         ],
-        "artist": [
+        "design": [
             "Ярроу Чейни"
         ],
-        "installation": [
+        "editor": [
             "Роберт Гордон"
         ],
         "worldPremiere": "3 июня 2002",
@@ -18129,7 +18129,7 @@ export const data = [
         "director": [
             "Кодзи Ямамура"
         ],
-        "scenario": [
+        "writer": [
             "Сёдзи Ёнэмура"
         ],
         "producer": [
@@ -18142,10 +18142,10 @@ export const data = [
             "Такэхару Кунимото",
             "Syzygys"
         ],
-        "artist": [
+        "design": [
             "Кодзи Ямамура"
         ],
-        "installation": [
+        "editor": [
             "Кодзи Ямамура"
         ],
         "worldPremiere": "3 декабря 2002",
@@ -18193,7 +18193,7 @@ export const data = [
             "Arvid Uibel",
             "Хайди Уиттлингер"
         ],
-        "scenario": [
+        "writer": [
             "Крис Стеннер",
             "Arvid Uibel",
             "Хайди Уиттлингер"
@@ -18212,10 +18212,10 @@ export const data = [
         "composer": [
             "Роланд Хэцки"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Крис Стеннер",
             "Arvid Uibel",
             "Хайди Уиттлингер"
@@ -18271,7 +18271,7 @@ export const data = [
         "director": [
             "Карлос Салдана"
         ],
-        "scenario": [
+        "writer": [
             "Уильям Х. Фрейк III",
             "Дэн Шефелман",
             "Морони",
@@ -18289,10 +18289,10 @@ export const data = [
         "composer": [
             "Майкл А. Ливайн"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Тим Нордквист"
         ],
         "worldPremiere": "14 октября 2002",
@@ -18335,7 +18335,7 @@ export const data = [
         "director": [
             "Доминик Монфери"
         ],
-        "scenario": [
+        "writer": [
             "Сальвадор Дали",
             "Джон Хенч",
             "Дональд В. Эрнст"
@@ -18352,10 +18352,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             "Тьерри Форнье"
         ],
-        "installation": [
+        "editor": [
             "Джессика Эмбиндер-Рохас"
         ],
         "worldPremiere": "2 июня 2003",
@@ -18363,7 +18363,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "7 мин",
         "description": "Короткометражный сюрреалистический мультфильм, основанный на балладе Армандо Домингеса.",
-        "video": "https://www.kinopoisk.ru/film/46975/",
+        "video": "https://vkvideo.ru/video93197064_456239612",
         "webUrl": "https://www.kinopoisk.ru/film/46975/"
       },
       {
@@ -18401,7 +18401,7 @@ export const data = [
         "director": [
             "Адам Бенжамин Эллиот"
         ],
-        "scenario": [
+        "writer": [
             "Адам Бенжамин Эллиот"
         ],
         "producer": [
@@ -18413,10 +18413,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Билл Мерфи"
         ],
         "worldPremiere": "19 июня 2003",
@@ -18424,7 +18424,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "23 мин",
         "description": "История грустной и странной жизни Харви, родившегося в Европе и после серии неудач переехавшего в Австралию. Единственной постоянной вещью в его жизни остается книжка, куда он записывает все события его жизни.",
-        "video": "https://www.kinopoisk.ru/film/70922/",
+        "video": "https://vkvideo.ru/video-206323208_456239936",
         "webUrl": "https://www.kinopoisk.ru/film/70922/"
       },
       {
@@ -18466,7 +18466,7 @@ export const data = [
             "Бад Лакки",
             "Роджер Гулд"
         ],
-        "scenario": [
+        "writer": [
             "Бад Лакки"
         ],
         "producer": [
@@ -18479,10 +18479,10 @@ export const data = [
         "composer": [
             "Бад Лакки"
         ],
-        "artist": [
+        "design": [
             "Бад Лакки"
         ],
-        "installation": [
+        "editor": [
             "Стив Блум"
         ],
         "worldPremiere": "1 декабря 2003",
@@ -18528,7 +18528,7 @@ export const data = [
         "director": [
             "Кристофер Хинтон"
         ],
-        "scenario": [
+        "writer": [
             "—"
         ],
         "producer": [
@@ -18540,10 +18540,10 @@ export const data = [
         "composer": [
             "Терри Джо Родригез"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "18 сентября 2004",
@@ -18551,7 +18551,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "4 мин",
         "description": "Семья собралась на рыбалку, но доехать до места назначения оказалась не так просто.",
-        "video": "https://www.kinopoisk.ru/film/70923/",
+        "video": "https://vkvideo.ru/video-58237268_456239737",
         "webUrl": "https://www.kinopoisk.ru/film/70923/"
       },
     ]
@@ -18600,7 +18600,7 @@ export const data = [
         "director": [
             "Майк Гэбриел"
         ],
-        "scenario": [
+        "writer": [
             "Майк Гэбриел",
             "Джо Грант"
         ],
@@ -18616,10 +18616,10 @@ export const data = [
         "composer": [
             "Освальдо Руджеро"
         ],
-        "artist": [
+        "design": [
             "Майк Гэбриел"
         ],
-        "installation": [
+        "editor": [
             "Джессика Эмбиндер-Рохас"
         ],
         "worldPremiere": "6 марта 2004",
@@ -18671,7 +18671,7 @@ export const data = [
         "director": [
             "Крис Ландрет"
         ],
-        "scenario": [
+        "writer": [
             "—"
         ],
         "producer": [
@@ -18687,10 +18687,10 @@ export const data = [
             "Фергус Марш",
             "Майкл Уайт"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Алан Коуд"
         ],
         "worldPremiere": "17 мая 2004",
@@ -18698,7 +18698,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "14 мин",
         "description": "Мультипликационное интервью с талантливым канадским аниматором Райаном Ларкиным, чьи две работы «В движении» и «Уличная музыка» имели большой успех в 60-70-ых годах двадцатого века. Теперь Райан - пожилой человек, у которого проблемы с алкоголем, творчеством и деньгами...",
-        "video": "https://www.kinopoisk.ru/film/88673/",
+        "video": "https://vkvideo.ru/video-167471844_456239217",
         "webUrl": "https://www.kinopoisk.ru/film/88673/"
       },
       {
@@ -18739,7 +18739,7 @@ export const data = [
         "director": [
             "Sejong Park"
         ],
-        "scenario": [
+        "writer": [
             "Sejong Park"
         ],
         "producer": [
@@ -18751,10 +18751,10 @@ export const data = [
         "composer": [
             "Джеймс К. Ли"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Адриан Ростиролла"
         ],
         "worldPremiere": "8 июня 2004",
@@ -18762,7 +18762,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "8 мин",
         "description": "События разворачиваются в начале 50-х годов прошлого столетия, в разгар войны между Северной и Южной Кореи. Главный герой шестилетний мальчик, с нетерпением ожидающий возвращения своего отца с фронта...",
-        "video": "https://www.kinopoisk.ru/film/88671/",
+        "video": "https://vkvideo.ru/video662637928_456239050",
         "webUrl": "https://www.kinopoisk.ru/film/88671/"
       },
       {
@@ -18797,7 +18797,7 @@ export const data = [
         "director": [
             "Джефф Фаулер"
         ],
-        "scenario": [
+        "writer": [
             "Джефф Фаулер",
             "Keith Lango",
             "Тим Миллер"
@@ -18814,10 +18814,10 @@ export const data = [
             "Роб Кейрнс",
             "Тони Моралес"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "30 сентября 2004",
@@ -18860,7 +18860,7 @@ export const data = [
         "director": [
             "Билл Плимптон"
         ],
-        "scenario": [
+        "writer": [
             "Билл Плимптон"
         ],
         "producer": [
@@ -18872,10 +18872,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Бильяна Лабович"
         ],
         "worldPremiere": "14 октября 2004",
@@ -18883,7 +18883,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "5 мин",
         "description": "Мультфильм о собаке-параноике. Толстого пса, которого на поводке ведет хозяин, раздражает все — от маленькой птички, спокойно сидящей в своем гнезде, до зеленого кузнечика. При виде каждого нового «объекта» пес подпрыгивает выше своей головы, но больше ничего сделать не может — он на привязи.",
-        "video": "https://www.kinopoisk.ru/film/84842/",
+        "video": "https://vkvideo.ru/video-212527103_456239231",
         "webUrl": "https://www.kinopoisk.ru/film/84842/"
       },
     ]
@@ -18923,7 +18923,7 @@ export const data = [
         "director": [
             "Джон Кэйнмэйкер"
         ],
-        "scenario": [
+        "writer": [
             "Джон Кэйнмэйкер",
             "Джозеф Кеннеди",
             "Пегги Штерн"
@@ -18938,10 +18938,10 @@ export const data = [
         "composer": [
             "Рон Садофф"
         ],
-        "artist": [
+        "design": [
             "Джон Кэйнмэйкер"
         ],
-        "installation": [
+        "editor": [
             "Дэвид Мелмэн"
         ],
         "worldPremiere": "5 января 2005",
@@ -18949,7 +18949,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "28 мин",
         "description": "История итальянского эмигранта, полная разрушенных надежд, воспоминаний, звуковых записей, стенограмм из суда, домашнего видео и фотографий, передана через ассоциативную игру символов.",
-        "video": "https://www.kinopoisk.ru/film/102323/",
+        "video": "https://vkvideo.ru/video662637928_456239042",
         "webUrl": "https://www.kinopoisk.ru/film/102323/"
       },
       {
@@ -18990,7 +18990,7 @@ export const data = [
         "director": [
             "Энтони Лукас"
         ],
-        "scenario": [
+        "writer": [
             "Марк Ширрефс",
             "Энтони Лукас"
         ],
@@ -19006,10 +19006,10 @@ export const data = [
         "composer": [
             "Брюс Роулэнд"
         ],
-        "artist": [
+        "design": [
             "Энтони Лукас"
         ],
-        "installation": [
+        "editor": [
             "Дэвид Тейт"
         ],
         "worldPremiere": "20 января 2005",
@@ -19017,7 +19017,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "26 мин",
         "description": "Джаспер Морелло, в прошлом совершивший ужасную ошибку, отправляется в путешествие, прочь из зараженного города. Он надеется, что во время этого путешествия сможет искупить свою вину.",
-        "video": "https://www.kinopoisk.ru/film/110788/",
+        "video": "https://vkvideo.ru/video-206323208_456239937",
         "webUrl": "https://www.kinopoisk.ru/film/110788/"
       },
       {
@@ -19052,7 +19052,7 @@ export const data = [
         "director": [
             "Шэрон Колман"
         ],
-        "scenario": [
+        "writer": [
             "Шэрон Колман"
         ],
         "producer": [
@@ -19064,10 +19064,10 @@ export const data = [
         "composer": [
             "Питер Гослинг"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Агнешка Лиггетт"
         ],
         "worldPremiere": "23 февраля 2005",
@@ -19075,7 +19075,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "7 мин",
         "description": "В поисках cпокойного местечка барсук угодил в ракетную шахту и совершенно случайно запустил ракету с ядерной боеголовкой.",
-        "video": "https://www.kinopoisk.ru/film/178497/",
+        "video": "https://vkvideo.ru/video-31920686_456240551",
         "webUrl": "https://www.kinopoisk.ru/film/178497/"
       },
       {
@@ -19116,7 +19116,7 @@ export const data = [
         "director": [
             "Шэйн Экер"
         ],
-        "scenario": [
+        "writer": [
             "Шэйн Экер"
         ],
         "producer": [
@@ -19128,10 +19128,10 @@ export const data = [
         "composer": [
             "Эрик Олсен"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "21 апреля 2005",
@@ -19139,7 +19139,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "11 мин",
         "description": "Тряпичная кукла, носящая имя-метку «9», борется с металлическим монстром, который крадет души кукол с помощью странного аппарата.",
-        "video": "https://www.kinopoisk.ru/film/94286/",
+        "video": "https://vkvideo.ru/video-127752789_456239028",
         "webUrl": "https://www.kinopoisk.ru/film/94286/"
       },
       {
@@ -19181,7 +19181,7 @@ export const data = [
             "Марк Эндрюс",
             "Эндрю Хименез"
         ],
-        "scenario": [
+        "writer": [
             "Эндрю Хименез",
             "Марк Эндрюс"
         ],
@@ -19196,11 +19196,11 @@ export const data = [
         "composer": [
             "Майкл Джаккино"
         ],
-        "artist": [
+        "design": [
             "Роналдо Дель Кармен",
             "Робин Купер"
         ],
-        "installation": [
+        "editor": [
             "Стив Блум"
         ],
         "worldPremiere": "11 июня 2005",
@@ -19245,7 +19245,7 @@ export const data = [
         "director": [
             "Геза М. Тот"
         ],
-        "scenario": [
+        "writer": [
             "Геза М. Тот"
         ],
         "producer": [
@@ -19260,10 +19260,10 @@ export const data = [
         "composer": [
             "Аттила Паксэй"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Геза М. Тот"
         ],
         "worldPremiere": "1 мая 2005",
@@ -19271,7 +19271,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "5 мин",
         "description": "За пять минут до своего большого выступления Маэстро и его настойчивый механический помощник готовятся. Пока часы тикают, жизнь на вершине не так уж и хороша.",
-        "video": "https://www.kinopoisk.ru/film/277341/",
+        "video": "https://vkvideo.ru/video55635543_456239032",
         "webUrl": "https://www.kinopoisk.ru/film/277341/"
       },
       {
@@ -19309,7 +19309,7 @@ export const data = [
         "director": [
             "Торилл Коув"
         ],
-        "scenario": [
+        "writer": [
             "Торилл Коув"
         ],
         "producer": [
@@ -19324,10 +19324,10 @@ export const data = [
         "composer": [
             "Кевин Дин"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Филлис Льюис"
         ],
         "worldPremiere": "15 февраля 2006",
@@ -19335,7 +19335,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "15 мин",
         "description": "История о том, как простой датский поэт нашел свое вдохновение и любовь.",
-        "video": "https://www.kinopoisk.ru/film/276701/",
+        "video": "https://vkvideo.ru/video-31920686_456240709",
         "webUrl": "https://www.kinopoisk.ru/film/276701/"
       },
       {
@@ -19376,7 +19376,7 @@ export const data = [
         "director": [
             "Роджер Аллерс"
         ],
-        "scenario": [
+        "writer": [
             "Ханс Кристиан Андерсен",
             "Роджер Аллерс",
             "Эд Гомберт",
@@ -19393,10 +19393,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             "Майкл Хемфрис"
         ],
-        "installation": [
+        "editor": [
             "Джессика Эмбиндер-Рохас"
         ],
         "worldPremiere": "7 сентября 2006",
@@ -19452,7 +19452,7 @@ export const data = [
             "Крис Рено",
             "Майк Тёрмайер"
         ],
-        "scenario": [
+        "writer": [
             "Крис Рено",
             "Майкл Дж. Уилсон"
         ],
@@ -19468,10 +19468,10 @@ export const data = [
         "composer": [
             "Кристофер Уорд"
         ],
-        "artist": [
+        "design": [
             "Майкл Кнапп"
         ],
-        "installation": [
+        "editor": [
             "Джеймс Палумбо"
         ],
         "worldPremiere": "14 сентября 2006",
@@ -19520,7 +19520,7 @@ export const data = [
         "director": [
             "Гари Ридстром"
         ],
-        "scenario": [
+        "writer": [
             "Гари Ридстром",
             "Джефф Пиджон",
             "Максвелл Брэйс IV"
@@ -19536,10 +19536,10 @@ export const data = [
         "composer": [
             "Майкл Джаккино"
         ],
-        "artist": [
+        "design": [
             "Марк Корделл Холмс"
         ],
-        "installation": [
+        "editor": [
             "Стив Блум"
         ],
         "worldPremiere": "14 октября 2006",
@@ -19593,7 +19593,7 @@ export const data = [
         "director": [
             "Александр Петров"
         ],
-        "scenario": [
+        "writer": [
             "Иван Шмелёв",
             "Александр Петров"
         ],
@@ -19608,11 +19608,11 @@ export const data = [
             "Норман Роже",
             "Денис Шартран"
         ],
-        "artist": [
+        "design": [
             "Наталья Гурьянова",
             "Изольда Солодова"
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "27 августа 2006",
@@ -19670,7 +19670,7 @@ export const data = [
         "director": [
             "Сьюзи Темплтон"
         ],
-        "scenario": [
+        "writer": [
             "Марианела Мальдонадо",
             "Сергей Прокофьев",
             "Сьюзи Темплтон"
@@ -19688,13 +19688,13 @@ export const data = [
         "composer": [
             "Сергей Прокофьев"
         ],
-        "artist": [
+        "design": [
             "Джейн Мортон",
             "Марек Скробецкий",
             "Войцех Яворский",
             "..."
         ],
-        "installation": [
+        "editor": [
             "Тони Фиш",
             "Сьюзи Темплтон"
         ],
@@ -19747,7 +19747,7 @@ export const data = [
         "director": [
             "Самуэль Турно"
         ],
-        "scenario": [
+        "writer": [
             "Самуэль Турно",
             "Karine Binaux",
             "Оливье Гилберт"
@@ -19762,10 +19762,10 @@ export const data = [
         "composer": [
             "Режис Сантаньелло"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Aurélie Speranza"
         ],
         "worldPremiere": "27 января 2007",
@@ -19773,7 +19773,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "9 мин",
         "description": "Одной лунной ночью священник приехал в дом к местному скряге. Случай привел его вовремя: если бы не подоспел служитель церкви, старик упал бы со стула, добираясь до бутылки коньяка, стоявшей на высокой полке. У священника были свои цели столь позднего визита: он собирался продать скупцу капсулу, которая домчит его до рая, когда придет время...",
-        "video": "https://www.kinopoisk.ru/film/403000/",
+        "video": "https://vkvideo.ru/video142673862_456241656",
         "webUrl": "https://www.kinopoisk.ru/film/403000/"
       },
       {
@@ -19814,7 +19814,7 @@ export const data = [
         "director": [
             "Джош Раскин"
         ],
-        "scenario": [
+        "writer": [
             "Джош Раскин"
         ],
         "producer": [
@@ -19826,10 +19826,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "22 марта 2007",
@@ -19837,7 +19837,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "5 мин",
         "description": "Экранизация интервью Джона Леннона о мире, которое взял у него 14-летний мальчик, пробравшись к нему в номер.",
-        "video": "https://www.kinopoisk.ru/film/403002/",
+        "video": "https://vkvideo.ru/video236984562_456241291",
         "webUrl": "https://www.kinopoisk.ru/film/403002/"
       },
       {
@@ -19873,7 +19873,7 @@ export const data = [
             "Крис Лэвис",
             "Мацек Щербовски"
         ],
-        "scenario": [
+        "writer": [
             "Крис Лэвис",
             "Мацек Щербовски"
         ],
@@ -19888,11 +19888,11 @@ export const data = [
             "Дэвид Брайант",
             "Жан-Фредерик Мессье"
         ],
-        "artist": [
+        "design": [
             "Лиа Карлсон",
             "Лори Мехер"
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "19 мая 2007",
@@ -19900,7 +19900,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "17 мин",
         "description": "История рассказывает о пугающем ночном путешествии героини на поезде, летящем через темный лес.",
-        "video": "https://www.kinopoisk.ru/film/403001/",
+        "video": "https://vkvideo.ru/video295140083_456240187",
         "webUrl": "https://www.kinopoisk.ru/film/403001/"
       },
     ]
@@ -19943,7 +19943,7 @@ export const data = [
             "Оливье Делабарр",
             "..."
         ],
-        "scenario": [
+        "writer": [
             "Жюльен Бокабейе",
             "Франсуа-Ксавье Шаниу",
             "Оливье Делабарр",
@@ -19958,10 +19958,10 @@ export const data = [
         "composer": [
             "Кенни Вуд"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "15 июля 2007",
@@ -20001,7 +20001,7 @@ export const data = [
         "director": [
             "Константин Бронзит"
         ],
-        "scenario": [
+        "writer": [
             "Константин Бронзит"
         ],
         "producer": [
@@ -20014,10 +20014,10 @@ export const data = [
         "composer": [
             "Валентин Васенков"
         ],
-        "artist": [
+        "design": [
             "Константин Бронзит"
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "6 сентября 2007",
@@ -20061,7 +20061,7 @@ export const data = [
             "Адам Фолкс",
             "Алан Смит"
         ],
-        "scenario": [
+        "writer": [
             "Алан Смит",
             "Адам Фолкс",
             "Кристофер О’Рейли"
@@ -20078,10 +20078,10 @@ export const data = [
             "Джон Гресуэлл",
             "Кристофер Мерфи Тейлор"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "24 апреля 2008",
@@ -20124,7 +20124,7 @@ export const data = [
         "director": [
             "Кунио Като"
         ],
-        "scenario": [
+        "writer": [
             "Кэнъя Хирата"
         ],
         "producer": [
@@ -20137,10 +20137,10 @@ export const data = [
         "composer": [
             "Кэндзи Кондо"
         ],
-        "artist": [
+        "design": [
             "Кунио Като"
         ],
-        "installation": [
+        "editor": [
             "Хироми Исибаси",
             "Кунио Като"
         ],
@@ -20190,7 +20190,7 @@ export const data = [
         "director": [
             "Даг Свитлэнд"
         ],
-        "scenario": [
+        "writer": [
             "Даг Свитлэнд",
             "Тед Мато",
             "Валери ЛаПойнт",
@@ -20208,10 +20208,10 @@ export const data = [
         "composer": [
             "Скот Блэквелл Стэффорд"
         ],
-        "artist": [
+        "design": [
             "Харли Джессуп"
         ],
-        "installation": [
+        "editor": [
             "Кэтерин Рингголд"
         ],
         "worldPremiere": "10 июня 2008",
@@ -20259,7 +20259,7 @@ export const data = [
         "director": [
             "Никки Фелан"
         ],
-        "scenario": [
+        "writer": [
             "Кэтлин О’Рурк",
             "John Walsh"
         ],
@@ -20272,10 +20272,10 @@ export const data = [
         "composer": [
             "Грегори Маджи"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Алан Моран",
             "Симус О’Тул"
         ],
@@ -20319,7 +20319,7 @@ export const data = [
         "director": [
             "Фабрис Жубер"
         ],
-        "scenario": [
+        "writer": [
             "Фабрис Жубер"
         ],
         "producer": [
@@ -20333,10 +20333,10 @@ export const data = [
         "composer": [
             "Оливье Либотри"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Николас Стретта"
         ],
         "worldPremiere": "30 октября 2008",
@@ -20388,7 +20388,7 @@ export const data = [
         "director": [
             "Ник Парк"
         ],
-        "scenario": [
+        "writer": [
             "Ник Парк",
             "Боб Бэйкер"
         ],
@@ -20404,10 +20404,10 @@ export const data = [
         "composer": [
             "Джулиан Нотт"
         ],
-        "artist": [
+        "design": [
             "Мэтт Перри"
         ],
-        "installation": [
+        "editor": [
             "Дэвид МакКормик"
         ],
         "worldPremiere": "3 декабря 2008",
@@ -20458,7 +20458,7 @@ export const data = [
             "Эрве де Креси",
             "Людовик Уплен"
         ],
-        "scenario": [
+        "writer": [
             "Франсуа Ало",
             "Эрве де Креси",
             "Людовик Уплен",
@@ -20476,13 +20476,13 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             "Франсуа Ало",
             "Квентин Браше",
             "Эрве де Креси",
             "..."
         ],
-        "installation": [
+        "editor": [
             "Стивен Бергер",
             "Самуэль Данеси",
             "Вальтер Морио"
@@ -20533,7 +20533,7 @@ export const data = [
         "director": [
             "Хавьер Ресио Грасия"
         ],
-        "scenario": [
+        "writer": [
             "Хавьер Ресио Грасия"
         ],
         "producer": [
@@ -20548,10 +20548,10 @@ export const data = [
         "composer": [
             "Серхио де ла Пуэнте"
         ],
-        "artist": [
+        "design": [
             "Оскар Х. Варгас"
         ],
-        "installation": [
+        "editor": [
             "Клаудио Эрнандес"
         ],
         "worldPremiere": "19 февраля 2010",
@@ -20599,7 +20599,7 @@ export const data = [
         "director": [
             "Джифви Бодо"
         ],
-        "scenario": [
+        "writer": [
             "Джифви Бодо",
             "Тим Крофурд",
             "Тедди Ньютон"
@@ -20614,10 +20614,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             "Джифви Бодо"
         ],
-        "installation": [
+        "editor": [
             "Торбин Ксан Буллок"
         ],
         "worldPremiere": "5 ноября 2009",
@@ -20670,7 +20670,7 @@ export const data = [
             "Макс Лэнг",
             "Джейкоб Шух"
         ],
-        "scenario": [
+        "writer": [
             "Джулия Дональдсон",
             "Аксель Шеффлер",
             "Джейкоб Шух",
@@ -20689,12 +20689,12 @@ export const data = [
         "composer": [
             "Рене Обри"
         ],
-        "artist": [
+        "design": [
             "Мануэль Аренас",
             "Маттиас Бойэрле",
             "Клаус Моршхюзер"
         ],
-        "installation": [
+        "editor": [
             "Робин Сэйлс"
         ],
         "worldPremiere": "25 декабря 2009",
@@ -20740,7 +20740,7 @@ export const data = [
         "director": [
             "Бастьен Дюбуа"
         ],
-        "scenario": [
+        "writer": [
             "Бастьен Дюбуа"
         ],
         "producer": [
@@ -20753,10 +20753,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Бубкар Бензабат",
             "Бастьен Дюбуа"
         ],
@@ -20810,7 +20810,7 @@ export const data = [
             "Эндрю Руэманн",
             "Шон Тан"
         ],
-        "scenario": [
+        "writer": [
             "Шон Тан"
         ],
         "producer": [
@@ -20822,10 +20822,10 @@ export const data = [
         "composer": [
             "Михаил Езерский"
         ],
-        "artist": [
+        "design": [
             "Шон Тан"
         ],
-        "installation": [
+        "editor": [
             "Лео Бэйкер"
         ],
         "worldPremiere": "3 июня 2010",
@@ -20874,7 +20874,7 @@ export const data = [
         "director": [
             "Тедди Ньютон"
         ],
-        "scenario": [
+        "writer": [
             "Тедди Ньютон",
             "Karen Paik"
         ],
@@ -20889,10 +20889,10 @@ export const data = [
         "composer": [
             "Майкл Джаккино"
         ],
-        "artist": [
+        "design": [
             "Дон Шэнк"
         ],
-        "installation": [
+        "editor": [
             "Грег Снайдер"
         ],
         "worldPremiere": "11 июня 2010",
@@ -20947,7 +20947,7 @@ export const data = [
             "Уильям Джойс",
             "Брэндон Олденбург"
         ],
-        "scenario": [
+        "writer": [
             "Уильям Джойс"
         ],
         "producer": [
@@ -20961,10 +20961,10 @@ export const data = [
         "composer": [
             "Джон Хантер"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Ева Контис"
         ],
         "worldPremiere": "30 января 2011",
@@ -21004,7 +21004,7 @@ export const data = [
         "director": [
             "Патрик Доуон"
         ],
-        "scenario": [
+        "writer": [
             "Патрик Доуон"
         ],
         "producer": [
@@ -21019,10 +21019,10 @@ export const data = [
         "composer": [
             "Луиджи Аллемано"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Елена Попович"
         ],
         "worldPremiere": "13 февраля 2011",
@@ -21071,7 +21071,7 @@ export const data = [
         "director": [
             "Грант Орхард"
         ],
-        "scenario": [
+        "writer": [
             "Грант Орхард",
             "Casper G. Clausen"
         ],
@@ -21087,10 +21087,10 @@ export const data = [
         "composer": [
             "Ник Джилл"
         ],
-        "artist": [
+        "design": [
             "Грант Орхард"
         ],
-        "installation": [
+        "editor": [
             "Ник Джилл"
         ],
         "worldPremiere": "6 мая 2011",
@@ -21134,7 +21134,7 @@ export const data = [
             "Аманда Форбис",
             "Венди Тилби"
         ],
-        "scenario": [
+        "writer": [
             "Аманда Форбис",
             "Венди Тилби"
         ],
@@ -21150,10 +21150,10 @@ export const data = [
         "composer": [
             "Джудит Грубер-Стицер"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Патрик Батлер"
         ],
         "worldPremiere": "1 июня 2011",
@@ -21202,7 +21202,7 @@ export const data = [
         "director": [
             "Энрико Касароса"
         ],
-        "scenario": [
+        "writer": [
             "Энрико Касароса"
         ],
         "producer": [
@@ -21215,10 +21215,10 @@ export const data = [
         "composer": [
             "Майкл Джаккино"
         ],
-        "artist": [
+        "design": [
             "Роберт Кондо"
         ],
-        "installation": [
+        "editor": [
             "Стив Блум"
         ],
         "worldPremiere": "7 июня 2011",
@@ -21263,7 +21263,7 @@ export const data = [
         "director": [
             "ПЕС"
         ],
-        "scenario": [
+        "writer": [
             "ПЕС"
         ],
         "producer": [
@@ -21276,10 +21276,10 @@ export const data = [
         "composer": [
             "—"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "ПЕС"
         ],
         "worldPremiere": "2 марта 2012",
@@ -21287,7 +21287,7 @@ export const data = [
         "ageLimitLine": "",
         "filmLength": "2 мин",
         "description": "Преобразование знакомых нам объектов в свежий гуакамоле.",
-        "video": "https://www.kinopoisk.ru/film/674877/",
+        "video": "https://vkvideo.ru/video140140535_456239592",
         "webUrl": "https://www.kinopoisk.ru/film/674877/"
       },
       {
@@ -21328,7 +21328,7 @@ export const data = [
         "director": [
             "Тимоти Рекарт"
         ],
-        "scenario": [
+        "writer": [
             "Тимоти Рекарт"
         ],
         "producer": [
@@ -21340,11 +21340,11 @@ export const data = [
         "composer": [
             "Джеред Соркин"
         ],
-        "artist": [
+        "design": [
             "Элеонора Кремонезе",
             "Томас Энтони Лоутион"
         ],
-        "installation": [
+        "editor": [
             "Джеймс Тейлор"
         ],
         "worldPremiere": "24 мая 2012",
@@ -21390,7 +21390,7 @@ export const data = [
         "director": [
             "Дэвид Силверман"
         ],
-        "scenario": [
+        "writer": [
             "Джеймс Л. Брукс",
             "Мэтт Грейнинг",
             "Эл Джин",
@@ -21408,10 +21408,10 @@ export const data = [
         "composer": [
             "Ханс Циммер"
         ],
-        "artist": [
+        "design": [
             "Дима Маланичев"
         ],
-        "installation": [
+        "editor": [
             "Роджер Инджарусорн"
         ],
         "worldPremiere": "26 июня 2012",
@@ -21466,7 +21466,7 @@ export const data = [
         "director": [
             "Джон Карс"
         ],
-        "scenario": [
+        "writer": [
             "Клио Чианг",
             "Кенделл Хойер"
         ],
@@ -21480,10 +21480,10 @@ export const data = [
         "composer": [
             "Кристоф Бек"
         ],
-        "artist": [
+        "design": [
             "Джефф Терли"
         ],
-        "installation": [
+        "editor": [
             "Лиза Линдер"
         ],
         "worldPremiere": "29 сентября 2012",
@@ -21526,7 +21526,7 @@ export const data = [
         "director": [
             "Ли Мин-гю"
         ],
-        "scenario": [
+        "writer": [
             "Ли Мин-гю"
         ],
         "producer": [
@@ -21539,10 +21539,10 @@ export const data = [
         "composer": [
             "Джои Ньюман"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "6 ноября 2012",
@@ -21593,7 +21593,7 @@ export const data = [
         "director": [
             "Сюхэй Морита"
         ],
-        "scenario": [
+        "writer": [
             "Сюхэй Морита"
         ],
         "producer": [
@@ -21605,11 +21605,11 @@ export const data = [
         "composer": [
             "Рэидзи Китадзато"
         ],
-        "artist": [
+        "design": [
             "Хидэки Накамура",
             "Даисукэ Садзики"
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "4 июня 2012",
@@ -21653,7 +21653,7 @@ export const data = [
             "Ян Лахойер",
             "Макс Лэнг"
         ],
-        "scenario": [
+        "writer": [
             "Макс Лэнг",
             "Джулия Дональдсон",
             "Аксель Шеффлер"
@@ -21670,10 +21670,10 @@ export const data = [
         "composer": [
             "Рене Обри"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Робин Сэйлс"
         ],
         "worldPremiere": "25 декабря 2012",
@@ -21722,7 +21722,7 @@ export const data = [
         "director": [
             "Дэниэл Суза"
         ],
-        "scenario": [
+        "writer": [
             "Дэниэл Суза"
         ],
         "producer": [
@@ -21735,10 +21735,10 @@ export const data = [
         "composer": [
             "Дэн Голден"
         ],
-        "artist": [
+        "design": [
             ""
         ],
-        "installation": [
+        "editor": [
             "Дэниэл Суза"
         ],
         "worldPremiere": "25 апреля 2013",
@@ -21784,7 +21784,7 @@ export const data = [
         "director": [
             "Лорен Макмаллен"
         ],
-        "scenario": [
+        "writer": [
             "Лорен Макмаллен",
             "Пол Бриггс",
             "Нэнси Крус",
@@ -21801,10 +21801,10 @@ export const data = [
         "composer": [
             "Марк Уоттерс"
         ],
-        "artist": [
+        "design": [
             "Эндрю Эдвард Харкнесс"
         ],
-        "installation": [
+        "editor": [
             "Джули Роджерс"
         ],
         "worldPremiere": "11 июня 2013",
@@ -21857,7 +21857,7 @@ export const data = [
             "Лорен Уитц",
             "Александр Эспигарес"
         ],
-        "scenario": [
+        "writer": [
             "Лорен Уитц"
         ],
         "producer": [
@@ -21869,10 +21869,10 @@ export const data = [
         "composer": [
             "Франсуа Русселот"
         ],
-        "artist": [
+        "design": [
             "Паскаль Тьебо"
         ],
-        "installation": [
+        "editor": [
             ""
         ],
         "worldPremiere": "20 июня 2013",
@@ -21923,7 +21923,7 @@ export const data = [
         "director": [
           "Дэйзи Джейкобс"
         ],
-        "scenario": [
+        "writer": [
           "Дэйзи Джейкобс",
           "Дженнифер Майка"
         ],
@@ -21936,10 +21936,10 @@ export const data = [
         "composer": [
           "Хув Банфорд"
         ],
-        "artist": [
+        "design": [
           "Эло Сооде"
         ],
-        "installation": [
+        "editor": [
           "Vera Simmonds"
         ],
         "worldPremiere": "21 мая 2014",
@@ -21994,7 +21994,7 @@ export const data = [
         "director": [
           "Патрик Осборн"
         ],
-        "scenario": [
+        "writer": [
           "Патрик Осборн",
           "Николь Митчелл",
           "Рэймонд С. Перси"
@@ -22008,10 +22008,10 @@ export const data = [
         "composer": [
           "Алекс Эберт"
         ],
-        "artist": [
+        "design": [
           "Джефф Терли"
         ],
-        "installation": [
+        "editor": [
           "Джефф Дрэхейм"
         ],
         "worldPremiere": "10 июня 2014",
@@ -22057,7 +22057,7 @@ export const data = [
         "director": [
           "Торилл Коув"
         ],
-        "scenario": [
+        "writer": [
           "Торилл Коув"
         ],
         "producer": [
@@ -22070,10 +22070,10 @@ export const data = [
         "composer": [
           "Кевин Дин"
         ],
-        "artist": [
+        "design": [
           "Торилл Коув"
         ],
-        "installation": [
+        "editor": [
           "Элисон Барнс"
         ],
         "worldPremiere": "10 июня 2014",
@@ -22123,7 +22123,7 @@ export const data = [
           "Роберт Кондо",
           "Даисукэ Цуцуми"
         ],
-        "scenario": [
+        "writer": [
           "John Henry Hinkel",
           "Роберт Кондо",
           "Даисукэ Цуцуми"
@@ -22139,8 +22139,8 @@ export const data = [
           "Зак Джонстон",
           "Маттео Робертс"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Брэдли Ферниш"
         ],
         "worldPremiere": "28 июня 2014",
@@ -22191,7 +22191,7 @@ export const data = [
           "Йорис Опринс",
           "Йоб Роггевен"
         ],
-        "scenario": [
+        "writer": [
           "Йоб Роггевен",
           "Йорис Опринс",
           "Марике Блау"
@@ -22205,8 +22205,8 @@ export const data = [
         "composer": [
           "Хэппи Кэмпер"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "21 октября 2014",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -22259,7 +22259,7 @@ export const data = [
         "director": [
           "Габриель Осорио Варгас"
         ],
-        "scenario": [
+        "writer": [
           "Даниэль Кастро",
           "Габриель Осорио Варгас"
         ],
@@ -22273,11 +22273,11 @@ export const data = [
         "composer": [
           "Dënver"
         ],
-        "artist": [
+        "design": [
           "Antonia Herrera Oesterheld",
           "Габриель Осорио Варгас"
         ],
-        "installation": [
+        "editor": [
           "Pato Escala Pierart"
         ],
         "worldPremiere": "8 мая 2014",
@@ -22317,7 +22317,7 @@ export const data = [
         "director": [
           "Константин Бронзит"
         ],
-        "scenario": [
+        "writer": [
           "Константин Бронзит"
         ],
         "producer": [
@@ -22328,10 +22328,10 @@ export const data = [
         "composer": [
           "Валентин Васенков"
         ],
-        "artist": [
+        "design": [
           "Роман Соколов"
         ],
-        "installation": [],
+        "editor": [],
         "worldPremiere": "21 августа 2014",
         "ratingAgeLimits": "6+",
         "ratingMpaa": "",
@@ -22378,7 +22378,7 @@ export const data = [
         "director": [
           "Дон Херцфельд"
         ],
-        "scenario": [
+        "writer": [
           "Дон Херцфельд"
         ],
         "producer": [
@@ -22390,10 +22390,10 @@ export const data = [
         "composer": [
           "-"
         ],
-        "artist": [
+        "design": [
           "Дон Херцфельд"
         ],
-        "installation": [
+        "editor": [
           "Дон Херцфельд"
         ],
         "worldPremiere": "22 января 2015",
@@ -22445,7 +22445,7 @@ export const data = [
         "director": [
           "Санджай Патель"
         ],
-        "scenario": [
+        "writer": [
           "Санджай Патель"
         ],
         "producer": [
@@ -22456,10 +22456,10 @@ export const data = [
         "composer": [
           "Майкл Дэнна"
         ],
-        "artist": [
+        "design": [
           "Chris Sasaki"
         ],
-        "installation": [
+        "editor": [
           "Kevin Rose-Williams"
         ],
         "worldPremiere": "27 сентября 2015",
@@ -22499,7 +22499,7 @@ export const data = [
         "director": [
           "Ричард Уильямс"
         ],
-        "scenario": [
+        "writer": [
           "-"
         ],
         "producer": [
@@ -22509,8 +22509,8 @@ export const data = [
         "composer": [
           "-"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "17 октября 2015",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -22560,7 +22560,7 @@ export const data = [
           "Эндрю Коутс",
           "Lou Hamou-Lhadj"
         ],
-        "scenario": [
+        "writer": [
           "Эндрю Коутс",
           "Lou Hamou-Lhadj",
           "Mark C. Harris",
@@ -22575,11 +22575,11 @@ export const data = [
         "composer": [
           "Густаво Сантаолалья"
         ],
-        "artist": [
+        "design": [
           "Эндрю Коутс",
           "Lou Hamou-Lhadj"
         ],
-        "installation": [
+        "editor": [
           "Кэти Грейвз"
         ],
         "worldPremiere": "31 октября 2015",
@@ -22625,7 +22625,7 @@ export const data = [
         "director": [
           "Теодор Ушев"
         ],
-        "scenario": [
+        "writer": [
           "Теодор Ушев",
           "Georgi Gospodinov"
         ],
@@ -22637,8 +22637,8 @@ export const data = [
         "composer": [
           "-"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "15 февраля 2016",
         "ratingAgeLimits": "",
         "ratingMpaa": "pg-13",
@@ -22679,7 +22679,7 @@ export const data = [
         "director": [
           "Патрик Осборн"
         ],
-        "scenario": [
+        "writer": [
           "—"
         ],
         "producer": [
@@ -22692,10 +22692,10 @@ export const data = [
         "composer": [
           "-"
         ],
-        "artist": [
+        "design": [
           "Туна Бора"
         ],
-        "installation": [
+        "editor": [
           "Стивен Райли"
         ],
         "worldPremiere": "17 апреля 2016",
@@ -22738,7 +22738,7 @@ export const data = [
         "director": [
           "Алан Барилларо"
         ],
-        "scenario": [
+        "writer": [
           "Алан Барилларо"
         ],
         "producer": [
@@ -22753,10 +22753,10 @@ export const data = [
         "composer": [
           "Эдриан Белью"
         ],
-        "artist": [
+        "design": [
           "Джейсон Димер"
         ],
-        "installation": [
+        "editor": [
           "Сара К. Реймерс"
         ],
         "worldPremiere": "16 июня 2016",
@@ -22802,7 +22802,7 @@ export const data = [
         "director": [
           "Роберт Вэлли"
         ],
-        "scenario": [
+        "writer": [
           "Роберт Вэлли"
         ],
         "producer": [
@@ -22814,10 +22814,10 @@ export const data = [
         "composer": [
           "—"
         ],
-        "artist": [
+        "design": [
           "Роберт Вэлли"
         ],
-        "installation": [
+        "editor": [
           "Роберт Вэлли"
         ],
         "worldPremiere": "1 июля 2016",
@@ -22876,7 +22876,7 @@ export const data = [
           "Джейкоб Шух",
           "Bin-Han To"
         ],
-        "scenario": [
+        "writer": [
           "Роальд Даль",
           "Квентин Блейк",
           "Ян Лахойер",
@@ -22892,10 +22892,10 @@ export const data = [
         "composer": [
           "Бен Локет"
         ],
-        "artist": [
+        "design": [
           "Надя Мира"
         ],
-        "installation": [
+        "editor": [
           "Бенжамин Квобек"
         ],
         "worldPremiere": "26 декабря 2016",
@@ -22944,7 +22944,7 @@ export const data = [
           "Виктор Кэр",
           "..."
         ],
-        "scenario": [
+        "writer": [
           "-"
         ],
         "producer": [
@@ -22952,8 +22952,8 @@ export const data = [
         ],
         "operator": [],
         "composer": [],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "28 января 2017",
         "ratingAgeLimits": "",
         "ratingMpaa": "r",
@@ -23000,7 +23000,7 @@ export const data = [
         "director": [
           "Дэйв Маллинз"
         ],
-        "scenario": [
+        "writer": [
           "Дэйв Маллинз"
         ],
         "producer": [
@@ -23015,8 +23015,8 @@ export const data = [
         "composer": [
           "Кристоф Бек"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Энтони Гринберг"
         ],
         "worldPremiere": "12 марта 2017",
@@ -23062,7 +23062,7 @@ export const data = [
         "director": [
           "Глен Кин"
         ],
-        "scenario": [
+        "writer": [
           "Коби Брайант"
         ],
         "producer": [
@@ -23075,10 +23075,10 @@ export const data = [
         "composer": [
           "Джон Уильямс"
         ],
-        "artist": [
+        "design": [
           "Макс Кин"
         ],
-        "installation": [],
+        "editor": [],
         "worldPremiere": "23 апреля 2017",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -23117,7 +23117,7 @@ export const data = [
           "Ру Кувахата",
           "Макс Портер"
         ],
-        "scenario": [
+        "writer": [
           "Макс Портер",
           "Ру Кувахата",
           "Ron Koertge"
@@ -23134,11 +23134,11 @@ export const data = [
         "composer": [
           "Брэм Мейндерсма"
         ],
-        "artist": [
+        "design": [
           "Ру Кувахата",
           "Макс Портер"
         ],
-        "installation": [
+        "editor": [
           "Макс Портер"
         ],
         "worldPremiere": "13 июня 2017",
@@ -23192,7 +23192,7 @@ export const data = [
         "director": [
           "Луиз Багнэлл"
         ],
-        "scenario": [
+        "writer": [
           "Луиз Багнэлл"
         ],
         "producer": [
@@ -23202,8 +23202,8 @@ export const data = [
         "composer": [
           "Colm Mac Con Iomaire"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Алан Слэттери"
         ],
         "worldPremiere": "15 июля 2017",
@@ -23252,7 +23252,7 @@ export const data = [
         "director": [
           "Тревор Хименес"
         ],
-        "scenario": [
+        "writer": [
           "Тревор Хименес"
         ],
         "producer": [
@@ -23263,10 +23263,10 @@ export const data = [
         "composer": [
           "Эндрю Вернон"
         ],
-        "artist": [
+        "design": [
           "Chris Sasaki"
         ],
-        "installation": [
+        "editor": [
           "Тревор Хименес"
         ],
         "worldPremiere": "18 октября 2017",
@@ -23315,7 +23315,7 @@ export const data = [
         "director": [
           "Доми Ши"
         ],
-        "scenario": [
+        "writer": [
           "Доми Ши"
         ],
         "producer": [
@@ -23330,11 +23330,11 @@ export const data = [
         "composer": [
           "Тоби Чу"
         ],
-        "artist": [
+        "design": [
           "Рона Лю",
           "Дон Шэнк"
         ],
-        "installation": [
+        "editor": [
           "Кэтерин Рингголд"
         ],
         "worldPremiere": "21 апреля 2018",
@@ -23381,7 +23381,7 @@ export const data = [
           "Дэвид Файн",
           "Элисон Сноуден"
         ],
-        "scenario": [
+        "writer": [
           "Элисон Сноуден",
           "Дэвид Файн"
         ],
@@ -23392,8 +23392,8 @@ export const data = [
         "composer": [
           "Джудит Грубер-Стицер"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "11 июня 2018",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -23444,7 +23444,7 @@ export const data = [
           "Эндрю Чесворт",
           "Бобби Понтильяс"
         ],
-        "scenario": [
+        "writer": [
           "Бобби Понтильяс",
           "Трент Корри",
           "Чжан Шаофу",
@@ -23460,10 +23460,10 @@ export const data = [
         "composer": [
           "Стив Хорнер"
         ],
-        "artist": [
+        "design": [
           "Бобби Понтильяс"
         ],
-        "installation": [
+        "editor": [
           "Эндрю Чесворт",
           "Чжан Шаофу"
         ],
@@ -23515,7 +23515,7 @@ export const data = [
         "director": [
           "Росана Салливан"
         ],
-        "scenario": [
+        "writer": [
           "Росана Салливан"
         ],
         "producer": [
@@ -23529,10 +23529,10 @@ export const data = [
         "composer": [
           "Эндрю Хименез"
         ],
-        "artist": [
+        "design": [
           "Тим Эватт"
         ],
-        "installation": [
+        "editor": [
           "Кэти Шефер"
         ],
         "worldPremiere": "18 февраля 2019",
@@ -23578,7 +23578,7 @@ export const data = [
         "director": [
           "Брюно Колле"
         ],
-        "scenario": [
+        "writer": [
           "Брюно Колле"
         ],
         "producer": [
@@ -23590,8 +23590,8 @@ export const data = [
         "composer": [
           "Николас Мартин"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Жан-Мари Ле Рест"
         ],
         "worldPremiere": "11 июня 2019",
@@ -23631,7 +23631,7 @@ export const data = [
         "director": [
           "Сун Сыцы"
         ],
-        "scenario": [
+        "writer": [
           "Сун Сыцы"
         ],
         "producer": [
@@ -23643,10 +23643,10 @@ export const data = [
         "composer": [
           "Карен Танака"
         ],
-        "artist": [
+        "design": [
           "Сун Сыцы"
         ],
-        "installation": [
+        "editor": [
           "Сун Сыцы"
         ],
         "worldPremiere": "15 июня 2018",
@@ -23695,7 +23695,7 @@ export const data = [
         "director": [
           "Дарья Кащеева"
         ],
-        "scenario": [
+        "writer": [
           "Дарья Кащеева"
         ],
         "producer": [
@@ -23709,8 +23709,8 @@ export const data = [
         "composer": [
           "Петр Врба"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Александр Кащеев"
         ],
         "worldPremiere": "9 августа 2019",
@@ -23761,7 +23761,7 @@ export const data = [
           "Эверетт Доунинг мл.",
           "Брюс В. Смит"
         ],
-        "scenario": [
+        "writer": [
           "Мэттью Черри"
         ],
         "producer": [
@@ -23775,8 +23775,8 @@ export const data = [
           "Дэниэл Д. Кроуфорд",
           "Пол Монси"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Ник Манц",
           "Илья Оуэнс",
           "К. Брайс Рэндл"
@@ -23826,7 +23826,7 @@ export const data = [
           "director": [
             "Адриен Мериго"
           ],
-          "scenario": [
+          "writer": [
             "Адриен Мериго",
             "Николя Плескоф"
           ],
@@ -23841,8 +23841,8 @@ export const data = [
             "Тео Мериго",
             "Ле Квон Нинх"
           ],
-          "artist": [],
-          "installation": [],
+          "design": [],
+          "editor": [],
           "worldPremiere": "19 января 2020",
           "ratingAgeLimits": "",
           "ratingMpaa": "",
@@ -23884,7 +23884,7 @@ export const data = [
             "Майкл Говье",
             "Уилл МакКормак"
           ],
-          "scenario": [
+          "writer": [
             "Уилл МакКормак",
             "Майкл Говье"
           ],
@@ -23898,8 +23898,8 @@ export const data = [
           "composer": [
             "Линдсэй Маркус"
           ],
-          "artist": [],
-          "installation": [
+          "design": [],
+          "editor": [
             "Питер Эттинджер"
           ],
           "worldPremiere": "7 марта 2020",
@@ -23945,7 +23945,7 @@ export const data = [
           "director": [
             "Гизли Дарри Халльдорссон"
           ],
-          "scenario": [
+          "writer": [
             "Гизли Дарри Халльдорссон"
           ],
           "producer": [
@@ -23954,8 +23954,8 @@ export const data = [
           ],
           "operator": [],
           "composer": [],
-          "artist": [],
-          "installation": [],
+          "design": [],
+          "editor": [],
           "worldPremiere": "15 июня 2020",
           "ratingAgeLimits": "",
           "ratingMpaa": "",
@@ -23996,7 +23996,7 @@ export const data = [
           "director": [
             "Эрик О"
           ],
-          "scenario": [],
+          "writer": [],
           "producer": [
             "Sara K. Sampson"
           ],
@@ -24004,10 +24004,10 @@ export const data = [
           "composer": [
             "Эндрю Вернон"
           ],
-          "artist": [
+          "design": [
             "Qian Celine You"
           ],
-          "installation": [],
+          "editor": [],
           "worldPremiere": "23 сентября 2020",
           "ratingAgeLimits": "",
           "ratingMpaa": "",
@@ -24054,7 +24054,7 @@ export const data = [
           "director": [
             "Мадлен Шарафьян"
           ],
-          "scenario": [
+          "writer": [
             "Мадлен Шарафьян"
           ],
           "producer": [
@@ -24069,8 +24069,8 @@ export const data = [
           "composer": [
             "Дэвид Лэлли"
           ],
-          "artist": [],
-          "installation": [
+          "design": [],
+          "editor": [
             "Anna Wolitzky"
           ],
           "worldPremiere": "25 декабря 2020",
@@ -24124,7 +24124,7 @@ export const data = [
         "director": [
           "Джоанна Куинн"
         ],
-        "scenario": [
+        "writer": [
           "Лес Миллс"
         ],
         "producer": [
@@ -24135,8 +24135,8 @@ export const data = [
         "composer": [
           "Бенжамин Тэлботт"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Mia Rose Goddard"
         ],
         "worldPremiere": "29 января 2021",
@@ -24176,7 +24176,7 @@ export const data = [
         "director": [
           "Антон Дьяков"
         ],
-        "scenario": [
+        "writer": [
           "Антон Дьяков",
           "Андрей Васильев"
         ],
@@ -24186,8 +24186,8 @@ export const data = [
         ],
         "operator": [],
         "composer": [],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "14 июня 2021",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -24234,7 +24234,7 @@ export const data = [
         "director": [
           "Уго Коваррубьяс"
         ],
-        "scenario": [
+        "writer": [
           "Уго Коваррубьяс",
           "Martín Erazo"
         ],
@@ -24248,10 +24248,10 @@ export const data = [
         "composer": [
           "Анхела Акуна"
         ],
-        "artist": [
+        "design": [
           "Cecilia Toro"
         ],
-        "installation": [
+        "editor": [
           "Уго Коваррубьяс"
         ],
         "worldPremiere": "14 июня 2021",
@@ -24300,7 +24300,7 @@ export const data = [
         "director": [
           "Альберто Мьельго"
         ],
-        "scenario": [
+        "writer": [
           "Альберто Мьельго"
         ],
         "producer": [
@@ -24311,8 +24311,8 @@ export const data = [
         ],
         "operator": [],
         "composer": [],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Альберто Мьельго"
         ],
         "worldPremiere": "13 июля 2021",
@@ -24365,7 +24365,7 @@ export const data = [
           "Дэн Оджари",
           "Майкл Плиз"
         ],
-        "scenario": [
+        "writer": [
           "Дэн Оджари",
           "Майкл Плиз",
           "Сэм Моррисон"
@@ -24383,12 +24383,12 @@ export const data = [
           "Бенедикт Плиз",
           "Бет Портер"
         ],
-        "artist": [
+        "design": [
           "Matt Forsythe",
           "Ричард Эдмундс",
           "Саймон Фаррелл"
         ],
-        "installation": [
+        "editor": [
           "Крис Морелл"
         ],
         "worldPremiere": "9 октября 2021",
@@ -24442,7 +24442,7 @@ export const data = [
         "director": [
           "Сара Гуннарсдоуттир"
         ],
-        "scenario": [
+        "writer": [
           "Памела Рибон"
         ],
         "producer": [
@@ -24456,8 +24456,8 @@ export const data = [
         "composer": [
           "Адам Блау"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Сара Гуннарсдоуттир"
         ],
         "worldPremiere": "13 марта 2022",
@@ -24509,7 +24509,7 @@ export const data = [
         "director": [
           "Жоау Гонсалес"
         ],
-        "scenario": [
+        "writer": [
           "Жоау Гонсалес"
         ],
         "producer": [
@@ -24522,10 +24522,10 @@ export const data = [
         "composer": [
           "Жоау Гонсалес"
         ],
-        "artist": [
+        "design": [
           "Жоау Гонсалес"
         ],
-        "installation": [
+        "editor": [
           "Жоау Гонсалес"
         ],
         "worldPremiere": "24 мая 2022",
@@ -24571,7 +24571,7 @@ export const data = [
         "director": [
           "Лахлан Пендрагон"
         ],
-        "scenario": [
+        "writer": [
           "Лахлан Пендрагон"
         ],
         "producer": [
@@ -24581,8 +24581,8 @@ export const data = [
         "composer": [
           "Envato Market"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "7 июня 2022",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -24621,7 +24621,7 @@ export const data = [
           "Аманда Форбис",
           "Венди Тилби"
         ],
-        "scenario": [
+        "writer": [
           "Аманда Форбис",
           "Венди Тилби"
         ],
@@ -24632,8 +24632,8 @@ export const data = [
         "composer": [
           "Луиджи Аллемано"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "13 июня 2022",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -24681,7 +24681,7 @@ export const data = [
           "Питер Бэйнтон",
           "Чарли Маккизи"
         ],
-        "scenario": [
+        "writer": [
           "Джон Крокер",
           "Чарли Маккизи"
         ],
@@ -24695,10 +24695,10 @@ export const data = [
         "composer": [
           "Изобель Уоллер-Бридж"
         ],
-        "artist": [
+        "design": [
           "Майк Маккэйн"
         ],
-        "installation": [
+        "editor": [
           "Дэниэл Бадин"
         ],
         "worldPremiere": "23 сентября 2022",
@@ -24743,7 +24743,7 @@ export const data = [
         "director": [
           "Stéphanie Clément"
         ],
-        "scenario": [
+        "writer": [
           "Marc Rius"
         ],
         "producer": [
@@ -24754,8 +24754,8 @@ export const data = [
         "composer": [
           "Оливье Милитон"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "24 апреля 2022",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -24796,7 +24796,7 @@ export const data = [
         "director": [
           "Tal Kantor"
         ],
-        "scenario": [
+        "writer": [
           "Tal Kantor"
         ],
         "producer": [
@@ -24810,8 +24810,8 @@ export const data = [
         "composer": [
           "Пьер Оберкампф"
         ],
-        "artist": [],
-        "installation": [
+        "design": [],
+        "editor": [
           "Efrat Berger"
         ],
         "worldPremiere": "28 апреля 2022",
@@ -24855,7 +24855,7 @@ export const data = [
           "Джаред Хесс",
           "Джеруша Хесс"
         ],
-        "scenario": [
+        "writer": [
           "Крис Боуман",
           "Хаббел Палмер"
         ],
@@ -24869,8 +24869,8 @@ export const data = [
         "composer": [
           "John Hancock"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "13 августа 2022",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -24908,7 +24908,7 @@ export const data = [
         "director": [
           "Yegane Moghaddam"
         ],
-        "scenario": [],
+        "writer": [],
         "producer": [
           "Jalil Moghaddam"
         ],
@@ -24917,8 +24917,8 @@ export const data = [
           "Maryanne Tedstone",
           "Michael Tedstone"
         ],
-        "artist": [],
-        "installation": [],
+        "design": [],
+        "editor": [],
         "worldPremiere": "6 мая 2023",
         "ratingAgeLimits": "",
         "ratingMpaa": "",
@@ -24959,7 +24959,7 @@ export const data = [
         "director": [
           "Дэйв Маллинз"
         ],
-        "scenario": [
+        "writer": [
           "Дэйв Маллинз",
           "Шон Леннон"
         ],
@@ -24976,10 +24976,10 @@ export const data = [
         "composer": [
           "Томас Ньюман"
         ],
-        "artist": [
+        "design": [
           "Zac Retz"
         ],
-        "installation": [
+        "editor": [
           "Джон К. Карр"
         ],
         "worldPremiere": "21 сентября 2023",
